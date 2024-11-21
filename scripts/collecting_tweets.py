@@ -6,16 +6,46 @@ import os
 import gzip
 import glob
 import json
+import random
 
 
 """
 Scrapes and saves tweets for a given list of keywords.
 """
+
+def get_topics(n):
+    """
+    Generates a list of social movement topics.
+
+    Argument(s):
+    - n: Integer specifying the number of topics to include in the returned list.
+
+    Output:
+    Returns a list of social movements of length n.
+    """
+    if n > 100:
+        return "The requested number of topics exceeds the available list. Please choose a smaller value for n."
+
+    with open('../social_movements.txt', 'r') as f:
+        topics = f.readlines()
+        # Strip whitespace and remove empty lines
+        topics = [topic.strip() for topic in topics if topic.strip()]
+        # Randomly select n topics
+        selected_topics = random.sample(topics, n)
+    
+    return selected_topics
+
 def tweet_count(input_file):
     """
     Returns the current number of tweets stored in a given scraped tweets file.
+
+    Argument(s):
+    - input_file: String representing scraped tweets file stored in scraped_tweets directory.
+
+    Output:
+    Returns an integer representing the current numbers of tweets in the given scraped tweets file. 
     """
-    with gzip.open(os.path.join("scraped_tweets",input_file), "r") as f:        
+    with gzip.open(os.path.join("../scraped_tweets",input_file), "r") as f:        
         line_count = sum(1 for line in f)
         return line_count
 
@@ -90,7 +120,7 @@ def scrape_tweets(jsonl_tweets_folder, keywords, max_tweets, total_tweets_to_scr
     of main()
 
     Output:
-    Adds one SERP json gzip file to the tweet file directory for each keyword. 
+    Adds one temporary SERP json gzip file to the tweet file directory for each keyword. 
     """
     # Open twitter and prompt login
     playwright = sync_playwright().start()
@@ -105,7 +135,7 @@ def scrape_tweets(jsonl_tweets_folder, keywords, max_tweets, total_tweets_to_scr
     for i, topic in enumerate(keywords):
         if tweets_per_topic <= max_tweets:
             tweets = get_search_tweets(browser_dets, topic, max_tweets=tweets_per_topic)
-            # Name and store data in json file 
+            # Name and store data in json file
             jsonl_data_path = os.path.join(jsonl_tweets_folder, 'twitter_serp' + str(i+1) + '_1.json.gz')    
             write_tweets_to_jsonl_file(jsonl_data_path, tweets['tweets'])
         else:
@@ -118,27 +148,22 @@ def scrape_tweets(jsonl_tweets_folder, keywords, max_tweets, total_tweets_to_scr
     playwright.stop()
 
 
-def main(keywords, max_tweets=100, total_tweets_to_scrape=500):
+def collect_tweets(keywords, total_tweets_to_scrape=500):
     """
-    The function will scrape a subset of tweets for each keyword and saves those to a temporary json gzip file. 
-    After we have one SERP file for each keyword, the files are combined into one and saved in the directory of 
-    existing tweet files with the proper file name.
+    The function will scrape tweets related to the given keywords.
 
     Argument(s):
     - keywords: List of strings representing keywords to be scraped
-    - max_tweets: Integer representing the maximum number of tweets to be collected 
-    during one iteration of get_search_tweets()
-    - total_tweets_to_scrape: Integer representing the total number of tweets to collect after one iteration
-    of main()
+    - total_tweets_to_scrape: Integer representing the total number of tweets to collect
 
     Output:
-    Adds one json gzip file to the directory of existing tweet files. This file holds all tweets scraped for one 
+    Adds one json gzip file to the scraped_tweets directory. This file holds all tweets scraped for one 
     iteration of tweet collection. 
     """
     # Initialize a directory to store scraped tweets
-    jsonl_tweets_folder = "scraped_tweets"
+    jsonl_tweets_folder = "../scraped_tweets"
     # Collect tweets
-    scrape_tweets(jsonl_tweets_folder, keywords, max_tweets, total_tweets_to_scrape)
+    scrape_tweets(jsonl_tweets_folder, keywords, max_tweets=100, total_tweets_to_scrape=total_tweets_to_scrape)
 
     # Fetch the next file number to prevent overwriting files
     next_file_number = get_next_file_number(jsonl_tweets_folder)
@@ -150,13 +175,12 @@ def main(keywords, max_tweets=100, total_tweets_to_scrape=500):
     current_scraped_count = tweet_count(f'scraped_tweets{next_file_number}.json.gz')
     while current_scraped_count < total_tweets_to_scrape:
         # Scrape more tweets
-        scrape_tweets(jsonl_tweets_folder, keywords, 10, 50)
+        scrape_tweets(jsonl_tweets_folder, keywords, max_tweets=10, total_tweets_to_scrape=50)
         combine_files(jsonl_tweets_folder, f'scraped_tweets{next_file_number}.json.gz', new=False)
         # Recount number of scraped tweets
         current_scraped_count = tweet_count(f'scraped_tweets{next_file_number}.json.gz')
 
 if __name__ == "__main__":
-    # keywords = list(input("What keywords would you like to use for tweet collection? (Ex. a, b, c, d, e): \n").split(', '))
-    # Social justice, Climate Change, #MeToo, #BlackLivesMatter, US Immigrant Rights
-    keywords = list('Social justice, Climate Change, #MeToo, #BlackLivesMatter, US Immigrant Rights'.split(', '))
-    main(keywords, max_tweets=100, total_tweets_to_scrape=200)
+    # keywords = get_topics(5)
+    # collect_tweets(keywords, total_tweets_to_scrape=100)
+    pass

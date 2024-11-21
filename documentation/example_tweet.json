@@ -1,0 +1,128 @@
+{
+  "__typename": "Tweet",
+  "in_reply_to_screen_name": "squooshyboi",
+  "in_reply_to_status_id_str": "1855645208593211726",
+  "in_reply_to_user_id_str": "1156201530405601281",
+  "lang": "en",
+  "favorite_count": 14,
+  "created_at": "2024-11-11T00:39:38.000Z",
+  "display_text_range": [
+    27,
+    265
+  ],
+  "entities": {
+    "hashtags": [
+      
+    ],
+    "urls": [
+      
+    ],
+    "user_mentions": [
+      {
+        "id_str": "1156201530405601281",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Stolas' juicy cloaca era",
+        "screen_name": "squooshyboi"
+      },
+      {
+        "id_str": "1405013237406617601",
+        "indices": [
+          13,
+          26
+        ],
+        "name": "kirby a bolinha",
+        "screen_name": "BolinhaKirby"
+      }
+    ],
+    "symbols": [
+      
+    ]
+  },
+  "id_str": "1855772336944767484",
+  "text": "@squooshyboi @BolinhaKirby There was rape scenes then techno dancing while trying to make it give awareness to men’s sexual assault even tho multiple people who worked on the show that vivie follow are proud rape enjoyers one even draws nsfw of Val and Angel noncon",
+  "user": {
+    "id_str": "1693444107576741888",
+    "name": "00LemonBoy00 🏳️‍⚧️🇵🇸",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1830727900481331205/ZNlwTBqe_normal.jpg",
+    "screen_name": "00LemonBoy",
+    "verified": false,
+    "is_blue_verified": false,
+    "profile_image_shape": "Circle"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "1855772336944767484"
+    ],
+    "editable_until_msecs": "1731289178000",
+    "is_edit_eligible": false,
+    "edits_remaining": "5"
+  },
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "parent": {
+    "in_reply_to_screen_name": "BolinhaKirby",
+    "in_reply_to_status_id_str": "1855458483400749514",
+    "in_reply_to_user_id_str": "1405013237406617601",
+    "lang": "en",
+    "reply_count": 7,
+    "retweet_count": 1,
+    "favorite_count": 33,
+    "created_at": "2024-11-10T16:14:28.000Z",
+    "display_text_range": [
+      14,
+      53
+    ],
+    "entities": {
+      "hashtags": [
+        
+      ],
+      "urls": [
+        
+      ],
+      "user_mentions": [
+        {
+          "id_str": "1405013237406617601",
+          "indices": [
+            0,
+            13
+          ],
+          "name": "kirby a bolinha",
+          "screen_name": "BolinhaKirby"
+        }
+      ],
+      "symbols": [
+        
+      ]
+    },
+    "id_str": "1855645208593211726",
+    "text": "@BolinhaKirby Wasn't fetishising rape but go off lmao",
+    "user": {
+      "id_str": "1156201530405601281",
+      "name": "Stolas' juicy cloaca era",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1798425916885938176/dHAEKLPE_normal.jpg",
+      "screen_name": "squooshyboi",
+      "verified": false,
+      "is_blue_verified": false,
+      "profile_image_shape": "Circle"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1855645208593211726"
+      ],
+      "editable_until_msecs": "1731258868000",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "notes": {
+    "timeline_screen_name": "",
+    "is_retweet": false
+  }
+}
