@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://infoscience.epfl.ch/entities/publication/e61b898e-e745-455d-808d-86d3cb1b6855",
+  "self": "http://localhost:1208/timemap/json/https://infoscience.epfl.ch/entities/publication/e61b898e-e745-455d-808d-86d3cb1b6855",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-19T21:46:21Z",
+        "uri": "https://web.archive.org/web/20241119214621/https://infoscience.epfl.ch/entities/publication/e61b898e-e745-455d-808d-86d3cb1b6855"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-19T21:46:21Z",
+      "uri": "https://web.archive.org/web/20241119214621/https://infoscience.epfl.ch/entities/publication/e61b898e-e745-455d-808d-86d3cb1b6855"
+    },
+    "last": {
+      "datetime": "2024-11-19T21:46:21Z",
+      "uri": "https://web.archive.org/web/20241119214621/https://infoscience.epfl.ch/entities/publication/e61b898e-e745-455d-808d-86d3cb1b6855"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://infoscience.epfl.ch/entities/publication/e61b898e-e745-455d-808d-86d3cb1b6855",
+    "json_format": "http://localhost:1208/timemap/json/https://infoscience.epfl.ch/entities/publication/e61b898e-e745-455d-808d-86d3cb1b6855",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://infoscience.epfl.ch/entities/publication/e61b898e-e745-455d-808d-86d3cb1b6855"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://infoscience.epfl.ch/entities/publication/e61b898e-e745-455d-808d-86d3cb1b6855"
+}

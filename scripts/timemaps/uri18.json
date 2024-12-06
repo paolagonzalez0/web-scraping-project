@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://trinitynews.ie/2024/03/trinity-launches-women-in-sport-campaign/",
+  "self": "http://localhost:1208/timemap/json/https://trinitynews.ie/2024/03/trinity-launches-women-in-sport-campaign/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-04-16T18:09:28Z",
+        "uri": "https://web.archive.org/web/20240416180928/https://trinitynews.ie/2024/03/trinity-launches-women-in-sport-campaign/"
+      },
+      {
+        "datetime": "2024-04-22T06:13:39Z",
+        "uri": "https://web.archive.org/web/20240422061339/https://trinitynews.ie/2024/03/trinity-launches-women-in-sport-campaign/"
+      },
+      {
+        "datetime": "2024-05-22T13:30:32Z",
+        "uri": "https://web.archive.org/web/20240522133032/https://trinitynews.ie/2024/03/trinity-launches-women-in-sport-campaign/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-04-16T18:09:28Z",
+      "uri": "https://web.archive.org/web/20240416180928/https://trinitynews.ie/2024/03/trinity-launches-women-in-sport-campaign/"
+    },
+    "last": {
+      "datetime": "2024-05-22T13:30:32Z",
+      "uri": "https://web.archive.org/web/20240522133032/https://trinitynews.ie/2024/03/trinity-launches-women-in-sport-campaign/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://trinitynews.ie/2024/03/trinity-launches-women-in-sport-campaign/",
+    "json_format": "http://localhost:1208/timemap/json/https://trinitynews.ie/2024/03/trinity-launches-women-in-sport-campaign/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://trinitynews.ie/2024/03/trinity-launches-women-in-sport-campaign/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://trinitynews.ie/2024/03/trinity-launches-women-in-sport-campaign/"
+}

@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.wildernesscommittee.org/Malahat",
+  "self": "http://localhost:1208/timemap/json/https://www.wildernesscommittee.org/Malahat",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-21T01:34:41Z",
+        "uri": "https://web.archive.org/web/20241121013441/https://www.wildernesscommittee.org/Malahat"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-21T01:34:41Z",
+      "uri": "https://web.archive.org/web/20241121013441/https://www.wildernesscommittee.org/Malahat"
+    },
+    "last": {
+      "datetime": "2024-11-21T01:34:41Z",
+      "uri": "https://web.archive.org/web/20241121013441/https://www.wildernesscommittee.org/Malahat"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.wildernesscommittee.org/Malahat",
+    "json_format": "http://localhost:1208/timemap/json/https://www.wildernesscommittee.org/Malahat",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.wildernesscommittee.org/Malahat"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.wildernesscommittee.org/Malahat"
+}

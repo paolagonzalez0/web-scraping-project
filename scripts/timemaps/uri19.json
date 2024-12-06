@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://witnessradio.org/download/reports/FORCED-LAND-EVICTIONS-IN-UGANDA-TRENDS-RIGHTS-OF-DEFENDERS-IMPACT-AND-CALL-FOR-ACTION",
+  "self": "http://localhost:1208/timemap/json/https://witnessradio.org/download/reports/FORCED-LAND-EVICTIONS-IN-UGANDA-TRENDS-RIGHTS-OF-DEFENDERS-IMPACT-AND-CALL-FOR-ACTION",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-20T08:38:49Z",
+        "uri": "https://web.archive.org/web/20241120083849/https://witnessradio.org/download/reports/FORCED-LAND-EVICTIONS-IN-UGANDA-TRENDS-RIGHTS-OF-DEFENDERS-IMPACT-AND-CALL-FOR-ACTION"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-20T08:38:49Z",
+      "uri": "https://web.archive.org/web/20241120083849/https://witnessradio.org/download/reports/FORCED-LAND-EVICTIONS-IN-UGANDA-TRENDS-RIGHTS-OF-DEFENDERS-IMPACT-AND-CALL-FOR-ACTION"
+    },
+    "last": {
+      "datetime": "2024-11-20T08:38:49Z",
+      "uri": "https://web.archive.org/web/20241120083849/https://witnessradio.org/download/reports/FORCED-LAND-EVICTIONS-IN-UGANDA-TRENDS-RIGHTS-OF-DEFENDERS-IMPACT-AND-CALL-FOR-ACTION"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://witnessradio.org/download/reports/FORCED-LAND-EVICTIONS-IN-UGANDA-TRENDS-RIGHTS-OF-DEFENDERS-IMPACT-AND-CALL-FOR-ACTION",
+    "json_format": "http://localhost:1208/timemap/json/https://witnessradio.org/download/reports/FORCED-LAND-EVICTIONS-IN-UGANDA-TRENDS-RIGHTS-OF-DEFENDERS-IMPACT-AND-CALL-FOR-ACTION",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://witnessradio.org/download/reports/FORCED-LAND-EVICTIONS-IN-UGANDA-TRENDS-RIGHTS-OF-DEFENDERS-IMPACT-AND-CALL-FOR-ACTION"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://witnessradio.org/download/reports/FORCED-LAND-EVICTIONS-IN-UGANDA-TRENDS-RIGHTS-OF-DEFENDERS-IMPACT-AND-CALL-FOR-ACTION"
+}

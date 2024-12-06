@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.optimistdaily.com/2021/12/meet-the-sioux-chef-whos-putting-native-american-foods-on-the-menu/",
+  "self": "http://localhost:1208/timemap/json/https://www.optimistdaily.com/2021/12/meet-the-sioux-chef-whos-putting-native-american-foods-on-the-menu/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-12-30T08:11:29Z",
+        "uri": "https://web.archive.org/web/20211230081129/https://www.optimistdaily.com/2021/12/meet-the-sioux-chef-whos-putting-native-american-foods-on-the-menu/"
+      },
+      {
+        "datetime": "2021-12-30T12:50:43Z",
+        "uri": "https://web.archive.org/web/20211230125043/https://www.optimistdaily.com/2021/12/meet-the-sioux-chef-whos-putting-native-american-foods-on-the-menu/"
+      },
+      {
+        "datetime": "2022-01-21T15:15:18Z",
+        "uri": "https://web.archive.org/web/20220121151518/https://www.optimistdaily.com/2021/12/meet-the-sioux-chef-whos-putting-native-american-foods-on-the-menu/"
+      },
+      {
+        "datetime": "2022-09-25T07:46:27Z",
+        "uri": "https://web.archive.org/web/20220925074627/https://www.optimistdaily.com/2021/12/meet-the-sioux-chef-whos-putting-native-american-foods-on-the-menu/"
+      },
+      {
+        "datetime": "2022-10-19T23:31:35Z",
+        "uri": "https://web.archive.org/web/20221019233135/https://www.optimistdaily.com/2021/12/meet-the-sioux-chef-whos-putting-native-american-foods-on-the-menu/"
+      },
+      {
+        "datetime": "2023-02-09T02:26:32Z",
+        "uri": "https://web.archive.org/web/20230209022632/https://www.optimistdaily.com/2021/12/meet-the-sioux-chef-whos-putting-native-american-foods-on-the-menu/"
+      },
+      {
+        "datetime": "2023-09-12T08:30:32Z",
+        "uri": "https://web.archive.org/web/20230912083032/https://www.optimistdaily.com/2021/12/meet-the-sioux-chef-whos-putting-native-american-foods-on-the-menu/"
+      },
+      {
+        "datetime": "2023-09-13T03:15:48Z",
+        "uri": "https://web.archive.org/web/20230913031548/https://www.optimistdaily.com/2021/12/meet-the-sioux-chef-whos-putting-native-american-foods-on-the-menu/"
+      },
+      {
+        "datetime": "2024-04-24T08:56:23Z",
+        "uri": "https://web.archive.org/web/20240424085623/https://www.optimistdaily.com/2021/12/meet-the-sioux-chef-whos-putting-native-american-foods-on-the-menu/"
+      }
+    ],
+    "first": {
+      "datetime": "2021-12-30T08:11:29Z",
+      "uri": "https://web.archive.org/web/20211230081129/https://www.optimistdaily.com/2021/12/meet-the-sioux-chef-whos-putting-native-american-foods-on-the-menu/"
+    },
+    "last": {
+      "datetime": "2024-04-24T08:56:23Z",
+      "uri": "https://web.archive.org/web/20240424085623/https://www.optimistdaily.com/2021/12/meet-the-sioux-chef-whos-putting-native-american-foods-on-the-menu/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.optimistdaily.com/2021/12/meet-the-sioux-chef-whos-putting-native-american-foods-on-the-menu/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.optimistdaily.com/2021/12/meet-the-sioux-chef-whos-putting-native-american-foods-on-the-menu/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.optimistdaily.com/2021/12/meet-the-sioux-chef-whos-putting-native-american-foods-on-the-menu/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.optimistdaily.com/2021/12/meet-the-sioux-chef-whos-putting-native-american-foods-on-the-menu/"
+}

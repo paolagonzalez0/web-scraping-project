@@ -5,12 +5,6 @@ The project writeup can be found [here](documentation/documentation.pdf).
 ### Project Description
 This project focuses on the collection and analysis of web-linked resources (URIs) shared through tweets, specifically around social movements. By scraping tweets that discuss key topics related to movements such as climate change, racial justice, and gender equality, this project aims to examine how well the linked content (often news articles, studies, or other online resources) is preserved over time. The study specifically tracks how these web resources are archived using web mementos (time snapshots), assessing the availability and longevity of these crucial records in the digital archive.
 
-### Background
-Social movements often generate significant discourse and media coverage on social platforms like Twitter. With the rapid evolution of technology and the speed at which digital content is created, much of the information shared online can easily be lost, altered, or forgotten over time. The preservation of this information is critical not only for historical analysis but also for legal and social purposes. As technology advances, there is a growing need for the systematic archiving of web content to ensure that digital heritage is maintained. Organizations, including governmental bodies, educational institutions, and private entities, have growing obligations to ensure that their digital records are kept accessible for future generations, for use in research, policy-making, and legal contexts.
-
-### Motivation
-The motivation behind this project lies in the increasing importance of digital preservation for societal understanding. With the vast amount of data being generated, it is crucial to assess how effectively online content is preserved for future reference. By analyzing the longevity of linked content within tweets related to social movements, this project seeks to understand how well past online discussions are retained. The potential loss of archived web materials could lead to gaps in understanding social change, political shifts, and technological impacts on society. In particular, archived web materials serve essential functions in areas such as historical research, legal proceedings, and cultural preservation. This project aims to contribute to the broader effort to safeguard our digital history and ensure that pivotal social discussions remain accessible in the future.
-
 ### Project Summary and Objectives
 
 This project is structured into four key phases:
@@ -19,3 +13,52 @@ This project is structured into four key phases:
 2. URI Extraction: Identify and extract URIs embedded within the collected tweets.
 3. Timemap Retrieval: Use MemGator to obtain timemaps (lists of mementos) for each extracted URI.
 4. Memento Analysis: Analyze the mementos to uncover patterns in the preservation of digital resources associated with social movements.
+
+### Prerequisites
+
+Prior to execution, ensure the following prerequisites are fulfilled for the program
+to function correctly.
+
+1. Clone the repository
+
+- Navigate to your desired local directory and execute the following command in
+your terminal.
+- `git clone https://github.com/paolagonzalez0/web-scraping-project.git`
+2. Create a Twitter account
+
+- To complete tweet collection, a Twitter account is needed. To set up an account, follow the instructions provided [here](https://help.x.com/en/using-x/create-x-account). 
+
+- Note: To avoid any disruptions, do not use your personal account or an account you can’t afford to lose. There’s a possibility that the account might be flagged or suspended for suspicious activity
+during the scraping process. Consider creating a dedicated account specifically
+for this project.
+
+3. Download Docker Desktop
+
+- Download and install Docker Desktop [here](https://www.docker.com/products/docker-desktop/). This tool will be used for retrieving the URI timemaps in phase three of the project. 
+- For timemap retrieval to execute properly, pull a published image from a Docker image registry to run
+Memgator by running the following command in your terminal:
+- `docker image pull oduwsdl/memgator`
+
+4. Install necessary libraries and tools
+
+- Python Version
+    - The program requires Python 3.8 or newer. Ensure Python on your device is up to date by running the following command in your terminal:
+    - `python --version`
+- Required Libraries
+    - Install dependencies listed in requirements.txt by running the following command in your terminal:
+    - `pip install -r requirements.txt`
+- Browser Automation Tools
+    - Ensure Playwright browser tool is installed by running the following command in your terminal:
+    - `playwright install`
+- Network Access
+    - Ensure you have stable internet access for scraping.
+
+
+### Project Execution
+After meeting the prerequisites, the program can be run by navigating to the scripts directory and running the following command in terminal:
+
+`python main.py`
+
+- Note: This program has been run previously to collect sample data. By running the program again, new data will be added to the previously existing data.
+
+Upon running this command, the Nightly browser will open automatically to the Twitter log in page. From here, input your login credentials from your new Twitter account and the program will begin scraping tweets and extracting URIs.

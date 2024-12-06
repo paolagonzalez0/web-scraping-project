@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://evidence.nihr.ac.uk/alert/sexual-assault-referral-centres-provide-high-quality-support/",
+  "self": "http://localhost:1208/timemap/json/https://evidence.nihr.ac.uk/alert/sexual-assault-referral-centres-provide-high-quality-support/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-10T03:35:10Z",
+        "uri": "https://web.archive.org/web/20241110033510/https://evidence.nihr.ac.uk/alert/sexual-assault-referral-centres-provide-high-quality-support/"
+      },
+      {
+        "datetime": "2024-12-01T17:36:29Z",
+        "uri": "https://web.archive.org/web/20241201173629/https://evidence.nihr.ac.uk/alert/sexual-assault-referral-centres-provide-high-quality-support/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-10T03:35:10Z",
+      "uri": "https://web.archive.org/web/20241110033510/https://evidence.nihr.ac.uk/alert/sexual-assault-referral-centres-provide-high-quality-support/"
+    },
+    "last": {
+      "datetime": "2024-12-01T17:36:29Z",
+      "uri": "https://web.archive.org/web/20241201173629/https://evidence.nihr.ac.uk/alert/sexual-assault-referral-centres-provide-high-quality-support/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://evidence.nihr.ac.uk/alert/sexual-assault-referral-centres-provide-high-quality-support/",
+    "json_format": "http://localhost:1208/timemap/json/https://evidence.nihr.ac.uk/alert/sexual-assault-referral-centres-provide-high-quality-support/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://evidence.nihr.ac.uk/alert/sexual-assault-referral-centres-provide-high-quality-support/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://evidence.nihr.ac.uk/alert/sexual-assault-referral-centres-provide-high-quality-support/"
+}

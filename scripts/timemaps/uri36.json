@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.pp.u-tokyo.ac.jp/en/events/guest-speaker-seminar-241128/",
+  "self": "http://localhost:1208/timemap/json/https://www.pp.u-tokyo.ac.jp/en/events/guest-speaker-seminar-241128/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-21T00:39:57Z",
+        "uri": "https://web.archive.org/web/20241121003957/https://www.pp.u-tokyo.ac.jp/en/events/guest-speaker-seminar-241128/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-21T00:39:57Z",
+      "uri": "https://web.archive.org/web/20241121003957/https://www.pp.u-tokyo.ac.jp/en/events/guest-speaker-seminar-241128/"
+    },
+    "last": {
+      "datetime": "2024-11-21T00:39:57Z",
+      "uri": "https://web.archive.org/web/20241121003957/https://www.pp.u-tokyo.ac.jp/en/events/guest-speaker-seminar-241128/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.pp.u-tokyo.ac.jp/en/events/guest-speaker-seminar-241128/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.pp.u-tokyo.ac.jp/en/events/guest-speaker-seminar-241128/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.pp.u-tokyo.ac.jp/en/events/guest-speaker-seminar-241128/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.pp.u-tokyo.ac.jp/en/events/guest-speaker-seminar-241128/"
+}

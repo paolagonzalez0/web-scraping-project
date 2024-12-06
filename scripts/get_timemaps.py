@@ -2,14 +2,14 @@ import subprocess
 import os
 
 """
-This script addresses Q2 of the assignment. It finds and collects the timemap for each URI in the 1000_tweet_links.txt 
-file. The JSON files can be found under the 'timemaps' folder.
+This script finds and collects the timemap for each URI in the tweet_links.txt file. The JSON files can be found under 
+the 'timemaps' directory.
 """
 
 def extract_json(full_output,link):
     """
-    Extracts the JSON output from the full command output and returns it. If the command returns no JSON content, a 
-    JSON string containing the original link is returned.
+    Returns extracted JSON output from the full command output. If the full output contains no JSON content, a 
+    JSON string containing the original URI is returned.
     """
     # Find the index of the first and last curly braces
     start_index = full_output.find('{')
@@ -23,7 +23,7 @@ def extract_json(full_output,link):
 
 def collect_timemap(link):
     """
-    Runs memgator command to collect the timemap for a single link. Returns the full command output.
+    Executes Memgator command to collect the timemap for a single URI. Returns the full command output.
     """
     try:
         command = ["docker", "container", "run", "-it", "--rm", "oduwsdl/memgator", "--format=JSON", str(link)]
@@ -44,14 +44,15 @@ def collect_timemap(link):
         return None
         # return str({"original_uri":f"{link}"}).replace("\'","\"")
 
+    
 def save_timemaps(start_line=None):
     """
-    Collects the timemaps for all links stored in 1000_tweet_links.txt. Processes output for each link into a JSON file 
-    and stores it in 'timemaps' folder. User can specify a line number to continue from in additional iterations of the 
+    Collects the timemaps for all URIs stored in tweet_links.txt. Processes output for each URI into a JSON file 
+    and stores it in 'timemaps' directory. User can specify a line number to continue from in additional iterations of the 
     function to avoid overwriting previous files, otherwise function will start collecting timemaps from line 1 of 
-    1000_tweet_links.txt.
+    tweet_links.txt.
     """
-    with open('1000_tweet_links.txt', 'r') as file:
+    with open('../tweet_links.txt', 'r') as file:
         links = file.read().splitlines()
         if start_line is not None:
             links = links[start_line-1:]
@@ -72,5 +73,4 @@ def save_timemaps(start_line=None):
                     json_file.write(json_content)
 
 if __name__ == "__main__":
-    # save_timemaps(260)
-    pass
+    save_timemaps()

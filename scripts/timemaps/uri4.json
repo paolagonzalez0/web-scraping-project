@@ -1,0 +1,1046 @@
+{
+  "original_uri": "https://draw-the-line.ca/",
+  "self": "http://localhost:1208/timemap/json/https://draw-the-line.ca/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-05-20T03:26:17Z",
+        "uri": "https://web.archive.org/web/20120520032617/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2012-05-23T19:15:39Z",
+        "uri": "https://wayback.archive-it.org/all/20120523191539/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2012-05-23T19:15:39Z",
+        "uri": "https://web.archive.org/web/20120523191539/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2012-06-03T00:16:51Z",
+        "uri": "https://web.archive.org/web/20120603001651/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2012-07-04T12:39:02Z",
+        "uri": "https://web.archive.org/web/20120704123902/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2012-12-15T05:37:21Z",
+        "uri": "https://web.archive.org/web/20121215053721/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2013-01-15T16:12:56Z",
+        "uri": "https://web.archive.org/web/20130115161256/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2013-05-10T03:20:07Z",
+        "uri": "https://web.archive.org/web/20130510032007/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2013-06-01T06:59:37Z",
+        "uri": "https://web.archive.org/web/20130601065937/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2013-07-03T08:27:18Z",
+        "uri": "https://web.archive.org/web/20130703082718/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2013-07-20T01:13:11Z",
+        "uri": "https://web.archive.org/web/20130720011311/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2013-08-04T09:23:15Z",
+        "uri": "https://web.archive.org/web/20130804092315/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2013-09-05T07:25:38Z",
+        "uri": "https://web.archive.org/web/20130905072538/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2013-09-24T01:51:40Z",
+        "uri": "https://web.archive.org/web/20130924015140/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2013-12-05T04:21:22Z",
+        "uri": "https://web.archive.org/web/20131205042122/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2013-12-31T09:11:15Z",
+        "uri": "https://web.archive.org/web/20131231091115/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2014-01-12T14:30:15Z",
+        "uri": "https://web.archive.org/web/20140112143015/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2014-02-14T11:33:01Z",
+        "uri": "https://web.archive.org/web/20140214113301/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2014-03-28T14:56:18Z",
+        "uri": "https://wayback.archive-it.org/all/20140328145618/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2014-03-28T14:56:18Z",
+        "uri": "https://web.archive.org/web/20140328145618/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2014-04-25T20:46:13Z",
+        "uri": "https://web.archive.org/web/20140425204613/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2014-05-17T03:30:43Z",
+        "uri": "https://web.archive.org/web/20140517033043/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2014-05-28T13:31:26Z",
+        "uri": "https://web.archive.org/web/20140528133126/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2014-06-13T08:12:22Z",
+        "uri": "https://web.archive.org/web/20140613081222/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2014-06-18T20:10:16Z",
+        "uri": "https://wayback.archive-it.org/all/20140618201016/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2014-06-18T20:10:16Z",
+        "uri": "https://web.archive.org/web/20140618201016/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2014-07-26T22:56:57Z",
+        "uri": "https://web.archive.org/web/20140726225657/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2014-08-07T07:54:02Z",
+        "uri": "https://web.archive.org/web/20140807075402/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2014-10-10T04:03:31Z",
+        "uri": "https://web.archive.org/web/20141010040331/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2014-12-17T05:23:04Z",
+        "uri": "https://web.archive.org/web/20141217052304/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2015-02-13T07:11:06Z",
+        "uri": "https://web.archive.org/web/20150213071106/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2015-03-20T17:39:56Z",
+        "uri": "https://web.archive.org/web/20150320173956/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2015-04-23T10:52:01Z",
+        "uri": "https://web.archive.org/web/20150423105201/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2015-05-19T11:18:03Z",
+        "uri": "https://web.archive.org/web/20150519111803/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2015-05-24T17:24:35Z",
+        "uri": "https://web.archive.org/web/20150524172435/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2015-07-02T12:13:17Z",
+        "uri": "https://web.archive.org/web/20150702121317/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2015-08-01T07:10:50Z",
+        "uri": "https://web.archive.org/web/20150801071050/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2015-09-06T15:15:32Z",
+        "uri": "https://web.archive.org/web/20150906151532/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2015-09-24T11:44:37Z",
+        "uri": "https://web.archive.org/web/20150924114437/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-01-10T20:51:03Z",
+        "uri": "https://web.archive.org/web/20160110205103/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-01-15T11:28:42Z",
+        "uri": "https://web.archive.org/web/20160115112842/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-01-15T18:24:53Z",
+        "uri": "https://web.archive.org/web/20160115182453/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-01-17T04:42:03Z",
+        "uri": "https://web.archive.org/web/20160117044203/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-02-05T07:12:49Z",
+        "uri": "http://archive.md/20160205071249/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-02-06T10:14:11Z",
+        "uri": "https://web.archive.org/web/20160206101411/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2016-02-10T08:44:35Z",
+        "uri": "https://web.archive.org/web/20160210084435/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-02-19T00:09:03Z",
+        "uri": "https://web.archive.org/web/20160219000903/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-02-22T15:21:49Z",
+        "uri": "https://web.archive.org/web/20160222152149/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-03-02T16:01:26Z",
+        "uri": "https://web.archive.org/web/20160302160126/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-03-07T04:53:03Z",
+        "uri": "https://web.archive.org/web/20160307045303/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-03-08T18:56:43Z",
+        "uri": "https://web.archive.org/web/20160308185643/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2016-04-17T06:14:21Z",
+        "uri": "https://web.archive.org/web/20160417061421/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-04-21T07:13:41Z",
+        "uri": "https://web.archive.org/web/20160421071341/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-04-30T17:04:14Z",
+        "uri": "https://web.archive.org/web/20160430170414/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-05-26T20:18:20Z",
+        "uri": "https://web.archive.org/web/20160526201820/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-06-16T20:18:38Z",
+        "uri": "https://web.archive.org/web/20160616201838/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-07-01T23:46:16Z",
+        "uri": "https://web.archive.org/web/20160701234616/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-07-01T23:47:07Z",
+        "uri": "https://web.archive.org/web/20160701234707/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-07-06T17:15:58Z",
+        "uri": "https://web.archive.org/web/20160706171558/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-08-18T16:25:29Z",
+        "uri": "https://web.archive.org/web/20160818162529/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2016-09-19T03:29:37Z",
+        "uri": "https://web.archive.org/web/20160919032937/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2016-10-01T21:34:19Z",
+        "uri": "https://web.archive.org/web/20161001213419/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-10-21T12:11:30Z",
+        "uri": "https://web.archive.org/web/20161021121130/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2016-11-25T08:38:40Z",
+        "uri": "https://web.archive.org/web/20161125083840/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2016-12-02T05:14:47Z",
+        "uri": "https://web.archive.org/web/20161202051447/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2017-02-27T05:25:23Z",
+        "uri": "https://web.archive.org/web/20170227052523/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2017-04-28T14:05:47Z",
+        "uri": "https://web.archive.org/web/20170428140547/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2017-05-06T19:27:56Z",
+        "uri": "https://web.archive.org/web/20170506192756/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2017-05-08T18:49:43Z",
+        "uri": "https://web.archive.org/web/20170508184943/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2017-05-16T14:05:10Z",
+        "uri": "https://web.archive.org/web/20170516140510/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2017-06-18T00:31:58Z",
+        "uri": "https://web.archive.org/web/20170618003158/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2017-06-18T04:16:21Z",
+        "uri": "https://web.archive.org/web/20170618041621/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2017-07-08T17:28:25Z",
+        "uri": "https://web.archive.org/web/20170708172825/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2017-07-11T07:36:24Z",
+        "uri": "https://web.archive.org/web/20170711073624/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2017-07-19T02:53:20Z",
+        "uri": "https://web.archive.org/web/20170719025320/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2017-07-19T03:07:09Z",
+        "uri": "https://web.archive.org/web/20170719030709/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2017-08-05T05:53:59Z",
+        "uri": "https://web.archive.org/web/20170805055359/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2017-09-05T12:22:15Z",
+        "uri": "https://web.archive.org/web/20170905122215/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2017-09-07T04:17:18Z",
+        "uri": "https://web.archive.org/web/20170907041718/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2017-09-13T01:27:19Z",
+        "uri": "https://web.archive.org/web/20170913012719/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2017-10-02T09:01:03Z",
+        "uri": "https://wayback.archive-it.org/all/20171002090103/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2017-10-02T09:01:03Z",
+        "uri": "https://web.archive.org/web/20171002090103/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2017-10-02T12:33:59Z",
+        "uri": "https://web.archive.org/web/20171002123359/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2017-10-08T09:31:46Z",
+        "uri": "https://web.archive.org/web/20171008093146/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2017-10-19T08:10:23Z",
+        "uri": "https://web.archive.org/web/20171019081023/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2017-11-12T17:19:07Z",
+        "uri": "https://web.archive.org/web/20171112171907/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2017-12-13T19:03:44Z",
+        "uri": "https://web.archive.org/web/20171213190344/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2017-12-16T00:58:58Z",
+        "uri": "https://web.archive.org/web/20171216005858/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-01-20T20:07:09Z",
+        "uri": "https://web.archive.org/web/20180120200709/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-02-23T04:40:09Z",
+        "uri": "https://web.archive.org/web/20180223044009/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-02-24T08:53:36Z",
+        "uri": "https://web.archive.org/web/20180224085336/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-03-14T03:10:46Z",
+        "uri": "https://web.archive.org/web/20180314031046/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2018-03-16T04:10:29Z",
+        "uri": "https://web.archive.org/web/20180316041029/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2018-03-17T00:29:33Z",
+        "uri": "https://web.archive.org/web/20180317002933/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2018-03-17T04:05:00Z",
+        "uri": "https://web.archive.org/web/20180317040500/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2018-03-17T05:56:49Z",
+        "uri": "https://web.archive.org/web/20180317055649/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2018-03-26T01:48:31Z",
+        "uri": "https://web.archive.org/web/20180326014831/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-03-27T07:25:27Z",
+        "uri": "https://web.archive.org/web/20180327072527/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-04-01T10:41:09Z",
+        "uri": "https://wayback.archive-it.org/all/20180401104109/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2018-04-01T10:41:09Z",
+        "uri": "https://web.archive.org/web/20180401104109/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2018-04-27T03:20:39Z",
+        "uri": "https://web.archive.org/web/20180427032039/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-04-29T13:05:08Z",
+        "uri": "https://web.archive.org/web/20180429130508/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-05-28T02:22:38Z",
+        "uri": "https://web.archive.org/web/20180528022238/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-05-30T14:53:59Z",
+        "uri": "https://web.archive.org/web/20180530145359/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-06-28T09:43:17Z",
+        "uri": "https://web.archive.org/web/20180628094317/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-06-30T14:55:37Z",
+        "uri": "https://web.archive.org/web/20180630145537/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-07-29T14:19:50Z",
+        "uri": "https://web.archive.org/web/20180729141950/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-07-31T15:20:30Z",
+        "uri": "https://web.archive.org/web/20180731152030/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-08-04T02:21:49Z",
+        "uri": "https://web.archive.org/web/20180804022149/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2018-08-29T23:47:39Z",
+        "uri": "https://web.archive.org/web/20180829234739/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-08-31T20:21:04Z",
+        "uri": "https://web.archive.org/web/20180831202104/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-09-30T00:34:52Z",
+        "uri": "https://web.archive.org/web/20180930003452/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-10-01T23:48:23Z",
+        "uri": "https://web.archive.org/web/20181001234823/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-10-31T08:44:50Z",
+        "uri": "https://web.archive.org/web/20181031084450/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-11-01T11:56:19Z",
+        "uri": "https://web.archive.org/web/20181101115619/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-11-02T05:20:11Z",
+        "uri": "https://web.archive.org/web/20181102052011/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-11-05T14:47:40Z",
+        "uri": "https://web.archive.org/web/20181105144740/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2018-12-02T20:38:03Z",
+        "uri": "https://web.archive.org/web/20181202203803/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2018-12-03T17:41:55Z",
+        "uri": "https://web.archive.org/web/20181203174155/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-01-03T04:21:40Z",
+        "uri": "https://web.archive.org/web/20190103042140/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-01-04T23:19:07Z",
+        "uri": "https://web.archive.org/web/20190104231907/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-02-04T12:07:02Z",
+        "uri": "https://web.archive.org/web/20190204120702/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-02-05T05:25:23Z",
+        "uri": "https://web.archive.org/web/20190205052523/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-03-01T03:34:57Z",
+        "uri": "https://web.archive.org/web/20190301033457/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2019-03-08T00:42:20Z",
+        "uri": "https://web.archive.org/web/20190308004220/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-03-08T12:03:22Z",
+        "uri": "https://web.archive.org/web/20190308120322/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-03-09T05:23:24Z",
+        "uri": "https://web.archive.org/web/20190309052324/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-04-08T19:21:27Z",
+        "uri": "https://web.archive.org/web/20190408192127/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-04-09T21:29:55Z",
+        "uri": "https://web.archive.org/web/20190409212955/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-04-12T18:19:10Z",
+        "uri": "https://wayback.archive-it.org/all/20190412181910/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2019-04-12T18:19:10Z",
+        "uri": "https://web.archive.org/web/20190412181910/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2019-05-09T21:29:40Z",
+        "uri": "https://web.archive.org/web/20190509212940/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-05-10T19:58:52Z",
+        "uri": "https://web.archive.org/web/20190510195852/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-05-11T10:43:31Z",
+        "uri": "https://web.archive.org/web/20190511104331/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2019-06-10T14:30:38Z",
+        "uri": "https://web.archive.org/web/20190610143038/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-06-11T17:23:01Z",
+        "uri": "https://web.archive.org/web/20190611172301/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-07-20T16:34:29Z",
+        "uri": "https://web.archive.org/web/20190720163429/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-07-20T18:09:15Z",
+        "uri": "https://web.archive.org/web/20190720180915/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-08-03T16:23:01Z",
+        "uri": "https://web.archive.org/web/20190803162301/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2019-08-22T08:43:31Z",
+        "uri": "https://web.archive.org/web/20190822084331/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-08-22T09:55:38Z",
+        "uri": "https://web.archive.org/web/20190822095538/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-09-23T01:48:01Z",
+        "uri": "https://web.archive.org/web/20190923014801/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-09-23T04:50:06Z",
+        "uri": "https://web.archive.org/web/20190923045006/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-10-21T18:49:17Z",
+        "uri": "https://web.archive.org/web/20191021184917/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-10-21T18:55:09Z",
+        "uri": "https://web.archive.org/web/20191021185509/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-11-21T16:41:00Z",
+        "uri": "https://web.archive.org/web/20191121164100/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-11-21T16:53:59Z",
+        "uri": "https://web.archive.org/web/20191121165359/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-12-21T22:29:05Z",
+        "uri": "https://web.archive.org/web/20191221222905/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2019-12-21T22:31:50Z",
+        "uri": "https://web.archive.org/web/20191221223150/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2020-01-21T05:49:53Z",
+        "uri": "https://web.archive.org/web/20200121054953/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2020-01-21T06:05:52Z",
+        "uri": "https://web.archive.org/web/20200121060552/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2020-02-12T22:14:13Z",
+        "uri": "https://web.archive.org/web/20200212221413/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2020-02-17T17:31:00Z",
+        "uri": "https://web.archive.org/web/20200217173100/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2020-02-17T17:31:44Z",
+        "uri": "https://web.archive.org/web/20200217173144/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2020-02-20T10:50:20Z",
+        "uri": "https://web.archive.org/web/20200220105020/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2020-02-20T10:57:22Z",
+        "uri": "https://web.archive.org/web/20200220105722/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2020-03-03T00:56:50Z",
+        "uri": "https://web.archive.org/web/20200303005650/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2020-03-14T06:18:06Z",
+        "uri": "https://web.archive.org/web/20200314061806/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2020-04-13T10:37:43Z",
+        "uri": "https://web.archive.org/web/20200413103743/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2020-04-15T06:57:56Z",
+        "uri": "https://web.archive.org/web/20200415065756/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2020-05-10T05:23:09Z",
+        "uri": "https://web.archive.org/web/20200510052309/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2020-05-10T22:25:54Z",
+        "uri": "https://web.archive.org/web/20200510222554/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2020-05-13T04:56:17Z",
+        "uri": "https://web.archive.org/web/20200513045617/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2020-05-13T17:22:45Z",
+        "uri": "https://web.archive.org/web/20200513172245/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2020-05-20T10:37:03Z",
+        "uri": "https://web.archive.org/web/20200520103703/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2020-06-13T00:28:23Z",
+        "uri": "https://web.archive.org/web/20200613002823/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2020-06-21T18:32:05Z",
+        "uri": "https://web.archive.org/web/20200621183205/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2020-06-26T07:36:06Z",
+        "uri": "https://web.archive.org/web/20200626073606/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2020-07-13T09:30:07Z",
+        "uri": "https://web.archive.org/web/20200713093007/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2020-07-31T15:21:10Z",
+        "uri": "https://web.archive.org/web/20200731152110/http://draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2020-08-12T15:59:16Z",
+        "uri": "https://web.archive.org/web/20200812155916/http://www.draw-the-line.ca:80/"
+      },
+      {
+        "datetime": "2020-09-24T21:49:38Z",
+        "uri": "https://web.archive.org/web/20200924214938/https://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2020-10-10T07:17:05Z",
+        "uri": "https://web.archive.org/web/20201010071705/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2020-10-20T15:04:15Z",
+        "uri": "https://web.archive.org/web/20201020150415/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2020-11-01T14:02:23Z",
+        "uri": "https://web.archive.org/web/20201101140223/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2020-11-11T22:49:40Z",
+        "uri": "https://web.archive.org/web/20201111224940/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2021-01-26T08:15:18Z",
+        "uri": "https://web.archive.org/web/20210126081518/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2021-03-01T10:44:18Z",
+        "uri": "https://web.archive.org/web/20210301104418/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2021-04-15T01:12:33Z",
+        "uri": "https://web.archive.org/web/20210415011233/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2021-04-24T11:15:18Z",
+        "uri": "https://web.archive.org/web/20210424111518/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2021-07-10T12:05:20Z",
+        "uri": "https://web.archive.org/web/20210710120520/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2021-07-10T12:46:41Z",
+        "uri": "https://web.archive.org/web/20210710124641/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2021-08-11T21:36:43Z",
+        "uri": "https://web.archive.org/web/20210811213643/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2021-11-29T12:22:22Z",
+        "uri": "https://web.archive.org/web/20211129122222/https://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2021-11-30T23:50:46Z",
+        "uri": "https://web.archive.org/web/20211130235046/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2022-01-08T00:46:23Z",
+        "uri": "https://web.archive.org/web/20220108004623/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2022-01-20T07:30:50Z",
+        "uri": "https://web.archive.org/web/20220120073050/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2022-01-20T12:58:44Z",
+        "uri": "https://web.archive.org/web/20220120125844/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2022-01-21T11:34:08Z",
+        "uri": "https://web.archive.org/web/20220121113408/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2022-09-01T07:42:11Z",
+        "uri": "https://web.archive.org/web/20220901074211/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2022-10-06T15:01:02Z",
+        "uri": "https://web.archive.org/web/20221006150102/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2022-11-25T16:11:00Z",
+        "uri": "https://web.archive.org/web/20221125161100/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2022-11-25T16:12:50Z",
+        "uri": "https://web.archive.org/web/20221125161250/https://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2022-12-04T14:59:55Z",
+        "uri": "https://web.archive.org/web/20221204145955/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2022-12-22T14:19:53Z",
+        "uri": "https://web.archive.org/web/20221222141953/https://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-01-20T18:08:15Z",
+        "uri": "https://web.archive.org/web/20230120180815/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-01-21T16:49:41Z",
+        "uri": "https://web.archive.org/web/20230121164941/https://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-01-29T22:30:44Z",
+        "uri": "https://web.archive.org/web/20230129223044/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-03-15T13:31:48Z",
+        "uri": "https://web.archive.org/web/20230315133148/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-03-15T13:34:51Z",
+        "uri": "https://web.archive.org/web/20230315133451/https://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-03-22T17:28:09Z",
+        "uri": "https://web.archive.org/web/20230322172809/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-03-29T20:16:12Z",
+        "uri": "https://web.archive.org/web/20230329201612/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-03-29T20:16:13Z",
+        "uri": "https://web.archive.org/web/20230329201613/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-04-02T03:07:44Z",
+        "uri": "https://web.archive.org/web/20230402030744/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-04-09T00:42:43Z",
+        "uri": "https://web.archive.org/web/20230409004243/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-04-09T00:50:46Z",
+        "uri": "https://web.archive.org/web/20230409005046/https://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-05-10T21:17:36Z",
+        "uri": "https://web.archive.org/web/20230510211736/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-05-21T13:57:58Z",
+        "uri": "https://web.archive.org/web/20230521135758/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-05-30T20:00:42Z",
+        "uri": "https://web.archive.org/web/20230530200042/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-06-01T04:13:51Z",
+        "uri": "https://web.archive.org/web/20230601041351/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-06-01T09:06:26Z",
+        "uri": "https://web.archive.org/web/20230601090626/https://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-06-09T08:39:05Z",
+        "uri": "https://web.archive.org/web/20230609083905/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-06-12T01:25:15Z",
+        "uri": "https://web.archive.org/web/20230612012515/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-06-12T01:25:28Z",
+        "uri": "https://web.archive.org/web/20230612012528/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-06-12T01:36:42Z",
+        "uri": "https://web.archive.org/web/20230612013642/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-10-03T14:41:28Z",
+        "uri": "https://web.archive.org/web/20231003144128/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-10-22T12:09:30Z",
+        "uri": "https://web.archive.org/web/20231022120930/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2023-10-22T12:12:27Z",
+        "uri": "https://web.archive.org/web/20231022121227/https://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-01-09T08:52:36Z",
+        "uri": "https://web.archive.org/web/20240109085236/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-01-09T08:52:39Z",
+        "uri": "https://web.archive.org/web/20240109085239/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-01-09T08:52:43Z",
+        "uri": "https://web.archive.org/web/20240109085243/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-01-11T14:00:13Z",
+        "uri": "https://web.archive.org/web/20240111140013/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-01-16T12:30:56Z",
+        "uri": "https://web.archive.org/web/20240116123056/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-01-16T12:30:58Z",
+        "uri": "https://web.archive.org/web/20240116123058/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-01-16T12:31:02Z",
+        "uri": "https://web.archive.org/web/20240116123102/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-01-19T06:41:47Z",
+        "uri": "https://web.archive.org/web/20240119064147/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-02-18T15:27:04Z",
+        "uri": "https://web.archive.org/web/20240218152704/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-02-18T15:31:11Z",
+        "uri": "https://web.archive.org/web/20240218153111/https://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-02-27T04:30:35Z",
+        "uri": "https://web.archive.org/web/20240227043035/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-03-01T05:03:48Z",
+        "uri": "https://web.archive.org/web/20240301050348/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-03-01T05:03:52Z",
+        "uri": "https://web.archive.org/web/20240301050352/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-03-31T01:17:24Z",
+        "uri": "https://web.archive.org/web/20240331011724/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-03-31T01:19:39Z",
+        "uri": "https://web.archive.org/web/20240331011939/https://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-04-05T19:47:45Z",
+        "uri": "https://web.archive.org/web/20240405194745/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-04-06T15:26:38Z",
+        "uri": "https://web.archive.org/web/20240406152638/https://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-04-14T05:18:55Z",
+        "uri": "https://web.archive.org/web/20240414051855/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-04-18T03:07:24Z",
+        "uri": "https://web.archive.org/web/20240418030724/https://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-04-18T03:07:39Z",
+        "uri": "https://web.archive.org/web/20240418030739/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-04-18T03:07:42Z",
+        "uri": "https://web.archive.org/web/20240418030742/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-05-18T10:49:19Z",
+        "uri": "https://web.archive.org/web/20240518104919/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-06-16T00:11:39Z",
+        "uri": "https://web.archive.org/web/20240616001139/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-06-19T05:51:26Z",
+        "uri": "https://web.archive.org/web/20240619055126/http://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-06-19T05:58:37Z",
+        "uri": "https://web.archive.org/web/20240619055837/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-06-30T13:18:01Z",
+        "uri": "https://web.archive.org/web/20240630131801/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-07-01T23:51:23Z",
+        "uri": "https://web.archive.org/web/20240701235123/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-07-02T20:39:23Z",
+        "uri": "https://web.archive.org/web/20240702203923/https://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-07-05T00:13:46Z",
+        "uri": "https://web.archive.org/web/20240705001346/https://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-07-19T18:59:34Z",
+        "uri": "https://web.archive.org/web/20240719185934/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-08-02T10:34:07Z",
+        "uri": "https://web.archive.org/web/20240802103407/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-08-06T23:59:37Z",
+        "uri": "https://web.archive.org/web/20240806235937/https://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-08-11T22:57:30Z",
+        "uri": "https://web.archive.org/web/20240811225730/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-08-11T22:57:31Z",
+        "uri": "https://web.archive.org/web/20240811225731/https://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-08-11T22:57:33Z",
+        "uri": "https://web.archive.org/web/20240811225733/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-09-27T09:29:38Z",
+        "uri": "https://web.archive.org/web/20240927092938/https://draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-09-27T09:29:38Z",
+        "uri": "https://web.archive.org/web/20240927092938/http://www.draw-the-line.ca/"
+      },
+      {
+        "datetime": "2024-12-02T17:58:37Z",
+        "uri": "https://web.archive.org/web/20241202175837/http://draw-the-line.ca/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-05-20T03:26:17Z",
+      "uri": "https://web.archive.org/web/20120520032617/http://www.draw-the-line.ca:80/"
+    },
+    "last": {
+      "datetime": "2024-12-02T17:58:37Z",
+      "uri": "https://web.archive.org/web/20241202175837/http://draw-the-line.ca/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://draw-the-line.ca/",
+    "json_format": "http://localhost:1208/timemap/json/https://draw-the-line.ca/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://draw-the-line.ca/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://draw-the-line.ca/"
+}

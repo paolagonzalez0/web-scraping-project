@@ -1,0 +1,3170 @@
+{
+  "original_uri": "https://hkuportal.hku.hk/cas/aad",
+  "self": "http://localhost:1208/timemap/json/https://hkuportal.hku.hk/cas/aad",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-02-23T00:03:35Z",
+        "uri": "https://web.archive.org/web/20240223000335/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-02-24T02:38:46Z",
+        "uri": "https://web.archive.org/web/20240224023846/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-02-24T02:38:46Z",
+        "uri": "https://web.archive.org/web/20240224023846/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-03-02T17:40:40Z",
+        "uri": "https://web.archive.org/web/20240302174040/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-03-02T23:26:28Z",
+        "uri": "https://web.archive.org/web/20240302232628/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-03-06T14:37:28Z",
+        "uri": "https://web.archive.org/web/20240306143728/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-03-06T14:37:29Z",
+        "uri": "https://web.archive.org/web/20240306143729/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-03-06T14:37:31Z",
+        "uri": "https://web.archive.org/web/20240306143731/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-03-07T19:35:02Z",
+        "uri": "https://web.archive.org/web/20240307193502/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-03-09T18:02:08Z",
+        "uri": "https://web.archive.org/web/20240309180208/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-03-15T17:26:20Z",
+        "uri": "https://web.archive.org/web/20240315172620/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-03-15T17:52:37Z",
+        "uri": "https://web.archive.org/web/20240315175237/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-03-16T22:24:46Z",
+        "uri": "https://web.archive.org/web/20240316222446/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-03-26T01:17:57Z",
+        "uri": "https://web.archive.org/web/20240326011757/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-03-27T04:40:00Z",
+        "uri": "https://web.archive.org/web/20240327044000/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-03-28T03:30:25Z",
+        "uri": "https://web.archive.org/web/20240328033025/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-03-28T05:08:04Z",
+        "uri": "https://web.archive.org/web/20240328050804/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-03-29T04:14:23Z",
+        "uri": "https://web.archive.org/web/20240329041423/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-03-29T07:52:16Z",
+        "uri": "https://web.archive.org/web/20240329075216/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-03-29T08:43:09Z",
+        "uri": "https://web.archive.org/web/20240329084309/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-02T13:01:42Z",
+        "uri": "https://web.archive.org/web/20240402130142/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-05T02:48:22Z",
+        "uri": "https://web.archive.org/web/20240405024822/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-05T02:48:25Z",
+        "uri": "https://web.archive.org/web/20240405024825/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-08T07:24:55Z",
+        "uri": "https://web.archive.org/web/20240408072455/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-09T08:41:34Z",
+        "uri": "https://web.archive.org/web/20240409084134/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-09T08:41:39Z",
+        "uri": "https://web.archive.org/web/20240409084139/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-09T08:41:51Z",
+        "uri": "https://web.archive.org/web/20240409084151/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-09T08:42:29Z",
+        "uri": "https://web.archive.org/web/20240409084229/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-19T18:07:19Z",
+        "uri": "https://web.archive.org/web/20240419180719/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-19T18:08:09Z",
+        "uri": "https://web.archive.org/web/20240419180809/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-19T18:08:29Z",
+        "uri": "https://web.archive.org/web/20240419180829/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-25T11:26:25Z",
+        "uri": "https://web.archive.org/web/20240425112625/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-26T05:19:17Z",
+        "uri": "https://web.archive.org/web/20240426051917/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-26T14:49:05Z",
+        "uri": "https://web.archive.org/web/20240426144905/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-26T21:21:57Z",
+        "uri": "https://web.archive.org/web/20240426212157/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-26T21:53:24Z",
+        "uri": "https://web.archive.org/web/20240426215324/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-27T14:42:40Z",
+        "uri": "https://web.archive.org/web/20240427144240/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-27T14:42:58Z",
+        "uri": "https://web.archive.org/web/20240427144258/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-27T14:43:06Z",
+        "uri": "https://web.archive.org/web/20240427144306/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-28T12:55:06Z",
+        "uri": "https://web.archive.org/web/20240428125506/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-28T12:55:27Z",
+        "uri": "https://web.archive.org/web/20240428125527/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-28T14:17:51Z",
+        "uri": "https://web.archive.org/web/20240428141751/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-30T00:18:15Z",
+        "uri": "https://web.archive.org/web/20240430001815/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-30T19:38:15Z",
+        "uri": "https://web.archive.org/web/20240430193815/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-30T21:05:17Z",
+        "uri": "https://web.archive.org/web/20240430210517/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-30T21:05:17Z",
+        "uri": "https://web.archive.org/web/20240430210517/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-30T21:05:18Z",
+        "uri": "https://web.archive.org/web/20240430210518/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-04-30T21:05:19Z",
+        "uri": "https://web.archive.org/web/20240430210519/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-02T01:07:50Z",
+        "uri": "https://web.archive.org/web/20240502010750/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-06T04:07:59Z",
+        "uri": "https://web.archive.org/web/20240506040759/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-06T04:08:15Z",
+        "uri": "https://web.archive.org/web/20240506040815/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-06T04:11:55Z",
+        "uri": "https://web.archive.org/web/20240506041155/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-07T12:03:21Z",
+        "uri": "https://web.archive.org/web/20240507120321/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-07T12:03:23Z",
+        "uri": "https://web.archive.org/web/20240507120323/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-10T22:40:35Z",
+        "uri": "https://web.archive.org/web/20240510224035/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-11T06:39:48Z",
+        "uri": "https://web.archive.org/web/20240511063948/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-12T17:06:26Z",
+        "uri": "https://web.archive.org/web/20240512170626/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-12T23:32:22Z",
+        "uri": "https://web.archive.org/web/20240512233222/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-13T05:37:20Z",
+        "uri": "https://web.archive.org/web/20240513053720/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-13T06:34:49Z",
+        "uri": "https://web.archive.org/web/20240513063449/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-18T07:46:45Z",
+        "uri": "https://web.archive.org/web/20240518074645/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-18T08:05:18Z",
+        "uri": "https://web.archive.org/web/20240518080518/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-18T08:38:48Z",
+        "uri": "https://web.archive.org/web/20240518083848/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-19T01:05:17Z",
+        "uri": "https://web.archive.org/web/20240519010517/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-19T01:45:52Z",
+        "uri": "https://web.archive.org/web/20240519014552/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-19T02:14:11Z",
+        "uri": "https://web.archive.org/web/20240519021411/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-19T20:17:08Z",
+        "uri": "https://web.archive.org/web/20240519201708/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-20T01:01:20Z",
+        "uri": "https://web.archive.org/web/20240520010120/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-22T07:06:00Z",
+        "uri": "https://web.archive.org/web/20240522070600/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-24T04:15:43Z",
+        "uri": "https://web.archive.org/web/20240524041543/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-24T08:01:18Z",
+        "uri": "https://web.archive.org/web/20240524080118/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-24T14:41:00Z",
+        "uri": "https://web.archive.org/web/20240524144100/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-24T14:45:54Z",
+        "uri": "https://web.archive.org/web/20240524144554/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-24T14:47:20Z",
+        "uri": "https://web.archive.org/web/20240524144720/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-24T14:47:38Z",
+        "uri": "https://web.archive.org/web/20240524144738/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-24T14:48:21Z",
+        "uri": "https://web.archive.org/web/20240524144821/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-24T14:52:30Z",
+        "uri": "https://web.archive.org/web/20240524145230/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-24T15:38:36Z",
+        "uri": "https://web.archive.org/web/20240524153836/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-24T15:44:57Z",
+        "uri": "https://web.archive.org/web/20240524154457/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-27T23:20:34Z",
+        "uri": "https://web.archive.org/web/20240527232034/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-05-28T18:27:27Z",
+        "uri": "https://web.archive.org/web/20240528182727/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-01T07:40:59Z",
+        "uri": "https://web.archive.org/web/20240601074059/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-01T07:41:03Z",
+        "uri": "https://web.archive.org/web/20240601074103/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-01T07:41:08Z",
+        "uri": "https://web.archive.org/web/20240601074108/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-02T02:46:38Z",
+        "uri": "https://web.archive.org/web/20240602024638/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-02T02:46:55Z",
+        "uri": "https://web.archive.org/web/20240602024655/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-02T02:46:57Z",
+        "uri": "https://web.archive.org/web/20240602024657/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-02T06:24:43Z",
+        "uri": "https://web.archive.org/web/20240602062443/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-02T06:25:04Z",
+        "uri": "https://web.archive.org/web/20240602062504/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-02T06:25:13Z",
+        "uri": "https://web.archive.org/web/20240602062513/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-03T09:23:43Z",
+        "uri": "https://web.archive.org/web/20240603092343/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-05T08:57:15Z",
+        "uri": "https://web.archive.org/web/20240605085715/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-06T13:25:13Z",
+        "uri": "https://web.archive.org/web/20240606132513/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-08T23:05:18Z",
+        "uri": "https://web.archive.org/web/20240608230518/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-09T00:09:43Z",
+        "uri": "https://web.archive.org/web/20240609000943/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-09T03:41:39Z",
+        "uri": "https://web.archive.org/web/20240609034139/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-10T23:16:50Z",
+        "uri": "https://web.archive.org/web/20240610231650/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-11T06:27:14Z",
+        "uri": "https://web.archive.org/web/20240611062714/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-12T21:23:05Z",
+        "uri": "https://web.archive.org/web/20240612212305/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-13T07:53:56Z",
+        "uri": "https://web.archive.org/web/20240613075356/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-13T14:35:33Z",
+        "uri": "https://web.archive.org/web/20240613143533/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-13T14:38:19Z",
+        "uri": "https://web.archive.org/web/20240613143819/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-13T14:44:08Z",
+        "uri": "https://web.archive.org/web/20240613144408/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-13T19:21:29Z",
+        "uri": "https://web.archive.org/web/20240613192129/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-14T17:25:52Z",
+        "uri": "https://web.archive.org/web/20240614172552/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-15T18:18:37Z",
+        "uri": "https://web.archive.org/web/20240615181837/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-15T18:43:13Z",
+        "uri": "https://web.archive.org/web/20240615184313/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-15T18:48:09Z",
+        "uri": "https://web.archive.org/web/20240615184809/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-15T19:14:30Z",
+        "uri": "https://web.archive.org/web/20240615191430/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-15T19:30:05Z",
+        "uri": "https://web.archive.org/web/20240615193005/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-15T19:31:50Z",
+        "uri": "https://web.archive.org/web/20240615193150/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-15T19:47:57Z",
+        "uri": "https://web.archive.org/web/20240615194757/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-15T19:58:54Z",
+        "uri": "https://web.archive.org/web/20240615195854/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-15T20:30:46Z",
+        "uri": "https://web.archive.org/web/20240615203046/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-15T22:39:58Z",
+        "uri": "https://web.archive.org/web/20240615223958/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T01:25:27Z",
+        "uri": "https://web.archive.org/web/20240616012527/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T01:53:39Z",
+        "uri": "https://web.archive.org/web/20240616015339/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T03:02:24Z",
+        "uri": "https://web.archive.org/web/20240616030224/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T03:43:59Z",
+        "uri": "https://web.archive.org/web/20240616034359/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T04:16:41Z",
+        "uri": "https://web.archive.org/web/20240616041641/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T04:39:44Z",
+        "uri": "https://web.archive.org/web/20240616043944/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T04:42:46Z",
+        "uri": "https://web.archive.org/web/20240616044246/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T04:53:38Z",
+        "uri": "https://web.archive.org/web/20240616045338/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T05:17:21Z",
+        "uri": "https://web.archive.org/web/20240616051721/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T05:17:25Z",
+        "uri": "https://web.archive.org/web/20240616051725/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T05:46:47Z",
+        "uri": "https://web.archive.org/web/20240616054647/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T06:05:17Z",
+        "uri": "https://web.archive.org/web/20240616060517/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T07:30:47Z",
+        "uri": "https://web.archive.org/web/20240616073047/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T07:48:46Z",
+        "uri": "https://web.archive.org/web/20240616074846/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T07:57:25Z",
+        "uri": "https://web.archive.org/web/20240616075725/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T08:45:37Z",
+        "uri": "https://web.archive.org/web/20240616084537/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T08:53:59Z",
+        "uri": "https://web.archive.org/web/20240616085359/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T10:19:40Z",
+        "uri": "https://web.archive.org/web/20240616101940/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T11:33:22Z",
+        "uri": "https://web.archive.org/web/20240616113322/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T15:18:42Z",
+        "uri": "https://web.archive.org/web/20240616151842/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T15:35:59Z",
+        "uri": "https://web.archive.org/web/20240616153559/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-16T17:34:48Z",
+        "uri": "https://web.archive.org/web/20240616173448/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-17T00:39:38Z",
+        "uri": "https://web.archive.org/web/20240617003938/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-17T01:53:19Z",
+        "uri": "https://web.archive.org/web/20240617015319/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-17T11:50:06Z",
+        "uri": "https://web.archive.org/web/20240617115006/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T10:47:29Z",
+        "uri": "https://web.archive.org/web/20240622104729/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T10:56:06Z",
+        "uri": "https://web.archive.org/web/20240622105606/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T11:05:23Z",
+        "uri": "https://web.archive.org/web/20240622110523/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T11:07:13Z",
+        "uri": "https://web.archive.org/web/20240622110713/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T11:44:54Z",
+        "uri": "https://web.archive.org/web/20240622114454/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T11:59:42Z",
+        "uri": "https://web.archive.org/web/20240622115942/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T12:12:23Z",
+        "uri": "https://web.archive.org/web/20240622121223/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T12:15:58Z",
+        "uri": "https://web.archive.org/web/20240622121558/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T12:55:44Z",
+        "uri": "https://web.archive.org/web/20240622125544/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T13:21:31Z",
+        "uri": "https://web.archive.org/web/20240622132131/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T13:40:11Z",
+        "uri": "https://web.archive.org/web/20240622134011/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T14:43:22Z",
+        "uri": "https://web.archive.org/web/20240622144322/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T14:57:07Z",
+        "uri": "https://web.archive.org/web/20240622145707/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T16:07:07Z",
+        "uri": "https://web.archive.org/web/20240622160707/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T16:42:28Z",
+        "uri": "https://web.archive.org/web/20240622164228/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T16:45:16Z",
+        "uri": "https://web.archive.org/web/20240622164516/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T16:57:01Z",
+        "uri": "https://web.archive.org/web/20240622165701/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T17:24:39Z",
+        "uri": "https://web.archive.org/web/20240622172439/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T18:31:31Z",
+        "uri": "https://web.archive.org/web/20240622183131/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T18:48:37Z",
+        "uri": "https://web.archive.org/web/20240622184837/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T19:12:55Z",
+        "uri": "https://web.archive.org/web/20240622191255/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T19:23:06Z",
+        "uri": "https://web.archive.org/web/20240622192306/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T20:31:21Z",
+        "uri": "https://web.archive.org/web/20240622203121/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T20:53:34Z",
+        "uri": "https://web.archive.org/web/20240622205334/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T22:45:43Z",
+        "uri": "https://web.archive.org/web/20240622224543/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-22T23:13:07Z",
+        "uri": "https://web.archive.org/web/20240622231307/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-23T01:13:49Z",
+        "uri": "https://web.archive.org/web/20240623011349/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-23T08:58:20Z",
+        "uri": "https://web.archive.org/web/20240623085820/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-24T03:26:50Z",
+        "uri": "https://web.archive.org/web/20240624032650/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-24T03:51:05Z",
+        "uri": "https://web.archive.org/web/20240624035105/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-24T05:00:51Z",
+        "uri": "https://web.archive.org/web/20240624050051/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-24T08:11:59Z",
+        "uri": "https://web.archive.org/web/20240624081159/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-24T14:35:01Z",
+        "uri": "https://web.archive.org/web/20240624143501/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-24T20:43:01Z",
+        "uri": "https://web.archive.org/web/20240624204301/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-24T22:03:31Z",
+        "uri": "https://web.archive.org/web/20240624220331/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-25T03:39:10Z",
+        "uri": "https://web.archive.org/web/20240625033910/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-25T08:19:57Z",
+        "uri": "https://web.archive.org/web/20240625081957/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-25T11:21:14Z",
+        "uri": "https://web.archive.org/web/20240625112114/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-25T12:45:57Z",
+        "uri": "https://web.archive.org/web/20240625124557/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-25T16:10:10Z",
+        "uri": "https://web.archive.org/web/20240625161010/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-29T13:45:22Z",
+        "uri": "https://web.archive.org/web/20240629134522/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-29T13:47:51Z",
+        "uri": "https://web.archive.org/web/20240629134751/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-29T16:41:17Z",
+        "uri": "https://web.archive.org/web/20240629164117/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-29T20:22:57Z",
+        "uri": "https://web.archive.org/web/20240629202257/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-30T06:58:54Z",
+        "uri": "https://web.archive.org/web/20240630065854/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-30T07:26:23Z",
+        "uri": "https://web.archive.org/web/20240630072623/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-30T09:19:11Z",
+        "uri": "https://web.archive.org/web/20240630091911/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-30T21:43:57Z",
+        "uri": "https://web.archive.org/web/20240630214357/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-06-30T22:33:37Z",
+        "uri": "https://web.archive.org/web/20240630223337/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-01T01:22:25Z",
+        "uri": "https://web.archive.org/web/20240701012225/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-01T01:22:44Z",
+        "uri": "https://web.archive.org/web/20240701012244/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-01T02:38:09Z",
+        "uri": "https://web.archive.org/web/20240701023809/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-01T03:34:36Z",
+        "uri": "https://web.archive.org/web/20240701033436/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-01T04:54:41Z",
+        "uri": "https://web.archive.org/web/20240701045441/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-01T05:33:21Z",
+        "uri": "https://web.archive.org/web/20240701053321/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-01T06:20:12Z",
+        "uri": "https://web.archive.org/web/20240701062012/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-01T06:21:08Z",
+        "uri": "https://web.archive.org/web/20240701062108/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-01T09:53:06Z",
+        "uri": "https://web.archive.org/web/20240701095306/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-01T10:15:58Z",
+        "uri": "https://web.archive.org/web/20240701101558/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-01T12:31:55Z",
+        "uri": "https://web.archive.org/web/20240701123155/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-01T12:49:32Z",
+        "uri": "https://web.archive.org/web/20240701124932/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-01T14:13:33Z",
+        "uri": "https://web.archive.org/web/20240701141333/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-01T15:59:55Z",
+        "uri": "https://web.archive.org/web/20240701155955/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-01T17:25:48Z",
+        "uri": "https://web.archive.org/web/20240701172548/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-01T18:32:19Z",
+        "uri": "https://web.archive.org/web/20240701183219/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-01T18:35:53Z",
+        "uri": "https://web.archive.org/web/20240701183553/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-01T19:52:11Z",
+        "uri": "https://web.archive.org/web/20240701195211/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T01:23:42Z",
+        "uri": "https://web.archive.org/web/20240702012342/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T02:43:48Z",
+        "uri": "https://web.archive.org/web/20240702024348/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T03:00:46Z",
+        "uri": "https://web.archive.org/web/20240702030046/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T06:46:53Z",
+        "uri": "https://web.archive.org/web/20240702064653/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T11:41:08Z",
+        "uri": "https://web.archive.org/web/20240702114108/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T12:15:55Z",
+        "uri": "https://web.archive.org/web/20240702121555/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T13:13:46Z",
+        "uri": "https://web.archive.org/web/20240702131346/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T13:49:05Z",
+        "uri": "https://web.archive.org/web/20240702134905/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T13:51:02Z",
+        "uri": "https://web.archive.org/web/20240702135102/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T14:45:30Z",
+        "uri": "https://web.archive.org/web/20240702144530/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T15:07:11Z",
+        "uri": "https://web.archive.org/web/20240702150711/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T15:15:15Z",
+        "uri": "https://web.archive.org/web/20240702151515/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T15:19:17Z",
+        "uri": "https://web.archive.org/web/20240702151917/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T15:40:51Z",
+        "uri": "https://web.archive.org/web/20240702154051/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T15:54:09Z",
+        "uri": "https://web.archive.org/web/20240702155409/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T16:04:17Z",
+        "uri": "https://web.archive.org/web/20240702160417/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T16:36:53Z",
+        "uri": "https://web.archive.org/web/20240702163653/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T17:46:14Z",
+        "uri": "https://web.archive.org/web/20240702174614/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T18:13:46Z",
+        "uri": "https://web.archive.org/web/20240702181346/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T18:28:56Z",
+        "uri": "https://web.archive.org/web/20240702182856/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T19:24:14Z",
+        "uri": "https://web.archive.org/web/20240702192414/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T20:07:20Z",
+        "uri": "https://web.archive.org/web/20240702200720/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T20:15:28Z",
+        "uri": "https://web.archive.org/web/20240702201528/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T21:17:55Z",
+        "uri": "https://web.archive.org/web/20240702211755/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T23:27:27Z",
+        "uri": "https://web.archive.org/web/20240702232727/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-02T23:54:47Z",
+        "uri": "https://web.archive.org/web/20240702235447/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T00:06:38Z",
+        "uri": "https://web.archive.org/web/20240703000638/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T01:10:58Z",
+        "uri": "https://web.archive.org/web/20240703011058/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T01:58:47Z",
+        "uri": "https://web.archive.org/web/20240703015847/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T01:59:41Z",
+        "uri": "https://web.archive.org/web/20240703015941/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T02:39:45Z",
+        "uri": "https://web.archive.org/web/20240703023945/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T02:46:35Z",
+        "uri": "https://web.archive.org/web/20240703024635/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T03:01:56Z",
+        "uri": "https://web.archive.org/web/20240703030156/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T03:02:15Z",
+        "uri": "https://web.archive.org/web/20240703030215/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T03:06:44Z",
+        "uri": "https://web.archive.org/web/20240703030644/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T03:20:00Z",
+        "uri": "https://web.archive.org/web/20240703032000/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T03:31:27Z",
+        "uri": "https://web.archive.org/web/20240703033127/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T03:47:12Z",
+        "uri": "https://web.archive.org/web/20240703034712/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T03:50:38Z",
+        "uri": "https://web.archive.org/web/20240703035038/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T03:55:13Z",
+        "uri": "https://web.archive.org/web/20240703035513/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T04:08:51Z",
+        "uri": "https://web.archive.org/web/20240703040851/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T04:13:56Z",
+        "uri": "https://web.archive.org/web/20240703041356/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T04:24:05Z",
+        "uri": "https://web.archive.org/web/20240703042405/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T04:25:22Z",
+        "uri": "https://web.archive.org/web/20240703042522/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T04:30:36Z",
+        "uri": "https://web.archive.org/web/20240703043036/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T04:34:56Z",
+        "uri": "https://web.archive.org/web/20240703043456/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T04:43:05Z",
+        "uri": "https://web.archive.org/web/20240703044305/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T04:55:34Z",
+        "uri": "https://web.archive.org/web/20240703045534/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T05:02:46Z",
+        "uri": "https://web.archive.org/web/20240703050246/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T05:11:24Z",
+        "uri": "https://web.archive.org/web/20240703051124/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T05:22:56Z",
+        "uri": "https://web.archive.org/web/20240703052256/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T05:29:27Z",
+        "uri": "https://web.archive.org/web/20240703052927/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T05:37:50Z",
+        "uri": "https://web.archive.org/web/20240703053750/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T05:42:45Z",
+        "uri": "https://web.archive.org/web/20240703054245/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T05:51:46Z",
+        "uri": "https://web.archive.org/web/20240703055146/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T06:01:46Z",
+        "uri": "https://web.archive.org/web/20240703060146/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T06:15:34Z",
+        "uri": "https://web.archive.org/web/20240703061534/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T06:16:45Z",
+        "uri": "https://web.archive.org/web/20240703061645/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T06:30:54Z",
+        "uri": "https://web.archive.org/web/20240703063054/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T07:11:33Z",
+        "uri": "https://web.archive.org/web/20240703071133/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T07:19:15Z",
+        "uri": "https://web.archive.org/web/20240703071915/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T07:48:11Z",
+        "uri": "https://web.archive.org/web/20240703074811/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T08:31:05Z",
+        "uri": "https://web.archive.org/web/20240703083105/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T08:37:52Z",
+        "uri": "https://web.archive.org/web/20240703083752/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T08:54:26Z",
+        "uri": "https://web.archive.org/web/20240703085426/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T08:57:47Z",
+        "uri": "https://web.archive.org/web/20240703085747/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T09:33:26Z",
+        "uri": "https://web.archive.org/web/20240703093326/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T09:38:16Z",
+        "uri": "https://web.archive.org/web/20240703093816/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T10:23:45Z",
+        "uri": "https://web.archive.org/web/20240703102345/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T10:26:13Z",
+        "uri": "https://web.archive.org/web/20240703102613/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T10:30:46Z",
+        "uri": "https://web.archive.org/web/20240703103046/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T10:45:27Z",
+        "uri": "https://web.archive.org/web/20240703104527/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T11:02:09Z",
+        "uri": "https://web.archive.org/web/20240703110209/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T11:21:23Z",
+        "uri": "https://web.archive.org/web/20240703112123/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T11:34:53Z",
+        "uri": "https://web.archive.org/web/20240703113453/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T11:37:46Z",
+        "uri": "https://web.archive.org/web/20240703113746/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T11:59:14Z",
+        "uri": "https://web.archive.org/web/20240703115914/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T13:45:27Z",
+        "uri": "https://web.archive.org/web/20240703134527/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T14:48:22Z",
+        "uri": "https://web.archive.org/web/20240703144822/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T14:55:23Z",
+        "uri": "https://web.archive.org/web/20240703145523/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T16:03:06Z",
+        "uri": "https://web.archive.org/web/20240703160306/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T16:17:02Z",
+        "uri": "https://web.archive.org/web/20240703161702/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T17:09:36Z",
+        "uri": "https://web.archive.org/web/20240703170936/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T17:22:42Z",
+        "uri": "https://web.archive.org/web/20240703172242/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T17:24:22Z",
+        "uri": "https://web.archive.org/web/20240703172422/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T17:42:25Z",
+        "uri": "https://web.archive.org/web/20240703174225/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T19:19:51Z",
+        "uri": "https://web.archive.org/web/20240703191951/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T19:29:47Z",
+        "uri": "https://web.archive.org/web/20240703192947/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T19:40:40Z",
+        "uri": "https://web.archive.org/web/20240703194040/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T19:42:27Z",
+        "uri": "https://web.archive.org/web/20240703194227/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T19:52:23Z",
+        "uri": "https://web.archive.org/web/20240703195223/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T20:41:51Z",
+        "uri": "https://web.archive.org/web/20240703204151/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T20:43:00Z",
+        "uri": "https://web.archive.org/web/20240703204300/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T21:12:34Z",
+        "uri": "https://web.archive.org/web/20240703211234/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T21:41:28Z",
+        "uri": "https://web.archive.org/web/20240703214128/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T22:02:21Z",
+        "uri": "https://web.archive.org/web/20240703220221/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T22:17:50Z",
+        "uri": "https://web.archive.org/web/20240703221750/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T22:38:56Z",
+        "uri": "https://web.archive.org/web/20240703223856/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T23:00:32Z",
+        "uri": "https://web.archive.org/web/20240703230032/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T23:19:52Z",
+        "uri": "https://web.archive.org/web/20240703231952/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T23:22:00Z",
+        "uri": "https://web.archive.org/web/20240703232200/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T23:48:18Z",
+        "uri": "https://web.archive.org/web/20240703234818/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-03T23:57:13Z",
+        "uri": "https://web.archive.org/web/20240703235713/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T00:12:54Z",
+        "uri": "https://web.archive.org/web/20240704001254/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T00:17:53Z",
+        "uri": "https://web.archive.org/web/20240704001753/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T00:30:30Z",
+        "uri": "https://web.archive.org/web/20240704003030/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T00:55:53Z",
+        "uri": "https://web.archive.org/web/20240704005553/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T00:59:01Z",
+        "uri": "https://web.archive.org/web/20240704005901/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T01:08:36Z",
+        "uri": "https://web.archive.org/web/20240704010836/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T01:39:24Z",
+        "uri": "https://web.archive.org/web/20240704013924/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T02:21:44Z",
+        "uri": "https://web.archive.org/web/20240704022144/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T02:34:56Z",
+        "uri": "https://web.archive.org/web/20240704023456/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T03:28:16Z",
+        "uri": "https://web.archive.org/web/20240704032816/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T03:31:04Z",
+        "uri": "https://web.archive.org/web/20240704033104/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T03:43:21Z",
+        "uri": "https://web.archive.org/web/20240704034321/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T04:00:47Z",
+        "uri": "https://web.archive.org/web/20240704040047/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T04:08:41Z",
+        "uri": "https://web.archive.org/web/20240704040841/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T08:49:28Z",
+        "uri": "https://web.archive.org/web/20240704084928/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T08:55:54Z",
+        "uri": "https://web.archive.org/web/20240704085554/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T10:00:46Z",
+        "uri": "https://web.archive.org/web/20240704100046/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T10:38:47Z",
+        "uri": "https://web.archive.org/web/20240704103847/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T10:41:09Z",
+        "uri": "https://web.archive.org/web/20240704104109/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T11:06:35Z",
+        "uri": "https://web.archive.org/web/20240704110635/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T11:07:01Z",
+        "uri": "https://web.archive.org/web/20240704110701/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T12:19:18Z",
+        "uri": "https://web.archive.org/web/20240704121918/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T12:31:15Z",
+        "uri": "https://web.archive.org/web/20240704123115/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T13:17:31Z",
+        "uri": "https://web.archive.org/web/20240704131731/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T14:16:17Z",
+        "uri": "https://web.archive.org/web/20240704141617/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T15:01:35Z",
+        "uri": "https://web.archive.org/web/20240704150135/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T15:41:11Z",
+        "uri": "https://web.archive.org/web/20240704154111/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T15:56:14Z",
+        "uri": "https://web.archive.org/web/20240704155614/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T17:17:00Z",
+        "uri": "https://web.archive.org/web/20240704171700/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T17:23:28Z",
+        "uri": "https://web.archive.org/web/20240704172328/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T17:36:18Z",
+        "uri": "https://web.archive.org/web/20240704173618/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T17:38:52Z",
+        "uri": "https://web.archive.org/web/20240704173852/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T17:44:08Z",
+        "uri": "https://web.archive.org/web/20240704174408/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T17:53:30Z",
+        "uri": "https://web.archive.org/web/20240704175330/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T19:08:32Z",
+        "uri": "https://web.archive.org/web/20240704190832/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T19:23:22Z",
+        "uri": "https://web.archive.org/web/20240704192322/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T19:40:23Z",
+        "uri": "https://web.archive.org/web/20240704194023/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T20:29:35Z",
+        "uri": "https://web.archive.org/web/20240704202935/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T21:05:07Z",
+        "uri": "https://web.archive.org/web/20240704210507/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T21:15:26Z",
+        "uri": "https://web.archive.org/web/20240704211526/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T21:17:45Z",
+        "uri": "https://web.archive.org/web/20240704211745/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T21:34:25Z",
+        "uri": "https://web.archive.org/web/20240704213425/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T21:56:34Z",
+        "uri": "https://web.archive.org/web/20240704215634/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T22:03:43Z",
+        "uri": "https://web.archive.org/web/20240704220343/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T22:07:25Z",
+        "uri": "https://web.archive.org/web/20240704220725/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T22:29:12Z",
+        "uri": "https://web.archive.org/web/20240704222912/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T22:39:15Z",
+        "uri": "https://web.archive.org/web/20240704223915/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T22:43:55Z",
+        "uri": "https://web.archive.org/web/20240704224355/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-04T23:09:46Z",
+        "uri": "https://web.archive.org/web/20240704230946/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T03:58:15Z",
+        "uri": "https://web.archive.org/web/20240705035815/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T04:18:57Z",
+        "uri": "https://web.archive.org/web/20240705041857/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T04:30:42Z",
+        "uri": "https://web.archive.org/web/20240705043042/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T04:41:01Z",
+        "uri": "https://web.archive.org/web/20240705044101/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T04:54:16Z",
+        "uri": "https://web.archive.org/web/20240705045416/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T05:16:16Z",
+        "uri": "https://web.archive.org/web/20240705051616/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T05:26:53Z",
+        "uri": "https://web.archive.org/web/20240705052653/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T05:39:21Z",
+        "uri": "https://web.archive.org/web/20240705053921/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T06:02:33Z",
+        "uri": "https://web.archive.org/web/20240705060233/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T07:50:35Z",
+        "uri": "https://web.archive.org/web/20240705075035/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T08:21:18Z",
+        "uri": "https://web.archive.org/web/20240705082118/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T11:36:30Z",
+        "uri": "https://web.archive.org/web/20240705113630/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T11:40:31Z",
+        "uri": "https://web.archive.org/web/20240705114031/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T11:42:52Z",
+        "uri": "https://web.archive.org/web/20240705114252/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T11:48:16Z",
+        "uri": "https://web.archive.org/web/20240705114816/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T11:55:33Z",
+        "uri": "https://web.archive.org/web/20240705115533/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T11:58:15Z",
+        "uri": "https://web.archive.org/web/20240705115815/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T12:16:07Z",
+        "uri": "https://web.archive.org/web/20240705121607/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T12:16:58Z",
+        "uri": "https://web.archive.org/web/20240705121658/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T12:17:02Z",
+        "uri": "https://web.archive.org/web/20240705121702/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T12:24:48Z",
+        "uri": "https://web.archive.org/web/20240705122448/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T12:32:47Z",
+        "uri": "https://web.archive.org/web/20240705123247/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T12:39:11Z",
+        "uri": "https://web.archive.org/web/20240705123911/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T12:43:37Z",
+        "uri": "https://web.archive.org/web/20240705124337/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T12:46:21Z",
+        "uri": "https://web.archive.org/web/20240705124621/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T12:52:10Z",
+        "uri": "https://web.archive.org/web/20240705125210/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T13:00:42Z",
+        "uri": "https://web.archive.org/web/20240705130042/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T13:02:19Z",
+        "uri": "https://web.archive.org/web/20240705130219/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T13:09:35Z",
+        "uri": "https://web.archive.org/web/20240705130935/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T13:14:17Z",
+        "uri": "https://web.archive.org/web/20240705131417/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T13:27:10Z",
+        "uri": "https://web.archive.org/web/20240705132710/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T13:30:37Z",
+        "uri": "https://web.archive.org/web/20240705133037/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T13:34:54Z",
+        "uri": "https://web.archive.org/web/20240705133454/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T13:40:47Z",
+        "uri": "https://web.archive.org/web/20240705134047/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T13:49:51Z",
+        "uri": "https://web.archive.org/web/20240705134951/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T14:18:41Z",
+        "uri": "https://web.archive.org/web/20240705141841/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T14:21:56Z",
+        "uri": "https://web.archive.org/web/20240705142156/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T15:21:51Z",
+        "uri": "https://web.archive.org/web/20240705152151/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T15:25:08Z",
+        "uri": "https://web.archive.org/web/20240705152508/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T15:46:38Z",
+        "uri": "https://web.archive.org/web/20240705154638/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T16:11:05Z",
+        "uri": "https://web.archive.org/web/20240705161105/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T16:53:52Z",
+        "uri": "https://web.archive.org/web/20240705165352/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T17:10:53Z",
+        "uri": "https://web.archive.org/web/20240705171053/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T17:11:43Z",
+        "uri": "https://web.archive.org/web/20240705171143/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T17:27:13Z",
+        "uri": "https://web.archive.org/web/20240705172713/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T17:57:02Z",
+        "uri": "https://web.archive.org/web/20240705175702/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T18:05:25Z",
+        "uri": "https://web.archive.org/web/20240705180525/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T18:37:18Z",
+        "uri": "https://web.archive.org/web/20240705183718/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T18:37:26Z",
+        "uri": "https://web.archive.org/web/20240705183726/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T18:41:13Z",
+        "uri": "https://web.archive.org/web/20240705184113/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T20:36:03Z",
+        "uri": "https://web.archive.org/web/20240705203603/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T20:37:43Z",
+        "uri": "https://web.archive.org/web/20240705203743/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T20:39:17Z",
+        "uri": "https://web.archive.org/web/20240705203917/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T21:29:35Z",
+        "uri": "https://web.archive.org/web/20240705212935/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-05T21:48:08Z",
+        "uri": "https://web.archive.org/web/20240705214808/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T00:19:11Z",
+        "uri": "https://web.archive.org/web/20240706001911/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T01:11:24Z",
+        "uri": "https://web.archive.org/web/20240706011124/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T01:13:25Z",
+        "uri": "https://web.archive.org/web/20240706011325/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T01:16:34Z",
+        "uri": "https://web.archive.org/web/20240706011634/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T01:18:56Z",
+        "uri": "https://web.archive.org/web/20240706011856/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T01:26:27Z",
+        "uri": "https://web.archive.org/web/20240706012627/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T01:26:37Z",
+        "uri": "https://web.archive.org/web/20240706012637/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T01:37:23Z",
+        "uri": "https://web.archive.org/web/20240706013723/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T01:41:48Z",
+        "uri": "https://web.archive.org/web/20240706014148/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T01:44:55Z",
+        "uri": "https://web.archive.org/web/20240706014455/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T01:47:04Z",
+        "uri": "https://web.archive.org/web/20240706014704/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T01:58:09Z",
+        "uri": "https://web.archive.org/web/20240706015809/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T02:00:15Z",
+        "uri": "https://web.archive.org/web/20240706020015/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T02:21:30Z",
+        "uri": "https://web.archive.org/web/20240706022130/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T02:26:07Z",
+        "uri": "https://web.archive.org/web/20240706022607/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T03:23:03Z",
+        "uri": "https://web.archive.org/web/20240706032303/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T03:48:42Z",
+        "uri": "https://web.archive.org/web/20240706034842/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T04:46:45Z",
+        "uri": "https://web.archive.org/web/20240706044645/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T04:51:17Z",
+        "uri": "https://web.archive.org/web/20240706045117/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T04:53:34Z",
+        "uri": "https://web.archive.org/web/20240706045334/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T05:00:49Z",
+        "uri": "https://web.archive.org/web/20240706050049/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T05:42:13Z",
+        "uri": "https://web.archive.org/web/20240706054213/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T05:49:57Z",
+        "uri": "https://web.archive.org/web/20240706054957/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T06:18:13Z",
+        "uri": "https://web.archive.org/web/20240706061813/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T06:36:01Z",
+        "uri": "https://web.archive.org/web/20240706063601/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T07:25:48Z",
+        "uri": "https://web.archive.org/web/20240706072548/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T07:26:24Z",
+        "uri": "https://web.archive.org/web/20240706072624/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T08:17:07Z",
+        "uri": "https://web.archive.org/web/20240706081707/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T08:37:14Z",
+        "uri": "https://web.archive.org/web/20240706083714/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T08:50:20Z",
+        "uri": "https://web.archive.org/web/20240706085020/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T09:06:51Z",
+        "uri": "https://web.archive.org/web/20240706090651/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T11:05:05Z",
+        "uri": "https://web.archive.org/web/20240706110505/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T11:47:17Z",
+        "uri": "https://web.archive.org/web/20240706114717/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T12:20:04Z",
+        "uri": "https://web.archive.org/web/20240706122004/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T12:53:29Z",
+        "uri": "https://web.archive.org/web/20240706125329/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T13:22:46Z",
+        "uri": "https://web.archive.org/web/20240706132246/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T15:02:15Z",
+        "uri": "https://web.archive.org/web/20240706150215/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T15:15:37Z",
+        "uri": "https://web.archive.org/web/20240706151537/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T15:34:33Z",
+        "uri": "https://web.archive.org/web/20240706153433/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T17:06:51Z",
+        "uri": "https://web.archive.org/web/20240706170651/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T17:45:42Z",
+        "uri": "https://web.archive.org/web/20240706174542/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T18:18:30Z",
+        "uri": "https://web.archive.org/web/20240706181830/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-06T23:52:30Z",
+        "uri": "https://web.archive.org/web/20240706235230/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-07T00:31:37Z",
+        "uri": "https://web.archive.org/web/20240707003137/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-10T22:08:39Z",
+        "uri": "https://web.archive.org/web/20240710220839/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T22:22:56Z",
+        "uri": "https://web.archive.org/web/20240711222256/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T22:24:43Z",
+        "uri": "https://web.archive.org/web/20240711222443/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T22:25:43Z",
+        "uri": "https://web.archive.org/web/20240711222543/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T22:26:11Z",
+        "uri": "https://web.archive.org/web/20240711222611/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T22:26:34Z",
+        "uri": "https://web.archive.org/web/20240711222634/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T22:30:09Z",
+        "uri": "https://web.archive.org/web/20240711223009/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T22:32:25Z",
+        "uri": "https://web.archive.org/web/20240711223225/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T22:34:24Z",
+        "uri": "https://web.archive.org/web/20240711223424/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T22:36:34Z",
+        "uri": "https://web.archive.org/web/20240711223634/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T22:41:07Z",
+        "uri": "https://web.archive.org/web/20240711224107/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T22:45:19Z",
+        "uri": "https://web.archive.org/web/20240711224519/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T22:47:58Z",
+        "uri": "https://web.archive.org/web/20240711224758/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T22:55:55Z",
+        "uri": "https://web.archive.org/web/20240711225555/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T23:12:54Z",
+        "uri": "https://web.archive.org/web/20240711231254/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T23:16:28Z",
+        "uri": "https://web.archive.org/web/20240711231628/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T23:18:35Z",
+        "uri": "https://web.archive.org/web/20240711231835/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T23:26:36Z",
+        "uri": "https://web.archive.org/web/20240711232636/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T23:30:41Z",
+        "uri": "https://web.archive.org/web/20240711233041/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T23:41:55Z",
+        "uri": "https://web.archive.org/web/20240711234155/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T23:43:02Z",
+        "uri": "https://web.archive.org/web/20240711234302/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T23:46:23Z",
+        "uri": "https://web.archive.org/web/20240711234623/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-11T23:50:37Z",
+        "uri": "https://web.archive.org/web/20240711235037/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T00:25:57Z",
+        "uri": "https://web.archive.org/web/20240712002557/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T00:38:24Z",
+        "uri": "https://web.archive.org/web/20240712003824/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T00:41:53Z",
+        "uri": "https://web.archive.org/web/20240712004153/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T00:51:00Z",
+        "uri": "https://web.archive.org/web/20240712005100/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T01:14:40Z",
+        "uri": "https://web.archive.org/web/20240712011440/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T01:31:51Z",
+        "uri": "https://web.archive.org/web/20240712013151/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T01:36:37Z",
+        "uri": "https://web.archive.org/web/20240712013637/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T01:44:42Z",
+        "uri": "https://web.archive.org/web/20240712014442/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T01:47:21Z",
+        "uri": "https://web.archive.org/web/20240712014721/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T02:05:14Z",
+        "uri": "https://web.archive.org/web/20240712020514/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T02:51:37Z",
+        "uri": "https://web.archive.org/web/20240712025137/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T03:04:11Z",
+        "uri": "https://web.archive.org/web/20240712030411/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T03:25:18Z",
+        "uri": "https://web.archive.org/web/20240712032518/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T03:34:14Z",
+        "uri": "https://web.archive.org/web/20240712033414/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T05:07:29Z",
+        "uri": "https://web.archive.org/web/20240712050729/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T08:20:13Z",
+        "uri": "https://web.archive.org/web/20240712082013/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T09:54:29Z",
+        "uri": "https://web.archive.org/web/20240712095429/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T16:32:12Z",
+        "uri": "https://web.archive.org/web/20240712163212/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T17:35:55Z",
+        "uri": "https://web.archive.org/web/20240712173555/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T18:27:59Z",
+        "uri": "https://web.archive.org/web/20240712182759/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T19:37:55Z",
+        "uri": "https://web.archive.org/web/20240712193755/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T19:53:07Z",
+        "uri": "https://web.archive.org/web/20240712195307/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T20:00:57Z",
+        "uri": "https://web.archive.org/web/20240712200057/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T20:02:50Z",
+        "uri": "https://web.archive.org/web/20240712200250/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T20:17:50Z",
+        "uri": "https://web.archive.org/web/20240712201750/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T20:38:27Z",
+        "uri": "https://web.archive.org/web/20240712203827/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T20:39:29Z",
+        "uri": "https://web.archive.org/web/20240712203929/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T20:41:20Z",
+        "uri": "https://web.archive.org/web/20240712204120/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T21:27:12Z",
+        "uri": "https://web.archive.org/web/20240712212712/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T21:59:04Z",
+        "uri": "https://web.archive.org/web/20240712215904/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T22:16:43Z",
+        "uri": "https://web.archive.org/web/20240712221643/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T22:34:47Z",
+        "uri": "https://web.archive.org/web/20240712223447/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-12T23:52:23Z",
+        "uri": "https://web.archive.org/web/20240712235223/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T00:22:42Z",
+        "uri": "https://web.archive.org/web/20240713002242/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T00:32:05Z",
+        "uri": "https://web.archive.org/web/20240713003205/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T02:55:17Z",
+        "uri": "https://web.archive.org/web/20240713025517/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T04:53:48Z",
+        "uri": "https://web.archive.org/web/20240713045348/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T05:19:16Z",
+        "uri": "https://web.archive.org/web/20240713051916/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T05:39:03Z",
+        "uri": "https://web.archive.org/web/20240713053903/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T06:11:04Z",
+        "uri": "https://web.archive.org/web/20240713061104/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T06:32:56Z",
+        "uri": "https://web.archive.org/web/20240713063256/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T07:30:07Z",
+        "uri": "https://web.archive.org/web/20240713073007/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T07:38:42Z",
+        "uri": "https://web.archive.org/web/20240713073842/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T08:00:21Z",
+        "uri": "https://web.archive.org/web/20240713080021/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T08:55:35Z",
+        "uri": "https://web.archive.org/web/20240713085535/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T09:11:29Z",
+        "uri": "https://web.archive.org/web/20240713091129/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T09:30:20Z",
+        "uri": "https://web.archive.org/web/20240713093020/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T09:42:29Z",
+        "uri": "https://web.archive.org/web/20240713094229/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T09:43:57Z",
+        "uri": "https://web.archive.org/web/20240713094357/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T09:52:17Z",
+        "uri": "https://web.archive.org/web/20240713095217/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T11:47:55Z",
+        "uri": "https://web.archive.org/web/20240713114755/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T12:11:07Z",
+        "uri": "https://web.archive.org/web/20240713121107/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T12:34:26Z",
+        "uri": "https://web.archive.org/web/20240713123426/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T12:37:56Z",
+        "uri": "https://web.archive.org/web/20240713123756/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T13:04:36Z",
+        "uri": "https://web.archive.org/web/20240713130436/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T14:47:55Z",
+        "uri": "https://web.archive.org/web/20240713144755/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T15:29:08Z",
+        "uri": "https://web.archive.org/web/20240713152908/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T15:42:34Z",
+        "uri": "https://web.archive.org/web/20240713154234/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T16:18:06Z",
+        "uri": "https://web.archive.org/web/20240713161806/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T17:31:27Z",
+        "uri": "https://web.archive.org/web/20240713173127/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T17:50:34Z",
+        "uri": "https://web.archive.org/web/20240713175034/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T18:32:54Z",
+        "uri": "https://web.archive.org/web/20240713183254/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T20:08:18Z",
+        "uri": "https://web.archive.org/web/20240713200818/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T20:09:15Z",
+        "uri": "https://web.archive.org/web/20240713200915/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T20:11:37Z",
+        "uri": "https://web.archive.org/web/20240713201137/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T20:58:39Z",
+        "uri": "https://web.archive.org/web/20240713205839/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T21:48:47Z",
+        "uri": "https://web.archive.org/web/20240713214847/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-13T21:57:38Z",
+        "uri": "https://web.archive.org/web/20240713215738/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-16T11:26:28Z",
+        "uri": "https://web.archive.org/web/20240716112628/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-17T09:56:28Z",
+        "uri": "https://web.archive.org/web/20240717095628/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-18T15:45:45Z",
+        "uri": "https://web.archive.org/web/20240718154545/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-18T16:41:03Z",
+        "uri": "https://web.archive.org/web/20240718164103/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-07-31T04:12:13Z",
+        "uri": "https://web.archive.org/web/20240731041213/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-01T06:31:28Z",
+        "uri": "https://web.archive.org/web/20240801063128/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-01T22:45:17Z",
+        "uri": "https://web.archive.org/web/20240801224517/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-02T08:37:33Z",
+        "uri": "https://web.archive.org/web/20240802083733/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-02T08:41:26Z",
+        "uri": "https://web.archive.org/web/20240802084126/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-02T08:43:51Z",
+        "uri": "https://web.archive.org/web/20240802084351/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-02T08:49:50Z",
+        "uri": "https://web.archive.org/web/20240802084950/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-02T08:50:55Z",
+        "uri": "https://web.archive.org/web/20240802085055/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-02T09:28:16Z",
+        "uri": "https://web.archive.org/web/20240802092816/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-02T09:40:58Z",
+        "uri": "https://web.archive.org/web/20240802094058/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-02T09:51:59Z",
+        "uri": "https://web.archive.org/web/20240802095159/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-02T10:30:42Z",
+        "uri": "https://web.archive.org/web/20240802103042/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-02T10:36:25Z",
+        "uri": "https://web.archive.org/web/20240802103625/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-02T12:18:25Z",
+        "uri": "https://web.archive.org/web/20240802121825/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-02T12:41:22Z",
+        "uri": "https://web.archive.org/web/20240802124122/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-02T22:40:05Z",
+        "uri": "https://web.archive.org/web/20240802224005/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-02T23:34:23Z",
+        "uri": "https://web.archive.org/web/20240802233423/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T01:49:51Z",
+        "uri": "https://web.archive.org/web/20240803014951/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T10:12:52Z",
+        "uri": "https://web.archive.org/web/20240803101252/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T10:57:09Z",
+        "uri": "https://web.archive.org/web/20240803105709/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T11:15:52Z",
+        "uri": "https://web.archive.org/web/20240803111552/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T11:34:02Z",
+        "uri": "https://web.archive.org/web/20240803113402/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T12:07:51Z",
+        "uri": "https://web.archive.org/web/20240803120751/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T12:36:29Z",
+        "uri": "https://web.archive.org/web/20240803123629/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T13:36:47Z",
+        "uri": "https://web.archive.org/web/20240803133647/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T14:22:16Z",
+        "uri": "https://web.archive.org/web/20240803142216/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T15:20:55Z",
+        "uri": "https://web.archive.org/web/20240803152055/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T15:31:40Z",
+        "uri": "https://web.archive.org/web/20240803153140/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T16:30:25Z",
+        "uri": "https://web.archive.org/web/20240803163025/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T17:07:37Z",
+        "uri": "https://web.archive.org/web/20240803170737/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T18:10:06Z",
+        "uri": "https://web.archive.org/web/20240803181006/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T18:45:42Z",
+        "uri": "https://web.archive.org/web/20240803184542/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T19:03:37Z",
+        "uri": "https://web.archive.org/web/20240803190337/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T20:40:11Z",
+        "uri": "https://web.archive.org/web/20240803204011/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T21:00:06Z",
+        "uri": "https://web.archive.org/web/20240803210006/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T21:25:38Z",
+        "uri": "https://web.archive.org/web/20240803212538/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T22:07:28Z",
+        "uri": "https://web.archive.org/web/20240803220728/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T23:10:04Z",
+        "uri": "https://web.archive.org/web/20240803231004/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T23:35:52Z",
+        "uri": "https://web.archive.org/web/20240803233552/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-03T23:40:39Z",
+        "uri": "https://web.archive.org/web/20240803234039/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T00:01:28Z",
+        "uri": "https://web.archive.org/web/20240804000128/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T00:30:02Z",
+        "uri": "https://web.archive.org/web/20240804003002/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T01:21:35Z",
+        "uri": "https://web.archive.org/web/20240804012135/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T07:34:06Z",
+        "uri": "https://web.archive.org/web/20240804073406/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T08:19:02Z",
+        "uri": "https://web.archive.org/web/20240804081902/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T08:20:44Z",
+        "uri": "https://web.archive.org/web/20240804082044/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T09:00:48Z",
+        "uri": "https://web.archive.org/web/20240804090048/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T09:07:41Z",
+        "uri": "https://web.archive.org/web/20240804090741/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T09:17:33Z",
+        "uri": "https://web.archive.org/web/20240804091733/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T09:31:23Z",
+        "uri": "https://web.archive.org/web/20240804093123/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T11:42:36Z",
+        "uri": "https://web.archive.org/web/20240804114236/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T12:32:59Z",
+        "uri": "https://web.archive.org/web/20240804123259/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T12:38:54Z",
+        "uri": "https://web.archive.org/web/20240804123854/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T13:25:26Z",
+        "uri": "https://web.archive.org/web/20240804132526/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T13:30:51Z",
+        "uri": "https://web.archive.org/web/20240804133051/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T14:03:14Z",
+        "uri": "https://web.archive.org/web/20240804140314/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T15:17:10Z",
+        "uri": "https://web.archive.org/web/20240804151710/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T15:41:01Z",
+        "uri": "https://web.archive.org/web/20240804154101/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T16:18:13Z",
+        "uri": "https://web.archive.org/web/20240804161813/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T17:39:28Z",
+        "uri": "https://web.archive.org/web/20240804173928/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T20:22:28Z",
+        "uri": "https://web.archive.org/web/20240804202228/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T20:56:54Z",
+        "uri": "https://web.archive.org/web/20240804205654/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T21:19:15Z",
+        "uri": "https://web.archive.org/web/20240804211915/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-04T21:29:32Z",
+        "uri": "https://web.archive.org/web/20240804212932/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T00:24:56Z",
+        "uri": "https://web.archive.org/web/20240805002456/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T03:11:24Z",
+        "uri": "https://web.archive.org/web/20240805031124/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T03:27:41Z",
+        "uri": "https://web.archive.org/web/20240805032741/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T07:59:41Z",
+        "uri": "https://web.archive.org/web/20240805075941/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T08:10:28Z",
+        "uri": "https://web.archive.org/web/20240805081028/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T08:58:41Z",
+        "uri": "https://web.archive.org/web/20240805085841/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T09:05:07Z",
+        "uri": "https://web.archive.org/web/20240805090507/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T09:50:26Z",
+        "uri": "https://web.archive.org/web/20240805095026/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T12:21:11Z",
+        "uri": "https://web.archive.org/web/20240805122111/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T12:58:15Z",
+        "uri": "https://web.archive.org/web/20240805125815/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T13:00:11Z",
+        "uri": "https://web.archive.org/web/20240805130011/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T13:44:13Z",
+        "uri": "https://web.archive.org/web/20240805134413/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T13:52:34Z",
+        "uri": "https://web.archive.org/web/20240805135234/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T14:23:16Z",
+        "uri": "https://web.archive.org/web/20240805142316/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T15:04:12Z",
+        "uri": "https://web.archive.org/web/20240805150412/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T17:19:11Z",
+        "uri": "https://web.archive.org/web/20240805171911/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T17:48:07Z",
+        "uri": "https://web.archive.org/web/20240805174807/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T18:05:50Z",
+        "uri": "https://web.archive.org/web/20240805180550/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T19:20:44Z",
+        "uri": "https://web.archive.org/web/20240805192044/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T20:50:04Z",
+        "uri": "https://web.archive.org/web/20240805205004/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T21:08:35Z",
+        "uri": "https://web.archive.org/web/20240805210835/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T21:25:13Z",
+        "uri": "https://web.archive.org/web/20240805212513/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T22:16:02Z",
+        "uri": "https://web.archive.org/web/20240805221602/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T23:07:31Z",
+        "uri": "https://web.archive.org/web/20240805230731/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T23:08:28Z",
+        "uri": "https://web.archive.org/web/20240805230828/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T23:10:23Z",
+        "uri": "https://web.archive.org/web/20240805231023/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T23:24:06Z",
+        "uri": "https://web.archive.org/web/20240805232406/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-05T23:28:38Z",
+        "uri": "https://web.archive.org/web/20240805232838/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-06T01:51:37Z",
+        "uri": "https://web.archive.org/web/20240806015137/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-06T02:46:38Z",
+        "uri": "https://web.archive.org/web/20240806024638/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-06T02:46:44Z",
+        "uri": "https://web.archive.org/web/20240806024644/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-06T03:00:06Z",
+        "uri": "https://web.archive.org/web/20240806030006/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-06T03:06:56Z",
+        "uri": "https://web.archive.org/web/20240806030656/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-06T05:00:53Z",
+        "uri": "https://web.archive.org/web/20240806050053/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-06T06:04:23Z",
+        "uri": "https://web.archive.org/web/20240806060423/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-06T07:49:29Z",
+        "uri": "https://web.archive.org/web/20240806074929/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-06T09:26:21Z",
+        "uri": "https://web.archive.org/web/20240806092621/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-06T10:22:58Z",
+        "uri": "https://web.archive.org/web/20240806102258/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-06T10:27:54Z",
+        "uri": "https://web.archive.org/web/20240806102754/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-06T11:41:39Z",
+        "uri": "https://web.archive.org/web/20240806114139/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-06T12:05:21Z",
+        "uri": "https://web.archive.org/web/20240806120521/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-06T12:10:59Z",
+        "uri": "https://web.archive.org/web/20240806121059/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-06T13:06:41Z",
+        "uri": "https://web.archive.org/web/20240806130641/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-06T14:25:51Z",
+        "uri": "https://web.archive.org/web/20240806142551/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-06T14:51:58Z",
+        "uri": "https://web.archive.org/web/20240806145158/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-06T16:11:41Z",
+        "uri": "https://web.archive.org/web/20240806161141/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-06T19:26:08Z",
+        "uri": "https://web.archive.org/web/20240806192608/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-07T00:28:04Z",
+        "uri": "https://web.archive.org/web/20240807002804/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-07T05:20:19Z",
+        "uri": "https://web.archive.org/web/20240807052019/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-07T10:03:17Z",
+        "uri": "https://web.archive.org/web/20240807100317/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-07T10:20:12Z",
+        "uri": "https://web.archive.org/web/20240807102012/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-07T10:58:28Z",
+        "uri": "https://web.archive.org/web/20240807105828/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-07T11:47:42Z",
+        "uri": "https://web.archive.org/web/20240807114742/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-07T12:08:50Z",
+        "uri": "https://web.archive.org/web/20240807120850/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-07T12:16:40Z",
+        "uri": "https://web.archive.org/web/20240807121640/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-07T14:49:36Z",
+        "uri": "https://web.archive.org/web/20240807144936/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-07T15:47:02Z",
+        "uri": "https://web.archive.org/web/20240807154702/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-07T18:45:52Z",
+        "uri": "https://web.archive.org/web/20240807184552/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-07T20:24:36Z",
+        "uri": "https://web.archive.org/web/20240807202436/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-07T21:08:33Z",
+        "uri": "https://web.archive.org/web/20240807210833/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-07T21:11:17Z",
+        "uri": "https://web.archive.org/web/20240807211117/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-08T00:18:16Z",
+        "uri": "https://web.archive.org/web/20240808001816/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-08T01:28:56Z",
+        "uri": "https://web.archive.org/web/20240808012856/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-08T02:25:15Z",
+        "uri": "https://web.archive.org/web/20240808022515/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-08T03:26:29Z",
+        "uri": "https://web.archive.org/web/20240808032629/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-08T03:36:37Z",
+        "uri": "https://web.archive.org/web/20240808033637/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-08T05:09:59Z",
+        "uri": "https://web.archive.org/web/20240808050959/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-08T09:12:06Z",
+        "uri": "https://web.archive.org/web/20240808091206/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-08T10:01:08Z",
+        "uri": "https://web.archive.org/web/20240808100108/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-08T10:07:20Z",
+        "uri": "https://web.archive.org/web/20240808100720/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-08T12:03:03Z",
+        "uri": "https://web.archive.org/web/20240808120303/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-08T12:10:44Z",
+        "uri": "https://web.archive.org/web/20240808121044/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-08T12:33:56Z",
+        "uri": "https://web.archive.org/web/20240808123356/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-08T12:36:32Z",
+        "uri": "https://web.archive.org/web/20240808123632/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-08T12:59:26Z",
+        "uri": "https://web.archive.org/web/20240808125926/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-08T13:13:56Z",
+        "uri": "https://web.archive.org/web/20240808131356/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-08T19:41:05Z",
+        "uri": "https://web.archive.org/web/20240808194105/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-08T21:50:32Z",
+        "uri": "https://web.archive.org/web/20240808215032/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-09T03:07:07Z",
+        "uri": "https://web.archive.org/web/20240809030707/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-09T03:09:22Z",
+        "uri": "https://web.archive.org/web/20240809030922/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-09T03:30:42Z",
+        "uri": "https://web.archive.org/web/20240809033042/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-09T04:54:31Z",
+        "uri": "https://web.archive.org/web/20240809045431/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-09T05:01:52Z",
+        "uri": "https://web.archive.org/web/20240809050152/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-09T05:25:05Z",
+        "uri": "https://web.archive.org/web/20240809052505/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-09T08:31:36Z",
+        "uri": "https://web.archive.org/web/20240809083136/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-09T11:50:10Z",
+        "uri": "https://web.archive.org/web/20240809115010/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-09T13:21:16Z",
+        "uri": "https://web.archive.org/web/20240809132116/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-09T14:30:33Z",
+        "uri": "https://web.archive.org/web/20240809143033/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-09T20:50:05Z",
+        "uri": "https://web.archive.org/web/20240809205005/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-09T23:38:57Z",
+        "uri": "https://web.archive.org/web/20240809233857/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-09T23:49:46Z",
+        "uri": "https://web.archive.org/web/20240809234946/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-10T01:34:23Z",
+        "uri": "https://web.archive.org/web/20240810013423/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-10T08:19:17Z",
+        "uri": "https://web.archive.org/web/20240810081917/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-10T09:24:24Z",
+        "uri": "https://web.archive.org/web/20240810092424/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-10T10:07:15Z",
+        "uri": "https://web.archive.org/web/20240810100715/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-10T10:13:55Z",
+        "uri": "https://web.archive.org/web/20240810101355/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-10T10:14:43Z",
+        "uri": "https://web.archive.org/web/20240810101443/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-10T10:29:51Z",
+        "uri": "https://web.archive.org/web/20240810102951/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-10T12:11:00Z",
+        "uri": "https://web.archive.org/web/20240810121100/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-10T14:06:54Z",
+        "uri": "https://web.archive.org/web/20240810140654/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-10T20:40:22Z",
+        "uri": "https://web.archive.org/web/20240810204022/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-10T21:30:14Z",
+        "uri": "https://web.archive.org/web/20240810213014/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-11T00:16:54Z",
+        "uri": "https://web.archive.org/web/20240811001654/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-11T03:59:28Z",
+        "uri": "https://web.archive.org/web/20240811035928/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-11T06:04:18Z",
+        "uri": "https://web.archive.org/web/20240811060418/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-11T06:32:02Z",
+        "uri": "https://web.archive.org/web/20240811063202/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-11T10:01:50Z",
+        "uri": "https://web.archive.org/web/20240811100150/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-11T12:27:04Z",
+        "uri": "https://web.archive.org/web/20240811122704/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-11T12:33:45Z",
+        "uri": "https://web.archive.org/web/20240811123345/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-12T02:48:43Z",
+        "uri": "https://web.archive.org/web/20240812024843/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-18T00:24:26Z",
+        "uri": "https://web.archive.org/web/20240818002426/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-18T14:28:16Z",
+        "uri": "https://web.archive.org/web/20240818142816/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-25T11:33:27Z",
+        "uri": "https://web.archive.org/web/20240825113327/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-26T01:56:16Z",
+        "uri": "https://web.archive.org/web/20240826015616/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-26T02:15:46Z",
+        "uri": "https://web.archive.org/web/20240826021546/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-26T02:16:45Z",
+        "uri": "https://web.archive.org/web/20240826021645/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-26T02:17:00Z",
+        "uri": "https://web.archive.org/web/20240826021700/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-26T02:17:08Z",
+        "uri": "https://web.archive.org/web/20240826021708/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-08-26T02:20:15Z",
+        "uri": "https://web.archive.org/web/20240826022015/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-03T10:58:25Z",
+        "uri": "https://web.archive.org/web/20240903105825/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-05T07:53:13Z",
+        "uri": "https://web.archive.org/web/20240905075313/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-12T07:55:00Z",
+        "uri": "https://web.archive.org/web/20240912075500/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-13T02:27:13Z",
+        "uri": "https://web.archive.org/web/20240913022713/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-14T09:47:02Z",
+        "uri": "https://web.archive.org/web/20240914094702/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-14T21:05:06Z",
+        "uri": "https://web.archive.org/web/20240914210506/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-16T09:33:35Z",
+        "uri": "https://web.archive.org/web/20240916093335/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-16T14:19:13Z",
+        "uri": "https://web.archive.org/web/20240916141913/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-16T15:05:15Z",
+        "uri": "https://web.archive.org/web/20240916150515/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-17T09:33:46Z",
+        "uri": "https://web.archive.org/web/20240917093346/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-19T02:28:37Z",
+        "uri": "https://web.archive.org/web/20240919022837/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-19T06:55:54Z",
+        "uri": "https://web.archive.org/web/20240919065554/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-19T06:55:57Z",
+        "uri": "https://web.archive.org/web/20240919065557/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-20T22:29:04Z",
+        "uri": "https://web.archive.org/web/20240920222904/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-23T08:06:58Z",
+        "uri": "https://web.archive.org/web/20240923080658/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-24T09:43:46Z",
+        "uri": "https://web.archive.org/web/20240924094346/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-24T09:43:59Z",
+        "uri": "https://web.archive.org/web/20240924094359/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-26T02:07:15Z",
+        "uri": "https://web.archive.org/web/20240926020715/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-27T04:55:15Z",
+        "uri": "https://web.archive.org/web/20240927045515/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-09-29T09:36:12Z",
+        "uri": "https://web.archive.org/web/20240929093612/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-10-01T11:46:12Z",
+        "uri": "https://web.archive.org/web/20241001114612/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-10-01T15:06:00Z",
+        "uri": "https://web.archive.org/web/20241001150600/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-10-08T19:07:49Z",
+        "uri": "https://web.archive.org/web/20241008190749/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-11T03:00:43Z",
+        "uri": "https://web.archive.org/web/20241111030043/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-13T13:11:39Z",
+        "uri": "https://web.archive.org/web/20241113131139/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-14T10:25:07Z",
+        "uri": "https://web.archive.org/web/20241114102507/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-14T13:27:31Z",
+        "uri": "https://web.archive.org/web/20241114132731/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-15T05:18:07Z",
+        "uri": "https://web.archive.org/web/20241115051807/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-15T05:42:27Z",
+        "uri": "https://web.archive.org/web/20241115054227/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-16T21:39:51Z",
+        "uri": "https://web.archive.org/web/20241116213951/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-18T04:16:29Z",
+        "uri": "https://web.archive.org/web/20241118041629/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-20T12:30:18Z",
+        "uri": "https://web.archive.org/web/20241120123018/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-21T07:05:43Z",
+        "uri": "https://web.archive.org/web/20241121070543/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-22T07:57:17Z",
+        "uri": "https://web.archive.org/web/20241122075717/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-22T08:58:33Z",
+        "uri": "https://web.archive.org/web/20241122085833/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-22T19:41:14Z",
+        "uri": "https://web.archive.org/web/20241122194114/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-22T21:33:41Z",
+        "uri": "https://web.archive.org/web/20241122213341/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-22T21:46:53Z",
+        "uri": "https://web.archive.org/web/20241122214653/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-23T19:22:02Z",
+        "uri": "https://web.archive.org/web/20241123192202/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-25T01:10:53Z",
+        "uri": "https://web.archive.org/web/20241125011053/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-25T02:15:38Z",
+        "uri": "https://web.archive.org/web/20241125021538/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-25T02:32:21Z",
+        "uri": "https://web.archive.org/web/20241125023221/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-25T19:02:52Z",
+        "uri": "https://web.archive.org/web/20241125190252/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-26T01:29:44Z",
+        "uri": "https://web.archive.org/web/20241126012944/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-26T22:12:14Z",
+        "uri": "https://web.archive.org/web/20241126221214/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-26T23:08:01Z",
+        "uri": "https://web.archive.org/web/20241126230801/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-27T00:56:44Z",
+        "uri": "https://web.archive.org/web/20241127005644/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-30T06:57:18Z",
+        "uri": "https://web.archive.org/web/20241130065718/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-30T18:13:13Z",
+        "uri": "https://web.archive.org/web/20241130181313/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-11-30T18:18:40Z",
+        "uri": "https://web.archive.org/web/20241130181840/https://hkuportal.hku.hk/cas/aad"
+      },
+      {
+        "datetime": "2024-12-03T05:37:16Z",
+        "uri": "https://web.archive.org/web/20241203053716/https://hkuportal.hku.hk/cas/aad"
+      }
+    ],
+    "first": {
+      "datetime": "2024-02-23T00:03:35Z",
+      "uri": "https://web.archive.org/web/20240223000335/https://hkuportal.hku.hk/cas/aad"
+    },
+    "last": {
+      "datetime": "2024-12-03T05:37:16Z",
+      "uri": "https://web.archive.org/web/20241203053716/https://hkuportal.hku.hk/cas/aad"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://hkuportal.hku.hk/cas/aad",
+    "json_format": "http://localhost:1208/timemap/json/https://hkuportal.hku.hk/cas/aad",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://hkuportal.hku.hk/cas/aad"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://hkuportal.hku.hk/cas/aad"
+}

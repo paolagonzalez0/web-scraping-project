@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://events.teams.microsoft.com/event/32d36fbb-17f0-4bc1-bef4-735e6cc75a98@7d53fbd0-6b43-4143-9400-6b0b36a25e55",
+  "self": "http://localhost:1208/timemap/json/https://events.teams.microsoft.com/event/32d36fbb-17f0-4bc1-bef4-735e6cc75a98@7d53fbd0-6b43-4143-9400-6b0b36a25e55",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-20T00:41:47Z",
+        "uri": "https://web.archive.org/web/20241120004147/https://events.teams.microsoft.com/event/32d36fbb-17f0-4bc1-bef4-735e6cc75a98@7d53fbd0-6b43-4143-9400-6b0b36a25e55"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-20T00:41:47Z",
+      "uri": "https://web.archive.org/web/20241120004147/https://events.teams.microsoft.com/event/32d36fbb-17f0-4bc1-bef4-735e6cc75a98@7d53fbd0-6b43-4143-9400-6b0b36a25e55"
+    },
+    "last": {
+      "datetime": "2024-11-20T00:41:47Z",
+      "uri": "https://web.archive.org/web/20241120004147/https://events.teams.microsoft.com/event/32d36fbb-17f0-4bc1-bef4-735e6cc75a98@7d53fbd0-6b43-4143-9400-6b0b36a25e55"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://events.teams.microsoft.com/event/32d36fbb-17f0-4bc1-bef4-735e6cc75a98@7d53fbd0-6b43-4143-9400-6b0b36a25e55",
+    "json_format": "http://localhost:1208/timemap/json/https://events.teams.microsoft.com/event/32d36fbb-17f0-4bc1-bef4-735e6cc75a98@7d53fbd0-6b43-4143-9400-6b0b36a25e55",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://events.teams.microsoft.com/event/32d36fbb-17f0-4bc1-bef4-735e6cc75a98@7d53fbd0-6b43-4143-9400-6b0b36a25e55"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://events.teams.microsoft.com/event/32d36fbb-17f0-4bc1-bef4-735e6cc75a98@7d53fbd0-6b43-4143-9400-6b0b36a25e55"
+}

@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.ipsnews.net/2024/11/dont-lock-us-out-of-negotiating-table-indigenous-communities/",
+  "self": "http://localhost:1208/timemap/json/https://www.ipsnews.net/2024/11/dont-lock-us-out-of-negotiating-table-indigenous-communities/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-19T09:07:06Z",
+        "uri": "https://web.archive.org/web/20241119090706/https://www.ipsnews.net/2024/11/dont-lock-us-out-of-negotiating-table-indigenous-communities/"
+      },
+      {
+        "datetime": "2024-11-23T05:41:06Z",
+        "uri": "https://web.archive.org/web/20241123054106/https://www.ipsnews.net/2024/11/dont-lock-us-out-of-negotiating-table-indigenous-communities/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-19T09:07:06Z",
+      "uri": "https://web.archive.org/web/20241119090706/https://www.ipsnews.net/2024/11/dont-lock-us-out-of-negotiating-table-indigenous-communities/"
+    },
+    "last": {
+      "datetime": "2024-11-23T05:41:06Z",
+      "uri": "https://web.archive.org/web/20241123054106/https://www.ipsnews.net/2024/11/dont-lock-us-out-of-negotiating-table-indigenous-communities/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.ipsnews.net/2024/11/dont-lock-us-out-of-negotiating-table-indigenous-communities/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.ipsnews.net/2024/11/dont-lock-us-out-of-negotiating-table-indigenous-communities/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ipsnews.net/2024/11/dont-lock-us-out-of-negotiating-table-indigenous-communities/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.ipsnews.net/2024/11/dont-lock-us-out-of-negotiating-table-indigenous-communities/"
+}

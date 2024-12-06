@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.cgiar.org/news-events/news/celebrating-our-seeds-food-and-culture-nyando-community-seed-bank-hosts-the-3rd-national-indigenous-seed-and-food-fair-in-kenya",
+  "self": "http://localhost:1208/timemap/json/https://www.cgiar.org/news-events/news/celebrating-our-seeds-food-and-culture-nyando-community-seed-bank-hosts-the-3rd-national-indigenous-seed-and-food-fair-in-kenya",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-20T09:08:24Z",
+        "uri": "https://web.archive.org/web/20241120090824/https://www.cgiar.org/news-events/news/celebrating-our-seeds-food-and-culture-nyando-community-seed-bank-hosts-the-3rd-national-indigenous-seed-and-food-fair-in-kenya"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-20T09:08:24Z",
+      "uri": "https://web.archive.org/web/20241120090824/https://www.cgiar.org/news-events/news/celebrating-our-seeds-food-and-culture-nyando-community-seed-bank-hosts-the-3rd-national-indigenous-seed-and-food-fair-in-kenya"
+    },
+    "last": {
+      "datetime": "2024-11-20T09:08:24Z",
+      "uri": "https://web.archive.org/web/20241120090824/https://www.cgiar.org/news-events/news/celebrating-our-seeds-food-and-culture-nyando-community-seed-bank-hosts-the-3rd-national-indigenous-seed-and-food-fair-in-kenya"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cgiar.org/news-events/news/celebrating-our-seeds-food-and-culture-nyando-community-seed-bank-hosts-the-3rd-national-indigenous-seed-and-food-fair-in-kenya",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cgiar.org/news-events/news/celebrating-our-seeds-food-and-culture-nyando-community-seed-bank-hosts-the-3rd-national-indigenous-seed-and-food-fair-in-kenya",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cgiar.org/news-events/news/celebrating-our-seeds-food-and-culture-nyando-community-seed-bank-hosts-the-3rd-national-indigenous-seed-and-food-fair-in-kenya"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cgiar.org/news-events/news/celebrating-our-seeds-food-and-culture-nyando-community-seed-bank-hosts-the-3rd-national-indigenous-seed-and-food-fair-in-kenya"
+}

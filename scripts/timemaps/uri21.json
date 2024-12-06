@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.cbd.int/article/cali-to-baku-2024",
+  "self": "http://localhost:1208/timemap/json/https://www.cbd.int/article/cali-to-baku-2024",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-14T22:29:43Z",
+        "uri": "https://wayback.archive-it.org/all/20241114222943/https://www.cbd.int/article/cali-to-baku-2024"
+      },
+      {
+        "datetime": "2024-11-14T22:29:52Z",
+        "uri": "https://wayback.archive-it.org/all/20241114222952/https://www.cbd.int//article/cali-to-baku-2024"
+      },
+      {
+        "datetime": "2024-12-02T23:32:35Z",
+        "uri": "https://wayback.archive-it.org/all/20241202233235/https://www.cbd.int/article/cali-to-baku-2024"
+      },
+      {
+        "datetime": "2024-12-02T23:32:40Z",
+        "uri": "https://wayback.archive-it.org/all/20241202233240/https://www.cbd.int//article/cali-to-baku-2024"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-14T22:29:43Z",
+      "uri": "https://wayback.archive-it.org/all/20241114222943/https://www.cbd.int/article/cali-to-baku-2024"
+    },
+    "last": {
+      "datetime": "2024-12-02T23:32:40Z",
+      "uri": "https://wayback.archive-it.org/all/20241202233240/https://www.cbd.int//article/cali-to-baku-2024"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cbd.int/article/cali-to-baku-2024",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cbd.int/article/cali-to-baku-2024",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cbd.int/article/cali-to-baku-2024"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cbd.int/article/cali-to-baku-2024"
+}

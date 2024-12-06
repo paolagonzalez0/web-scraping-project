@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://tcf.org/content/commentary/why-black-women-need-polycystic-ovarian-syndrome-to-be-treated-as-a-reproductive-justice-issue/",
+  "self": "http://localhost:1208/timemap/json/https://tcf.org/content/commentary/why-black-women-need-polycystic-ovarian-syndrome-to-be-treated-as-a-reproductive-justice-issue/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-24T06:21:21Z",
+        "uri": "https://web.archive.org/web/20241124062121/https://tcf.org/content/commentary/why-black-women-need-polycystic-ovarian-syndrome-to-be-treated-as-a-reproductive-justice-issue/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-24T06:21:21Z",
+      "uri": "https://web.archive.org/web/20241124062121/https://tcf.org/content/commentary/why-black-women-need-polycystic-ovarian-syndrome-to-be-treated-as-a-reproductive-justice-issue/"
+    },
+    "last": {
+      "datetime": "2024-11-24T06:21:21Z",
+      "uri": "https://web.archive.org/web/20241124062121/https://tcf.org/content/commentary/why-black-women-need-polycystic-ovarian-syndrome-to-be-treated-as-a-reproductive-justice-issue/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://tcf.org/content/commentary/why-black-women-need-polycystic-ovarian-syndrome-to-be-treated-as-a-reproductive-justice-issue/",
+    "json_format": "http://localhost:1208/timemap/json/https://tcf.org/content/commentary/why-black-women-need-polycystic-ovarian-syndrome-to-be-treated-as-a-reproductive-justice-issue/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://tcf.org/content/commentary/why-black-women-need-polycystic-ovarian-syndrome-to-be-treated-as-a-reproductive-justice-issue/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://tcf.org/content/commentary/why-black-women-need-polycystic-ovarian-syndrome-to-be-treated-as-a-reproductive-justice-issue/"
+}

@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.foxbusiness.com/politics/peter-thiel-says-trump-vance-right-immigration-drives-up-housing-costs",
+  "self": "http://localhost:1208/timemap/json/https://www.foxbusiness.com/politics/peter-thiel-says-trump-vance-right-immigration-drives-up-housing-costs",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-27T09:27:13Z",
+        "uri": "https://web.archive.org/web/20241127092713/https://www.foxbusiness.com/politics/peter-thiel-says-trump-vance-right-immigration-drives-up-housing-costs"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-27T09:27:13Z",
+      "uri": "https://web.archive.org/web/20241127092713/https://www.foxbusiness.com/politics/peter-thiel-says-trump-vance-right-immigration-drives-up-housing-costs"
+    },
+    "last": {
+      "datetime": "2024-11-27T09:27:13Z",
+      "uri": "https://web.archive.org/web/20241127092713/https://www.foxbusiness.com/politics/peter-thiel-says-trump-vance-right-immigration-drives-up-housing-costs"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.foxbusiness.com/politics/peter-thiel-says-trump-vance-right-immigration-drives-up-housing-costs",
+    "json_format": "http://localhost:1208/timemap/json/https://www.foxbusiness.com/politics/peter-thiel-says-trump-vance-right-immigration-drives-up-housing-costs",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.foxbusiness.com/politics/peter-thiel-says-trump-vance-right-immigration-drives-up-housing-costs"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.foxbusiness.com/politics/peter-thiel-says-trump-vance-right-immigration-drives-up-housing-costs"
+}

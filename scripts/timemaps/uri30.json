@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.kansan.com/arts_and_culture/november-is-mens-mental-health-month-heres-how-to-get-involved/article_da444348-a20d-11ef-85bb-a7185115a0fb.html",
+  "self": "http://localhost:1208/timemap/json/https://www.kansan.com/arts_and_culture/november-is-mens-mental-health-month-heres-how-to-get-involved/article_da444348-a20d-11ef-85bb-a7185115a0fb.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-26T18:19:17Z",
+        "uri": "https://web.archive.org/web/20241126181917/https://www.kansan.com/arts_and_culture/november-is-mens-mental-health-month-heres-how-to-get-involved/article_da444348-a20d-11ef-85bb-a7185115a0fb.html"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-26T18:19:17Z",
+      "uri": "https://web.archive.org/web/20241126181917/https://www.kansan.com/arts_and_culture/november-is-mens-mental-health-month-heres-how-to-get-involved/article_da444348-a20d-11ef-85bb-a7185115a0fb.html"
+    },
+    "last": {
+      "datetime": "2024-11-26T18:19:17Z",
+      "uri": "https://web.archive.org/web/20241126181917/https://www.kansan.com/arts_and_culture/november-is-mens-mental-health-month-heres-how-to-get-involved/article_da444348-a20d-11ef-85bb-a7185115a0fb.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.kansan.com/arts_and_culture/november-is-mens-mental-health-month-heres-how-to-get-involved/article_da444348-a20d-11ef-85bb-a7185115a0fb.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.kansan.com/arts_and_culture/november-is-mens-mental-health-month-heres-how-to-get-involved/article_da444348-a20d-11ef-85bb-a7185115a0fb.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.kansan.com/arts_and_culture/november-is-mens-mental-health-month-heres-how-to-get-involved/article_da444348-a20d-11ef-85bb-a7185115a0fb.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.kansan.com/arts_and_culture/november-is-mens-mental-health-month-heres-how-to-get-involved/article_da444348-a20d-11ef-85bb-a7185115a0fb.html"
+}

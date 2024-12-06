@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://www.herox.com/TCUenergyandfood",
+  "self": "http://localhost:1208/timemap/json/https://www.herox.com/TCUenergyandfood",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-09-26T19:50:32Z",
+        "uri": "https://web.archive.org/web/20240926195032/https://www.herox.com/TCUenergyandfood"
+      },
+      {
+        "datetime": "2024-11-15T17:19:01Z",
+        "uri": "https://web.archive.org/web/20241115171901/http://herox.com/TCUenergyandfood"
+      },
+      {
+        "datetime": "2024-11-29T13:57:28Z",
+        "uri": "https://web.archive.org/web/20241129135728/https://www.herox.com/TCUenergyandfood"
+      }
+    ],
+    "first": {
+      "datetime": "2024-09-26T19:50:32Z",
+      "uri": "https://web.archive.org/web/20240926195032/https://www.herox.com/TCUenergyandfood"
+    },
+    "last": {
+      "datetime": "2024-11-29T13:57:28Z",
+      "uri": "https://web.archive.org/web/20241129135728/https://www.herox.com/TCUenergyandfood"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.herox.com/TCUenergyandfood",
+    "json_format": "http://localhost:1208/timemap/json/https://www.herox.com/TCUenergyandfood",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.herox.com/TCUenergyandfood"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.herox.com/TCUenergyandfood"
+}
