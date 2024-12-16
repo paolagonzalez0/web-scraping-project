@@ -1,0 +1,26 @@
+{
+  "original_uri": "http://www.wildolympics.org/get-involved/donate/",
+  "self": "http://localhost:1208/timemap/json/http://www.wildolympics.org/get-involved/donate/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-09-07T01:43:34Z",
+        "uri": "https://web.archive.org/web/20240907014334/http://www.wildolympics.org/get-involved/donate/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-09-07T01:43:34Z",
+      "uri": "https://web.archive.org/web/20240907014334/http://www.wildolympics.org/get-involved/donate/"
+    },
+    "last": {
+      "datetime": "2024-09-07T01:43:34Z",
+      "uri": "https://web.archive.org/web/20240907014334/http://www.wildolympics.org/get-involved/donate/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://www.wildolympics.org/get-involved/donate/",
+    "json_format": "http://localhost:1208/timemap/json/http://www.wildolympics.org/get-involved/donate/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.wildolympics.org/get-involved/donate/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://www.wildolympics.org/get-involved/donate/"
+}

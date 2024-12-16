@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.cicopa.coop/news/highlights-from-the-ica-global-cooperative-conference-focus-on-care-economy-and-digital-innovation/",
+  "self": "http://localhost:1208/timemap/json/https://www.cicopa.coop/news/highlights-from-the-ica-global-cooperative-conference-focus-on-care-economy-and-digital-innovation/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-10T16:31:19Z",
+        "uri": "https://web.archive.org/web/20241210163119/https://www.cicopa.coop/news/highlights-from-the-ica-global-cooperative-conference-focus-on-care-economy-and-digital-innovation/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-10T16:31:19Z",
+      "uri": "https://web.archive.org/web/20241210163119/https://www.cicopa.coop/news/highlights-from-the-ica-global-cooperative-conference-focus-on-care-economy-and-digital-innovation/"
+    },
+    "last": {
+      "datetime": "2024-12-10T16:31:19Z",
+      "uri": "https://web.archive.org/web/20241210163119/https://www.cicopa.coop/news/highlights-from-the-ica-global-cooperative-conference-focus-on-care-economy-and-digital-innovation/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cicopa.coop/news/highlights-from-the-ica-global-cooperative-conference-focus-on-care-economy-and-digital-innovation/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cicopa.coop/news/highlights-from-the-ica-global-cooperative-conference-focus-on-care-economy-and-digital-innovation/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cicopa.coop/news/highlights-from-the-ica-global-cooperative-conference-focus-on-care-economy-and-digital-innovation/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cicopa.coop/news/highlights-from-the-ica-global-cooperative-conference-focus-on-care-economy-and-digital-innovation/"
+}

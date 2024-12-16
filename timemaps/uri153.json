@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.ilo.org/resource/news/cooperative-care-models-address-global-needs-and-improve-social-well-being",
+  "self": "http://localhost:1208/timemap/json/https://www.ilo.org/resource/news/cooperative-care-models-address-global-needs-and-improve-social-well-being",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-13T11:06:58Z",
+        "uri": "https://web.archive.org/web/20241213110658/https://www.ilo.org/resource/news/cooperative-care-models-address-global-needs-and-improve-social-well-being"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-13T11:06:58Z",
+      "uri": "https://web.archive.org/web/20241213110658/https://www.ilo.org/resource/news/cooperative-care-models-address-global-needs-and-improve-social-well-being"
+    },
+    "last": {
+      "datetime": "2024-12-13T11:06:58Z",
+      "uri": "https://web.archive.org/web/20241213110658/https://www.ilo.org/resource/news/cooperative-care-models-address-global-needs-and-improve-social-well-being"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.ilo.org/resource/news/cooperative-care-models-address-global-needs-and-improve-social-well-being",
+    "json_format": "http://localhost:1208/timemap/json/https://www.ilo.org/resource/news/cooperative-care-models-address-global-needs-and-improve-social-well-being",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ilo.org/resource/news/cooperative-care-models-address-global-needs-and-improve-social-well-being"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.ilo.org/resource/news/cooperative-care-models-address-global-needs-and-improve-social-well-being"
+}

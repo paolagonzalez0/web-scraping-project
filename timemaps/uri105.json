@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://www.mississippifreepress.org/opinion-most-u-s-book-bans-target-childrens-literature-featuring-diverse-characters-and-authors-of-color/",
+  "self": "http://localhost:1208/timemap/json/https://www.mississippifreepress.org/opinion-most-u-s-book-bans-target-childrens-literature-featuring-diverse-characters-and-authors-of-color/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-11T12:43:52Z",
+        "uri": "https://web.archive.org/web/20241211124352/https://www.mississippifreepress.org/opinion-most-u-s-book-bans-target-childrens-literature-featuring-diverse-characters-and-authors-of-color/"
+      },
+      {
+        "datetime": "2024-12-11T12:44:08Z",
+        "uri": "https://web.archive.org/web/20241211124408/http://www.mississippifreepress.org/opinion-most-u-s-book-bans-target-childrens-literature-featuring-diverse-characters-and-authors-of-color/"
+      },
+      {
+        "datetime": "2024-12-12T10:44:28Z",
+        "uri": "https://web.archive.org/web/20241212104428/https://www.mississippifreepress.org/opinion-most-u-s-book-bans-target-childrens-literature-featuring-diverse-characters-and-authors-of-color/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-11T12:43:52Z",
+      "uri": "https://web.archive.org/web/20241211124352/https://www.mississippifreepress.org/opinion-most-u-s-book-bans-target-childrens-literature-featuring-diverse-characters-and-authors-of-color/"
+    },
+    "last": {
+      "datetime": "2024-12-12T10:44:28Z",
+      "uri": "https://web.archive.org/web/20241212104428/https://www.mississippifreepress.org/opinion-most-u-s-book-bans-target-childrens-literature-featuring-diverse-characters-and-authors-of-color/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.mississippifreepress.org/opinion-most-u-s-book-bans-target-childrens-literature-featuring-diverse-characters-and-authors-of-color/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.mississippifreepress.org/opinion-most-u-s-book-bans-target-childrens-literature-featuring-diverse-characters-and-authors-of-color/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.mississippifreepress.org/opinion-most-u-s-book-bans-target-childrens-literature-featuring-diverse-characters-and-authors-of-color/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.mississippifreepress.org/opinion-most-u-s-book-bans-target-childrens-literature-featuring-diverse-characters-and-authors-of-color/"
+}

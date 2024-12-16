@@ -1,0 +1,82 @@
+{
+  "original_uri": "https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y",
+  "self": "http://localhost:1208/timemap/json/https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-11-08T17:40:54Z",
+        "uri": "https://web.archive.org/web/20231108174054/https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y"
+      },
+      {
+        "datetime": "2024-01-05T05:33:29Z",
+        "uri": "https://web.archive.org/web/20240105053329/https://www.computer.org/csdl/proceedings/SP/2024/1RjE8VKKk1y"
+      },
+      {
+        "datetime": "2024-02-14T01:30:16Z",
+        "uri": "https://web.archive.org/web/20240214013016/https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y"
+      },
+      {
+        "datetime": "2024-02-29T15:43:24Z",
+        "uri": "https://web.archive.org/web/20240229154324/https://www.computer.org/csdl/proceedings/SP/2024/1RjE8VKKk1y"
+      },
+      {
+        "datetime": "2024-04-11T18:46:07Z",
+        "uri": "https://web.archive.org/web/20240411184607/https://www.computer.org/csdl/proceedings/SP/2024/1RjE8VKKk1y"
+      },
+      {
+        "datetime": "2024-04-14T02:17:38Z",
+        "uri": "https://web.archive.org/web/20240414021738/https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y"
+      },
+      {
+        "datetime": "2024-04-21T05:33:52Z",
+        "uri": "https://web.archive.org/web/20240421053352/https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y"
+      },
+      {
+        "datetime": "2024-06-24T04:16:26Z",
+        "uri": "https://web.archive.org/web/20240624041626/https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y"
+      },
+      {
+        "datetime": "2024-06-24T04:40:06Z",
+        "uri": "https://web.archive.org/web/20240624044006/https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y"
+      },
+      {
+        "datetime": "2024-06-24T04:58:18Z",
+        "uri": "https://web.archive.org/web/20240624045818/https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y"
+      },
+      {
+        "datetime": "2024-07-17T14:59:04Z",
+        "uri": "https://web.archive.org/web/20240717145904/https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y"
+      },
+      {
+        "datetime": "2024-08-07T18:49:48Z",
+        "uri": "https://web.archive.org/web/20240807184948/https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y"
+      },
+      {
+        "datetime": "2024-10-05T22:09:22Z",
+        "uri": "https://web.archive.org/web/20241005220922/https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y"
+      },
+      {
+        "datetime": "2024-11-09T19:37:01Z",
+        "uri": "https://web.archive.org/web/20241109193701/https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y"
+      },
+      {
+        "datetime": "2024-11-18T22:43:59Z",
+        "uri": "https://web.archive.org/web/20241118224359/https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y"
+      }
+    ],
+    "first": {
+      "datetime": "2023-11-08T17:40:54Z",
+      "uri": "https://web.archive.org/web/20231108174054/https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y"
+    },
+    "last": {
+      "datetime": "2024-11-18T22:43:59Z",
+      "uri": "https://web.archive.org/web/20241118224359/https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y",
+    "json_format": "http://localhost:1208/timemap/json/https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y"
+}

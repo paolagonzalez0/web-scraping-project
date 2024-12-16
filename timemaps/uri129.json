@@ -1,0 +1,146 @@
+{
+  "original_uri": "https://livestream.hillsdale.edu/",
+  "self": "http://localhost:1208/timemap/json/https://livestream.hillsdale.edu/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-05-20T02:05:23Z",
+        "uri": "https://web.archive.org/web/20200520020523/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2020-09-18T10:08:48Z",
+        "uri": "https://web.archive.org/web/20200918100848/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2021-01-11T01:14:52Z",
+        "uri": "https://web.archive.org/web/20210111011452/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2021-02-19T17:06:38Z",
+        "uri": "https://web.archive.org/web/20210219170638/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2021-02-19T17:06:38Z",
+        "uri": "https://web.archive.org/web/20210219170638/http://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2021-02-19T17:29:59Z",
+        "uri": "https://web.archive.org/web/20210219172959/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2021-06-03T23:04:50Z",
+        "uri": "https://web.archive.org/web/20210603230450/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2022-01-31T19:23:52Z",
+        "uri": "https://web.archive.org/web/20220131192352/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2022-02-01T20:30:35Z",
+        "uri": "https://web.archive.org/web/20220201203035/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2022-02-01T20:30:35Z",
+        "uri": "https://web.archive.org/web/20220201203035/http://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2022-02-01T20:31:31Z",
+        "uri": "https://web.archive.org/web/20220201203131/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2022-02-01T20:31:31Z",
+        "uri": "https://web.archive.org/web/20220201203131/http://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2022-02-01T20:31:42Z",
+        "uri": "https://web.archive.org/web/20220201203142/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2022-04-05T18:53:11Z",
+        "uri": "https://web.archive.org/web/20220405185311/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2022-05-07T18:30:58Z",
+        "uri": "https://web.archive.org/web/20220507183058/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2022-06-01T13:50:55Z",
+        "uri": "https://web.archive.org/web/20220601135055/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2022-08-05T04:32:28Z",
+        "uri": "https://web.archive.org/web/20220805043228/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2022-09-15T14:16:46Z",
+        "uri": "https://web.archive.org/web/20220915141646/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2022-09-17T19:19:33Z",
+        "uri": "https://web.archive.org/web/20220917191933/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2022-10-17T05:57:17Z",
+        "uri": "https://web.archive.org/web/20221017055717/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2022-12-11T17:05:57Z",
+        "uri": "https://web.archive.org/web/20221211170557/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2023-03-07T19:22:54Z",
+        "uri": "https://web.archive.org/web/20230307192254/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2023-04-06T20:44:33Z",
+        "uri": "https://web.archive.org/web/20230406204433/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2023-04-22T10:28:01Z",
+        "uri": "https://web.archive.org/web/20230422102801/http://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2023-04-25T20:12:21Z",
+        "uri": "https://web.archive.org/web/20230425201221/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2023-05-02T03:17:06Z",
+        "uri": "https://web.archive.org/web/20230502031706/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2024-05-17T20:40:26Z",
+        "uri": "https://web.archive.org/web/20240517204026/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2024-05-22T18:51:31Z",
+        "uri": "https://web.archive.org/web/20240522185131/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2024-07-22T22:08:45Z",
+        "uri": "https://web.archive.org/web/20240722220845/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2024-08-02T22:38:20Z",
+        "uri": "https://web.archive.org/web/20240802223820/https://livestream.hillsdale.edu/"
+      },
+      {
+        "datetime": "2024-09-12T01:48:08Z",
+        "uri": "https://web.archive.org/web/20240912014808/https://livestream.hillsdale.edu/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-05-20T02:05:23Z",
+      "uri": "https://web.archive.org/web/20200520020523/https://livestream.hillsdale.edu/"
+    },
+    "last": {
+      "datetime": "2024-09-12T01:48:08Z",
+      "uri": "https://web.archive.org/web/20240912014808/https://livestream.hillsdale.edu/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://livestream.hillsdale.edu/",
+    "json_format": "http://localhost:1208/timemap/json/https://livestream.hillsdale.edu/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://livestream.hillsdale.edu/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://livestream.hillsdale.edu/"
+}

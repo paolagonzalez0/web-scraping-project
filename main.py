@@ -1,15 +1,16 @@
-from collecting_tweets import get_topics, collect_tweets
-from extracting_links import extract_links, link_count
+from scripts.collecting_tweets import get_topics, collect_tweets
+from scripts.extracting_links import extract_links, link_count
+from scripts.get_timemaps import save_timemaps
 import math
 import shutil
 
 def main():
     '''
-    Runs the main program. Scrapes tweets via web scraping, extracts requested number of URIs, collects 
-    timemap for each URI, and runs a memento analysis.
+    Runs the main program excluding the memento analysis. Scrapes tweets via web scraping, extracts requested number of URIs, and collects 
+    timemap for each URI.
     '''
     # Will be taken in from the command line
-    total_links_to_scrape = 50
+    total_links_to_scrape = 150
 
     # Scrape 200 tweets to start on 5 random social movements
     keywords = get_topics(5)
@@ -27,6 +28,8 @@ def main():
         keywords = get_topics(5)
         collect_tweets(keywords, total_tweets_to_scrape=tweets_to_scrape)
         result = extract_links(total_links_to_scrape=total_links_to_scrape, file_number=result)
+    # Fetch the time map for each URI
+    save_timemaps()
 
     # After tweet collection, delete cache and browser storage
     shutil.rmtree("__pycache__")

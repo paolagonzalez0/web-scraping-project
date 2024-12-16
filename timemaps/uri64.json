@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.crystalwind.ca/angelic-paths/heaven-speaks/archangel-gabriel/balance-through-movement-and-flow-with-archangel-gabriel",
+  "self": "http://localhost:1208/timemap/json/https://www.crystalwind.ca/angelic-paths/heaven-speaks/archangel-gabriel/balance-through-movement-and-flow-with-archangel-gabriel",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-15T03:28:57Z",
+        "uri": "https://web.archive.org/web/20241215032857/https://www.crystalwind.ca/angelic-paths/heaven-speaks/archangel-gabriel/balance-through-movement-and-flow-with-archangel-gabriel"
+      },
+      {
+        "datetime": "2024-12-15T03:28:57Z",
+        "uri": "https://web.archive.org/web/20241215032857/https://www.crystalwind.ca/angelic-paths/heaven-speaks/archangel-gabriel/balance-through-movement-and-flow-with-archangel-gabriel"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-15T03:28:57Z",
+      "uri": "https://web.archive.org/web/20241215032857/https://www.crystalwind.ca/angelic-paths/heaven-speaks/archangel-gabriel/balance-through-movement-and-flow-with-archangel-gabriel"
+    },
+    "last": {
+      "datetime": "2024-12-15T03:28:57Z",
+      "uri": "https://web.archive.org/web/20241215032857/https://www.crystalwind.ca/angelic-paths/heaven-speaks/archangel-gabriel/balance-through-movement-and-flow-with-archangel-gabriel"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.crystalwind.ca/angelic-paths/heaven-speaks/archangel-gabriel/balance-through-movement-and-flow-with-archangel-gabriel",
+    "json_format": "http://localhost:1208/timemap/json/https://www.crystalwind.ca/angelic-paths/heaven-speaks/archangel-gabriel/balance-through-movement-and-flow-with-archangel-gabriel",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.crystalwind.ca/angelic-paths/heaven-speaks/archangel-gabriel/balance-through-movement-and-flow-with-archangel-gabriel"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.crystalwind.ca/angelic-paths/heaven-speaks/archangel-gabriel/balance-through-movement-and-flow-with-archangel-gabriel"
+}

@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://www.cooperativecomputing.com/branding-marketing/",
+  "self": "http://localhost:1208/timemap/json/https://www.cooperativecomputing.com/branding-marketing/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-05-27T05:30:54Z",
+        "uri": "https://web.archive.org/web/20240527053054/https://www.cooperativecomputing.com/branding-marketing/"
+      },
+      {
+        "datetime": "2024-06-16T05:10:48Z",
+        "uri": "https://web.archive.org/web/20240616051048/https://www.cooperativecomputing.com/branding-marketing/"
+      },
+      {
+        "datetime": "2024-07-13T02:18:13Z",
+        "uri": "https://web.archive.org/web/20240713021813/https://www.cooperativecomputing.com/branding-marketing/"
+      },
+      {
+        "datetime": "2024-08-03T15:43:01Z",
+        "uri": "https://web.archive.org/web/20240803154301/https://www.cooperativecomputing.com/branding-marketing/"
+      },
+      {
+        "datetime": "2024-09-02T14:32:18Z",
+        "uri": "https://web.archive.org/web/20240902143218/https://www.cooperativecomputing.com/branding-marketing"
+      },
+      {
+        "datetime": "2024-09-02T14:32:20Z",
+        "uri": "https://web.archive.org/web/20240902143220/https://www.cooperativecomputing.com/branding-marketing/"
+      },
+      {
+        "datetime": "2024-09-06T17:24:57Z",
+        "uri": "https://web.archive.org/web/20240906172457/https://www.cooperativecomputing.com/branding-marketing"
+      },
+      {
+        "datetime": "2024-09-06T17:24:58Z",
+        "uri": "https://web.archive.org/web/20240906172458/https://www.cooperativecomputing.com/branding-marketing/"
+      },
+      {
+        "datetime": "2024-09-17T17:23:52Z",
+        "uri": "https://web.archive.org/web/20240917172352/https://www.cooperativecomputing.com/branding-marketing/"
+      },
+      {
+        "datetime": "2024-09-17T19:40:00Z",
+        "uri": "https://web.archive.org/web/20240917194000/https://www.cooperativecomputing.com/branding-marketing/"
+      },
+      {
+        "datetime": "2024-09-17T20:01:45Z",
+        "uri": "https://web.archive.org/web/20240917200145/https://www.cooperativecomputing.com/branding-marketing"
+      },
+      {
+        "datetime": "2024-10-02T17:12:45Z",
+        "uri": "https://web.archive.org/web/20241002171245/https://www.cooperativecomputing.com/branding-marketing/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-05-27T05:30:54Z",
+      "uri": "https://web.archive.org/web/20240527053054/https://www.cooperativecomputing.com/branding-marketing/"
+    },
+    "last": {
+      "datetime": "2024-10-02T17:12:45Z",
+      "uri": "https://web.archive.org/web/20241002171245/https://www.cooperativecomputing.com/branding-marketing/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cooperativecomputing.com/branding-marketing/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cooperativecomputing.com/branding-marketing/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cooperativecomputing.com/branding-marketing/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cooperativecomputing.com/branding-marketing/"
+}

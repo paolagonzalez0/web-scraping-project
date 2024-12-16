@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.theguardian.com/law/2024/dec/11/international-court-of-justice-icj-forced-to-listen-to-climate-victims",
+  "self": "http://localhost:1208/timemap/json/https://www.theguardian.com/law/2024/dec/11/international-court-of-justice-icj-forced-to-listen-to-climate-victims",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-12T20:59:34Z",
+        "uri": "http://archive.md/20241212205934/https://www.theguardian.com/law/2024/dec/11/international-court-of-justice-icj-forced-to-listen-to-climate-victims"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-12T20:59:34Z",
+      "uri": "http://archive.md/20241212205934/https://www.theguardian.com/law/2024/dec/11/international-court-of-justice-icj-forced-to-listen-to-climate-victims"
+    },
+    "last": {
+      "datetime": "2024-12-12T20:59:34Z",
+      "uri": "http://archive.md/20241212205934/https://www.theguardian.com/law/2024/dec/11/international-court-of-justice-icj-forced-to-listen-to-climate-victims"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.theguardian.com/law/2024/dec/11/international-court-of-justice-icj-forced-to-listen-to-climate-victims",
+    "json_format": "http://localhost:1208/timemap/json/https://www.theguardian.com/law/2024/dec/11/international-court-of-justice-icj-forced-to-listen-to-climate-victims",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.theguardian.com/law/2024/dec/11/international-court-of-justice-icj-forced-to-listen-to-climate-victims"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.theguardian.com/law/2024/dec/11/international-court-of-justice-icj-forced-to-listen-to-climate-victims"
+}

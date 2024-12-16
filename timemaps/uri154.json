@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.orfonline.org/expert-speak/cop29-again-a-cop-out-on-responsibility",
+  "self": "http://localhost:1208/timemap/json/https://www.orfonline.org/expert-speak/cop29-again-a-cop-out-on-responsibility",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-09T14:52:27Z",
+        "uri": "https://web.archive.org/web/20241209145227/https://www.orfonline.org/expert-speak/cop29-again-a-cop-out-on-responsibility"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-09T14:52:27Z",
+      "uri": "https://web.archive.org/web/20241209145227/https://www.orfonline.org/expert-speak/cop29-again-a-cop-out-on-responsibility"
+    },
+    "last": {
+      "datetime": "2024-12-09T14:52:27Z",
+      "uri": "https://web.archive.org/web/20241209145227/https://www.orfonline.org/expert-speak/cop29-again-a-cop-out-on-responsibility"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.orfonline.org/expert-speak/cop29-again-a-cop-out-on-responsibility",
+    "json_format": "http://localhost:1208/timemap/json/https://www.orfonline.org/expert-speak/cop29-again-a-cop-out-on-responsibility",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.orfonline.org/expert-speak/cop29-again-a-cop-out-on-responsibility"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.orfonline.org/expert-speak/cop29-again-a-cop-out-on-responsibility"
+}

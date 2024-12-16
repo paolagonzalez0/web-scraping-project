@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.nj.com/news/2012/08/bid_to_merge_somerset_county_p.html",
+  "self": "http://localhost:1208/timemap/json/https://www.nj.com/news/2012/08/bid_to_merge_somerset_county_p.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-08-14T19:43:29Z",
+        "uri": "https://web.archive.org/web/20220814194329/https://www.nj.com/news/2012/08/bid_to_merge_somerset_county_p.html"
+      }
+    ],
+    "first": {
+      "datetime": "2022-08-14T19:43:29Z",
+      "uri": "https://web.archive.org/web/20220814194329/https://www.nj.com/news/2012/08/bid_to_merge_somerset_county_p.html"
+    },
+    "last": {
+      "datetime": "2022-08-14T19:43:29Z",
+      "uri": "https://web.archive.org/web/20220814194329/https://www.nj.com/news/2012/08/bid_to_merge_somerset_county_p.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nj.com/news/2012/08/bid_to_merge_somerset_county_p.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nj.com/news/2012/08/bid_to_merge_somerset_county_p.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nj.com/news/2012/08/bid_to_merge_somerset_county_p.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nj.com/news/2012/08/bid_to_merge_somerset_county_p.html"
+}

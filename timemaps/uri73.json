@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://t.me/HypurrFunBot?start=ref_96fec2e1",
+  "self": "http://localhost:1208/timemap/json/https://t.me/HypurrFunBot?start=ref_96fec2e1",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-15T04:24:47Z",
+        "uri": "https://web.archive.org/web/20241215042447/https://t.me/HypurrFunBot?start=ref_96fec2e1"
+      },
+      {
+        "datetime": "2024-12-15T04:51:22Z",
+        "uri": "https://web.archive.org/web/20241215045122/https://t.me/HypurrFunBot?start=ref_96fec2e1"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-15T04:24:47Z",
+      "uri": "https://web.archive.org/web/20241215042447/https://t.me/HypurrFunBot?start=ref_96fec2e1"
+    },
+    "last": {
+      "datetime": "2024-12-15T04:51:22Z",
+      "uri": "https://web.archive.org/web/20241215045122/https://t.me/HypurrFunBot?start=ref_96fec2e1"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://t.me/HypurrFunBot?start=ref_96fec2e1",
+    "json_format": "http://localhost:1208/timemap/json/https://t.me/HypurrFunBot?start=ref_96fec2e1",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://t.me/HypurrFunBot?start=ref_96fec2e1"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://t.me/HypurrFunBot?start=ref_96fec2e1"
+}

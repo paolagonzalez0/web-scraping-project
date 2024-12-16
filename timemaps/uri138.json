@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.pixiv.net/artworks/63944201",
+  "self": "http://localhost:1208/timemap/json/https://www.pixiv.net/artworks/63944201",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-12-07T02:17:27Z",
+        "uri": "https://web.archive.org/web/20221207021727/https://www.pixiv.net/artworks/63944201"
+      }
+    ],
+    "first": {
+      "datetime": "2022-12-07T02:17:27Z",
+      "uri": "https://web.archive.org/web/20221207021727/https://www.pixiv.net/artworks/63944201"
+    },
+    "last": {
+      "datetime": "2022-12-07T02:17:27Z",
+      "uri": "https://web.archive.org/web/20221207021727/https://www.pixiv.net/artworks/63944201"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.pixiv.net/artworks/63944201",
+    "json_format": "http://localhost:1208/timemap/json/https://www.pixiv.net/artworks/63944201",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.pixiv.net/artworks/63944201"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.pixiv.net/artworks/63944201"
+}

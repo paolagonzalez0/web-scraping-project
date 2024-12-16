@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://al-shabaka.org/briefs/food-sovereignty-in-a-palestinian-economy-of-resistance/",
+  "self": "http://localhost:1208/timemap/json/https://al-shabaka.org/briefs/food-sovereignty-in-a-palestinian-economy-of-resistance/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-08-28T19:03:18Z",
+        "uri": "https://web.archive.org/web/20240828190318/https://al-shabaka.org/briefs/food-sovereignty-in-a-palestinian-economy-of-resistance/"
+      },
+      {
+        "datetime": "2024-09-03T11:01:34Z",
+        "uri": "https://web.archive.org/web/20240903110134/http://al-shabaka.org/briefs/food-sovereignty-in-a-palestinian-economy-of-resistance/"
+      },
+      {
+        "datetime": "2024-09-03T21:24:55Z",
+        "uri": "https://web.archive.org/web/20240903212455/http://al-shabaka.org/briefs/food-sovereignty-in-a-palestinian-economy-of-resistance"
+      },
+      {
+        "datetime": "2024-09-04T00:40:53Z",
+        "uri": "https://web.archive.org/web/20240904004053/https://al-shabaka.org/briefs/food-sovereignty-in-a-palestinian-economy-of-resistance"
+      },
+      {
+        "datetime": "2024-09-12T21:51:03Z",
+        "uri": "https://web.archive.org/web/20240912215103/https://al-shabaka.org/briefs/food-sovereignty-in-a-palestinian-economy-of-resistance/"
+      },
+      {
+        "datetime": "2024-09-13T05:12:12Z",
+        "uri": "https://web.archive.org/web/20240913051212/https://al-shabaka.org/briefs/food-sovereignty-in-a-palestinian-economy-of-resistance/"
+      },
+      {
+        "datetime": "2024-09-13T05:12:15Z",
+        "uri": "https://web.archive.org/web/20240913051215/https://al-shabaka.org/briefs/food-sovereignty-in-a-palestinian-economy-of-resistance/"
+      },
+      {
+        "datetime": "2024-09-13T05:12:16Z",
+        "uri": "https://web.archive.org/web/20240913051216/https://al-shabaka.org/briefs/food-sovereignty-in-a-palestinian-economy-of-resistance/"
+      },
+      {
+        "datetime": "2024-09-17T12:49:44Z",
+        "uri": "https://web.archive.org/web/20240917124944/https://al-shabaka.org/briefs/food-sovereignty-in-a-palestinian-economy-of-resistance/"
+      },
+      {
+        "datetime": "2024-09-22T06:30:36Z",
+        "uri": "https://web.archive.org/web/20240922063036/https://al-shabaka.org/briefs/food-sovereignty-in-a-palestinian-economy-of-resistance/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-08-28T19:03:18Z",
+      "uri": "https://web.archive.org/web/20240828190318/https://al-shabaka.org/briefs/food-sovereignty-in-a-palestinian-economy-of-resistance/"
+    },
+    "last": {
+      "datetime": "2024-09-22T06:30:36Z",
+      "uri": "https://web.archive.org/web/20240922063036/https://al-shabaka.org/briefs/food-sovereignty-in-a-palestinian-economy-of-resistance/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://al-shabaka.org/briefs/food-sovereignty-in-a-palestinian-economy-of-resistance/",
+    "json_format": "http://localhost:1208/timemap/json/https://al-shabaka.org/briefs/food-sovereignty-in-a-palestinian-economy-of-resistance/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://al-shabaka.org/briefs/food-sovereignty-in-a-palestinian-economy-of-resistance/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://al-shabaka.org/briefs/food-sovereignty-in-a-palestinian-economy-of-resistance/"
+}

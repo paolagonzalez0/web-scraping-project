@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://labouroutlook.org/2024/12/12/apsana-begum-tackling-violence-against-women-girls-means-opposing-austerity-racism-war/",
+  "self": "http://localhost:1208/timemap/json/https://labouroutlook.org/2024/12/12/apsana-begum-tackling-violence-against-women-girls-means-opposing-austerity-racism-war/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-13T14:20:08Z",
+        "uri": "https://web.archive.org/web/20241213142008/https://labouroutlook.org/2024/12/12/apsana-begum-tackling-violence-against-women-girls-means-opposing-austerity-racism-war/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-13T14:20:08Z",
+      "uri": "https://web.archive.org/web/20241213142008/https://labouroutlook.org/2024/12/12/apsana-begum-tackling-violence-against-women-girls-means-opposing-austerity-racism-war/"
+    },
+    "last": {
+      "datetime": "2024-12-13T14:20:08Z",
+      "uri": "https://web.archive.org/web/20241213142008/https://labouroutlook.org/2024/12/12/apsana-begum-tackling-violence-against-women-girls-means-opposing-austerity-racism-war/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://labouroutlook.org/2024/12/12/apsana-begum-tackling-violence-against-women-girls-means-opposing-austerity-racism-war/",
+    "json_format": "http://localhost:1208/timemap/json/https://labouroutlook.org/2024/12/12/apsana-begum-tackling-violence-against-women-girls-means-opposing-austerity-racism-war/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://labouroutlook.org/2024/12/12/apsana-begum-tackling-violence-against-women-girls-means-opposing-austerity-racism-war/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://labouroutlook.org/2024/12/12/apsana-begum-tackling-violence-against-women-girls-means-opposing-austerity-racism-war/"
+}

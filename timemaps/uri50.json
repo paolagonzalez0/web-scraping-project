@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://lecourrier.ch/2024/11/15/des-avancees-autochtones-en-contrepoint-au-carbo-facisme/",
+  "self": "http://localhost:1208/timemap/json/https://lecourrier.ch/2024/11/15/des-avancees-autochtones-en-contrepoint-au-carbo-facisme/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-16T02:24:31Z",
+        "uri": "https://web.archive.org/web/20241116022431/https://lecourrier.ch/2024/11/15/des-avancees-autochtones-en-contrepoint-au-carbo-facisme/"
+      },
+      {
+        "datetime": "2024-12-09T14:58:51Z",
+        "uri": "https://web.archive.org/web/20241209145851/https://lecourrier.ch/2024/11/15/des-avancees-autochtones-en-contrepoint-au-carbo-facisme/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-16T02:24:31Z",
+      "uri": "https://web.archive.org/web/20241116022431/https://lecourrier.ch/2024/11/15/des-avancees-autochtones-en-contrepoint-au-carbo-facisme/"
+    },
+    "last": {
+      "datetime": "2024-12-09T14:58:51Z",
+      "uri": "https://web.archive.org/web/20241209145851/https://lecourrier.ch/2024/11/15/des-avancees-autochtones-en-contrepoint-au-carbo-facisme/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://lecourrier.ch/2024/11/15/des-avancees-autochtones-en-contrepoint-au-carbo-facisme/",
+    "json_format": "http://localhost:1208/timemap/json/https://lecourrier.ch/2024/11/15/des-avancees-autochtones-en-contrepoint-au-carbo-facisme/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://lecourrier.ch/2024/11/15/des-avancees-autochtones-en-contrepoint-au-carbo-facisme/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://lecourrier.ch/2024/11/15/des-avancees-autochtones-en-contrepoint-au-carbo-facisme/"
+}

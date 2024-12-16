@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://www.summitdaily.com/opinion/get-wild-grateful-for-public-lands-step-up-to-protect-them/",
+  "self": "http://localhost:1208/timemap/json/https://www.summitdaily.com/opinion/get-wild-grateful-for-public-lands-step-up-to-protect-them/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-07T20:15:05Z",
+        "uri": "https://web.archive.org/web/20241207201505/https://www.summitdaily.com/opinion/get-wild-grateful-for-public-lands-step-up-to-protect-them/"
+      },
+      {
+        "datetime": "2024-12-08T09:24:11Z",
+        "uri": "https://web.archive.org/web/20241208092411/https://www.summitdaily.com/opinion/get-wild-grateful-for-public-lands-step-up-to-protect-them/"
+      },
+      {
+        "datetime": "2024-12-08T20:28:50Z",
+        "uri": "https://web.archive.org/web/20241208202850/https://www.summitdaily.com/opinion/get-wild-grateful-for-public-lands-step-up-to-protect-them/"
+      },
+      {
+        "datetime": "2024-12-10T06:01:37Z",
+        "uri": "https://web.archive.org/web/20241210060137/https://www.summitdaily.com/opinion/get-wild-grateful-for-public-lands-step-up-to-protect-them/"
+      },
+      {
+        "datetime": "2024-12-12T07:05:15Z",
+        "uri": "https://web.archive.org/web/20241212070515/https://www.summitdaily.com/opinion/get-wild-grateful-for-public-lands-step-up-to-protect-them/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-07T20:15:05Z",
+      "uri": "https://web.archive.org/web/20241207201505/https://www.summitdaily.com/opinion/get-wild-grateful-for-public-lands-step-up-to-protect-them/"
+    },
+    "last": {
+      "datetime": "2024-12-12T07:05:15Z",
+      "uri": "https://web.archive.org/web/20241212070515/https://www.summitdaily.com/opinion/get-wild-grateful-for-public-lands-step-up-to-protect-them/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.summitdaily.com/opinion/get-wild-grateful-for-public-lands-step-up-to-protect-them/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.summitdaily.com/opinion/get-wild-grateful-for-public-lands-step-up-to-protect-them/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.summitdaily.com/opinion/get-wild-grateful-for-public-lands-step-up-to-protect-them/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.summitdaily.com/opinion/get-wild-grateful-for-public-lands-step-up-to-protect-them/"
+}

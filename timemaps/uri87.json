@@ -1,0 +1,78 @@
+{
+  "original_uri": "https://ore.dc.gov/page/resources-14",
+  "self": "http://localhost:1208/timemap/json/https://ore.dc.gov/page/resources-14",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-12-05T02:36:03Z",
+        "uri": "https://web.archive.org/web/20211205023603/https://ore.dc.gov/page/resources-14"
+      },
+      {
+        "datetime": "2022-01-11T19:36:42Z",
+        "uri": "https://web.archive.org/web/20220111193642/https://ore.dc.gov/page/resources-14"
+      },
+      {
+        "datetime": "2022-01-17T22:36:17Z",
+        "uri": "https://web.archive.org/web/20220117223617/https://ore.dc.gov/page/resources-14"
+      },
+      {
+        "datetime": "2022-02-04T23:55:31Z",
+        "uri": "https://webarchive.loc.gov/all/20220204235531/https://ore.dc.gov/page/resources-14"
+      },
+      {
+        "datetime": "2022-02-06T20:15:33Z",
+        "uri": "https://web.archive.org/web/20220206201533/https://ore.dc.gov/page/resources-14"
+      },
+      {
+        "datetime": "2022-05-12T18:26:35Z",
+        "uri": "https://web.archive.org/web/20220512182635/https://ore.dc.gov/page/resources-14"
+      },
+      {
+        "datetime": "2023-04-19T19:42:53Z",
+        "uri": "https://web.archive.org/web/20230419194253/https://ore.dc.gov/page/resources-14"
+      },
+      {
+        "datetime": "2023-05-28T10:30:50Z",
+        "uri": "https://web.archive.org/web/20230528103050/https://ore.dc.gov/page/resources-14"
+      },
+      {
+        "datetime": "2023-12-11T16:38:25Z",
+        "uri": "https://web.archive.org/web/20231211163825/https://ore.dc.gov/page/resources-14"
+      },
+      {
+        "datetime": "2024-06-08T09:24:15Z",
+        "uri": "https://web.archive.org/web/20240608092415/https://ore.dc.gov/page/resources-14"
+      },
+      {
+        "datetime": "2024-06-16T03:31:30Z",
+        "uri": "https://web.archive.org/web/20240616033130/https://ore.dc.gov/page/resources-14"
+      },
+      {
+        "datetime": "2024-08-07T16:36:39Z",
+        "uri": "https://web.archive.org/web/20240807163639/http://ore.dc.gov/page/resources-14"
+      },
+      {
+        "datetime": "2024-08-07T18:28:09Z",
+        "uri": "https://web.archive.org/web/20240807182809/https://ore.dc.gov/page/resources-14"
+      },
+      {
+        "datetime": "2024-09-30T13:53:50Z",
+        "uri": "https://web.archive.org/web/20240930135350/https://ore.dc.gov/page/resources-14"
+      }
+    ],
+    "first": {
+      "datetime": "2021-12-05T02:36:03Z",
+      "uri": "https://web.archive.org/web/20211205023603/https://ore.dc.gov/page/resources-14"
+    },
+    "last": {
+      "datetime": "2024-09-30T13:53:50Z",
+      "uri": "https://web.archive.org/web/20240930135350/https://ore.dc.gov/page/resources-14"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://ore.dc.gov/page/resources-14",
+    "json_format": "http://localhost:1208/timemap/json/https://ore.dc.gov/page/resources-14",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://ore.dc.gov/page/resources-14"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://ore.dc.gov/page/resources-14"
+}

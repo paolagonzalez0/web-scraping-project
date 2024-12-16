@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://web.cvent.com/event/caff15b7-47ef-4a3f-bca8-cb24e6d4cb36/summary",
+  "self": "http://localhost:1208/timemap/json/https://web.cvent.com/event/caff15b7-47ef-4a3f-bca8-cb24e6d4cb36/summary",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-21T01:11:14Z",
+        "uri": "https://web.archive.org/web/20241121011114/https://web.cvent.com/event/caff15b7-47ef-4a3f-bca8-cb24e6d4cb36/summary"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-21T01:11:14Z",
+      "uri": "https://web.archive.org/web/20241121011114/https://web.cvent.com/event/caff15b7-47ef-4a3f-bca8-cb24e6d4cb36/summary"
+    },
+    "last": {
+      "datetime": "2024-11-21T01:11:14Z",
+      "uri": "https://web.archive.org/web/20241121011114/https://web.cvent.com/event/caff15b7-47ef-4a3f-bca8-cb24e6d4cb36/summary"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://web.cvent.com/event/caff15b7-47ef-4a3f-bca8-cb24e6d4cb36/summary",
+    "json_format": "http://localhost:1208/timemap/json/https://web.cvent.com/event/caff15b7-47ef-4a3f-bca8-cb24e6d4cb36/summary",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://web.cvent.com/event/caff15b7-47ef-4a3f-bca8-cb24e6d4cb36/summary"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://web.cvent.com/event/caff15b7-47ef-4a3f-bca8-cb24e6d4cb36/summary"
+}

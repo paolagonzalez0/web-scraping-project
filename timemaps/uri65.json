@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.facebook.com/share/1SqjcT6Yty/",
+  "self": "http://localhost:1208/timemap/json/https://www.facebook.com/share/1SqjcT6Yty/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-22T18:20:20Z",
+        "uri": "https://web.archive.org/web/20241122182020/https://www.facebook.com/share/1SqjcT6Yty/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-22T18:20:20Z",
+      "uri": "https://web.archive.org/web/20241122182020/https://www.facebook.com/share/1SqjcT6Yty/"
+    },
+    "last": {
+      "datetime": "2024-11-22T18:20:20Z",
+      "uri": "https://web.archive.org/web/20241122182020/https://www.facebook.com/share/1SqjcT6Yty/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.facebook.com/share/1SqjcT6Yty/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.facebook.com/share/1SqjcT6Yty/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.facebook.com/share/1SqjcT6Yty/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.facebook.com/share/1SqjcT6Yty/"
+}

@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://www.croakey.org/going-nuclear-and-closing-their-eyes-to-expert-advice-on-the-urgency-of-climate-action/",
+  "self": "http://localhost:1208/timemap/json/https://www.croakey.org/going-nuclear-and-closing-their-eyes-to-expert-advice-on-the-urgency-of-climate-action/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-06-20T13:16:10Z",
+        "uri": "https://web.archive.org/web/20240620131610/https://www.croakey.org/going-nuclear-and-closing-their-eyes-to-expert-advice-on-the-urgency-of-climate-action"
+      },
+      {
+        "datetime": "2024-06-20T13:17:39Z",
+        "uri": "https://web.archive.org/web/20240620131739/https://www.croakey.org/going-nuclear-and-closing-their-eyes-to-expert-advice-on-the-urgency-of-climate-action/"
+      },
+      {
+        "datetime": "2024-06-20T22:24:09Z",
+        "uri": "https://web.archive.org/web/20240620222409/http://www.croakey.org/going-nuclear-and-closing-their-eyes-to-expert-advice-on-the-urgency-of-climate-action/"
+      },
+      {
+        "datetime": "2024-07-13T09:52:43Z",
+        "uri": "https://web.archive.org/web/20240713095243/https://www.croakey.org/going-nuclear-and-closing-their-eyes-to-expert-advice-on-the-urgency-of-climate-action/"
+      },
+      {
+        "datetime": "2024-12-03T07:25:09Z",
+        "uri": "https://web.archive.org/web/20241203072509/https://www.croakey.org/going-nuclear-and-closing-their-eyes-to-expert-advice-on-the-urgency-of-climate-action/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-06-20T13:16:10Z",
+      "uri": "https://web.archive.org/web/20240620131610/https://www.croakey.org/going-nuclear-and-closing-their-eyes-to-expert-advice-on-the-urgency-of-climate-action"
+    },
+    "last": {
+      "datetime": "2024-12-03T07:25:09Z",
+      "uri": "https://web.archive.org/web/20241203072509/https://www.croakey.org/going-nuclear-and-closing-their-eyes-to-expert-advice-on-the-urgency-of-climate-action/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.croakey.org/going-nuclear-and-closing-their-eyes-to-expert-advice-on-the-urgency-of-climate-action/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.croakey.org/going-nuclear-and-closing-their-eyes-to-expert-advice-on-the-urgency-of-climate-action/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.croakey.org/going-nuclear-and-closing-their-eyes-to-expert-advice-on-the-urgency-of-climate-action/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.croakey.org/going-nuclear-and-closing-their-eyes-to-expert-advice-on-the-urgency-of-climate-action/"
+}

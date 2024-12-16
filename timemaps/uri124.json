@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://www.theglobeandmail.com/opinion/article-when-it-comes-to-economic-matters-canada-is-not-a-serious-country/",
+  "self": "http://localhost:1208/timemap/json/https://www.theglobeandmail.com/opinion/article-when-it-comes-to-economic-matters-canada-is-not-a-serious-country/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-12T19:46:26Z",
+        "uri": "http://archive.md/20241212194626/https://www.theglobeandmail.com/opinion/article-when-it-comes-to-economic-matters-canada-is-not-a-serious-country/"
+      },
+      {
+        "datetime": "2024-12-13T00:18:29Z",
+        "uri": "https://web.archive.org/web/20241213001829/https://www.theglobeandmail.com/opinion/article-when-it-comes-to-economic-matters-canada-is-not-a-serious-country/"
+      },
+      {
+        "datetime": "2024-12-13T03:19:09Z",
+        "uri": "https://web.archive.org/web/20241213031909/https://www.theglobeandmail.com/opinion/article-when-it-comes-to-economic-matters-canada-is-not-a-serious-country/"
+      },
+      {
+        "datetime": "2024-12-13T05:05:00Z",
+        "uri": "https://web.archive.org/web/20241213050500/https://www.theglobeandmail.com/opinion/article-when-it-comes-to-economic-matters-canada-is-not-a-serious-country/"
+      },
+      {
+        "datetime": "2024-12-13T23:58:27Z",
+        "uri": "https://web.archive.org/web/20241213235827/https://www.theglobeandmail.com/opinion/article-when-it-comes-to-economic-matters-canada-is-not-a-serious-country/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-12T19:46:26Z",
+      "uri": "http://archive.md/20241212194626/https://www.theglobeandmail.com/opinion/article-when-it-comes-to-economic-matters-canada-is-not-a-serious-country/"
+    },
+    "last": {
+      "datetime": "2024-12-13T23:58:27Z",
+      "uri": "https://web.archive.org/web/20241213235827/https://www.theglobeandmail.com/opinion/article-when-it-comes-to-economic-matters-canada-is-not-a-serious-country/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.theglobeandmail.com/opinion/article-when-it-comes-to-economic-matters-canada-is-not-a-serious-country/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.theglobeandmail.com/opinion/article-when-it-comes-to-economic-matters-canada-is-not-a-serious-country/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.theglobeandmail.com/opinion/article-when-it-comes-to-economic-matters-canada-is-not-a-serious-country/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.theglobeandmail.com/opinion/article-when-it-comes-to-economic-matters-canada-is-not-a-serious-country/"
+}

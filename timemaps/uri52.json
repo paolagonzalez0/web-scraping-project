@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://religionnews.com/2024/11/15/at-fall-meeting-us-catholic-bishops-turn-toward-pope-francis-agenda/",
+  "self": "http://localhost:1208/timemap/json/https://religionnews.com/2024/11/15/at-fall-meeting-us-catholic-bishops-turn-toward-pope-francis-agenda/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-17T00:03:19Z",
+        "uri": "https://web.archive.org/web/20241117000319/https://religionnews.com/2024/11/15/at-fall-meeting-us-catholic-bishops-turn-toward-pope-francis-agenda/"
+      },
+      {
+        "datetime": "2024-11-17T01:13:26Z",
+        "uri": "https://web.archive.org/web/20241117011326/https://religionnews.com/2024/11/15/at-fall-meeting-us-catholic-bishops-turn-toward-pope-francis-agenda/"
+      },
+      {
+        "datetime": "2024-11-26T23:09:04Z",
+        "uri": "https://web.archive.org/web/20241126230904/https://religionnews.com/2024/11/15/at-fall-meeting-us-catholic-bishops-turn-toward-pope-francis-agenda/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-17T00:03:19Z",
+      "uri": "https://web.archive.org/web/20241117000319/https://religionnews.com/2024/11/15/at-fall-meeting-us-catholic-bishops-turn-toward-pope-francis-agenda/"
+    },
+    "last": {
+      "datetime": "2024-11-26T23:09:04Z",
+      "uri": "https://web.archive.org/web/20241126230904/https://religionnews.com/2024/11/15/at-fall-meeting-us-catholic-bishops-turn-toward-pope-francis-agenda/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://religionnews.com/2024/11/15/at-fall-meeting-us-catholic-bishops-turn-toward-pope-francis-agenda/",
+    "json_format": "http://localhost:1208/timemap/json/https://religionnews.com/2024/11/15/at-fall-meeting-us-catholic-bishops-turn-toward-pope-francis-agenda/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://religionnews.com/2024/11/15/at-fall-meeting-us-catholic-bishops-turn-toward-pope-francis-agenda/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://religionnews.com/2024/11/15/at-fall-meeting-us-catholic-bishops-turn-toward-pope-francis-agenda/"
+}

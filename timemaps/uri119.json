@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.blm.gov/california-firehire",
+  "self": "http://localhost:1208/timemap/json/https://www.blm.gov/california-firehire",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-10-25T04:36:18Z",
+        "uri": "https://web.archive.org/web/20231025043618/https://www.blm.gov/california-firehire"
+      },
+      {
+        "datetime": "2023-10-28T05:44:11Z",
+        "uri": "https://web.archive.org/web/20231028054411/http://www.blm.gov/california-firehire"
+      },
+      {
+        "datetime": "2023-12-08T20:39:57Z",
+        "uri": "https://web.archive.org/web/20231208203957/https://www.blm.gov/california-firehire"
+      },
+      {
+        "datetime": "2023-12-09T07:05:52Z",
+        "uri": "https://wayback.archive-it.org/all/20231209070552/https://www.blm.gov/california-firehire"
+      },
+      {
+        "datetime": "2023-12-09T07:05:52Z",
+        "uri": "https://web.archive.org/web/20231209070552/https://www.blm.gov/california-firehire"
+      },
+      {
+        "datetime": "2024-04-25T17:20:30Z",
+        "uri": "https://wayback.archive-it.org/all/20240425172030/https://www.blm.gov/california-firehire"
+      },
+      {
+        "datetime": "2024-04-25T17:20:30Z",
+        "uri": "https://web.archive.org/web/20240425172030/https://www.blm.gov/california-firehire"
+      },
+      {
+        "datetime": "2024-05-18T14:33:31Z",
+        "uri": "https://web.archive.org/web/20240518143331/https://www.blm.gov/california-firehire"
+      },
+      {
+        "datetime": "2024-09-16T17:16:42Z",
+        "uri": "https://wayback.archive-it.org/all/20240916171642/https://www.blm.gov/california-firehire"
+      }
+    ],
+    "first": {
+      "datetime": "2023-10-25T04:36:18Z",
+      "uri": "https://web.archive.org/web/20231025043618/https://www.blm.gov/california-firehire"
+    },
+    "last": {
+      "datetime": "2024-09-16T17:16:42Z",
+      "uri": "https://wayback.archive-it.org/all/20240916171642/https://www.blm.gov/california-firehire"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.blm.gov/california-firehire",
+    "json_format": "http://localhost:1208/timemap/json/https://www.blm.gov/california-firehire",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.blm.gov/california-firehire"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.blm.gov/california-firehire"
+}

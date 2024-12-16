@@ -1,0 +1,130 @@
+{
+  "original_uri": "https://urgentactionfund.org/donate/",
+  "self": "http://localhost:1208/timemap/json/https://urgentactionfund.org/donate/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-07-20T21:14:49Z",
+        "uri": "https://web.archive.org/web/20230720211449/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2023-07-20T22:33:14Z",
+        "uri": "https://web.archive.org/web/20230720223314/https://urgentactionfund.org/donate"
+      },
+      {
+        "datetime": "2023-09-20T23:18:37Z",
+        "uri": "https://web.archive.org/web/20230920231837/https://urgentactionfund.org/donate"
+      },
+      {
+        "datetime": "2023-09-30T00:16:07Z",
+        "uri": "https://web.archive.org/web/20230930001607/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2023-10-08T21:37:10Z",
+        "uri": "https://web.archive.org/web/20231008213710/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2023-12-08T07:03:36Z",
+        "uri": "https://web.archive.org/web/20231208070336/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2023-12-11T01:48:36Z",
+        "uri": "https://web.archive.org/web/20231211014836/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-04-08T21:06:12Z",
+        "uri": "https://web.archive.org/web/20240408210612/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-04-21T02:45:15Z",
+        "uri": "https://web.archive.org/web/20240421024515/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-05-01T07:44:35Z",
+        "uri": "https://web.archive.org/web/20240501074435/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-05-15T19:21:03Z",
+        "uri": "https://web.archive.org/web/20240515192103/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-06-01T08:13:02Z",
+        "uri": "https://web.archive.org/web/20240601081302/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-06-07T03:16:24Z",
+        "uri": "https://web.archive.org/web/20240607031624/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-06-12T12:23:19Z",
+        "uri": "https://web.archive.org/web/20240612122319/http://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-07-03T19:08:46Z",
+        "uri": "https://web.archive.org/web/20240703190846/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-07-15T05:56:02Z",
+        "uri": "https://web.archive.org/web/20240715055602/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-08-01T09:32:37Z",
+        "uri": "https://web.archive.org/web/20240801093237/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-08-05T16:43:05Z",
+        "uri": "https://web.archive.org/web/20240805164305/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-08-17T14:32:42Z",
+        "uri": "https://web.archive.org/web/20240817143242/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-08-17T14:32:47Z",
+        "uri": "https://web.archive.org/web/20240817143247/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-09-04T01:41:04Z",
+        "uri": "https://web.archive.org/web/20240904014104/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-09-13T20:03:08Z",
+        "uri": "https://web.archive.org/web/20240913200308/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-09-25T12:52:53Z",
+        "uri": "https://web.archive.org/web/20240925125253/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-09-26T06:21:24Z",
+        "uri": "https://web.archive.org/web/20240926062124/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-10-03T07:33:29Z",
+        "uri": "https://web.archive.org/web/20241003073329/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-10-04T23:53:34Z",
+        "uri": "https://web.archive.org/web/20241004235334/https://urgentactionfund.org/donate/"
+      },
+      {
+        "datetime": "2024-11-01T14:56:23Z",
+        "uri": "https://web.archive.org/web/20241101145623/https://urgentactionfund.org/donate/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-07-20T21:14:49Z",
+      "uri": "https://web.archive.org/web/20230720211449/https://urgentactionfund.org/donate/"
+    },
+    "last": {
+      "datetime": "2024-11-01T14:56:23Z",
+      "uri": "https://web.archive.org/web/20241101145623/https://urgentactionfund.org/donate/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://urgentactionfund.org/donate/",
+    "json_format": "http://localhost:1208/timemap/json/https://urgentactionfund.org/donate/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://urgentactionfund.org/donate/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://urgentactionfund.org/donate/"
+}

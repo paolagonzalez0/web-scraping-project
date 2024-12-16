@@ -1,0 +1,134 @@
+{
+  "original_uri": "https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/",
+  "self": "http://localhost:1208/timemap/json/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-11-03T13:55:32Z",
+        "uri": "https://web.archive.org/web/20221103135532/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2022-11-03T14:03:55Z",
+        "uri": "https://web.archive.org/web/20221103140355/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2022-11-03T14:04:41Z",
+        "uri": "https://web.archive.org/web/20221103140441/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2022-11-03T15:02:29Z",
+        "uri": "https://web.archive.org/web/20221103150229/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2022-11-03T22:10:27Z",
+        "uri": "https://web.archive.org/web/20221103221027/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2022-11-03T23:13:39Z",
+        "uri": "https://web.archive.org/web/20221103231339/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2022-11-04T03:50:12Z",
+        "uri": "https://web.archive.org/web/20221104035012/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2022-11-04T15:08:18Z",
+        "uri": "https://web.archive.org/web/20221104150818/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2022-11-04T22:54:59Z",
+        "uri": "https://web.archive.org/web/20221104225459/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2022-11-06T00:23:43Z",
+        "uri": "https://web.archive.org/web/20221106002343/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2022-11-13T15:19:04Z",
+        "uri": "https://web.archive.org/web/20221113151904/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2022-11-17T18:38:55Z",
+        "uri": "https://web.archive.org/web/20221117183855/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2022-11-17T18:39:02Z",
+        "uri": "https://web.archive.org/web/20221117183902/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2022-11-27T18:59:59Z",
+        "uri": "https://web.archive.org/web/20221127185959/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2022-12-26T03:08:34Z",
+        "uri": "https://web.archive.org/web/20221226030834/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2023-01-05T01:23:49Z",
+        "uri": "https://web.archive.org/web/20230105012349/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2023-03-15T12:24:14Z",
+        "uri": "https://web.archive.org/web/20230315122414/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2023-03-24T21:57:53Z",
+        "uri": "https://web.archive.org/web/20230324215753/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2023-05-03T12:59:42Z",
+        "uri": "http://archive.md/20230503125942/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2023-09-25T12:51:50Z",
+        "uri": "https://web.archive.org/web/20230925125150/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2024-01-14T23:27:33Z",
+        "uri": "https://web.archive.org/web/20240114232733/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2024-03-04T01:57:54Z",
+        "uri": "https://web.archive.org/web/20240304015754/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2024-03-29T12:03:44Z",
+        "uri": "https://web.archive.org/web/20240329120344/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2024-06-04T21:05:56Z",
+        "uri": "https://web.archive.org/web/20240604210556/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2024-06-23T20:34:27Z",
+        "uri": "https://web.archive.org/web/20240623203427/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2024-07-16T10:53:17Z",
+        "uri": "https://web.archive.org/web/20240716105317/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2024-09-13T16:40:27Z",
+        "uri": "https://web.archive.org/web/20240913164027/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      },
+      {
+        "datetime": "2024-09-27T02:19:12Z",
+        "uri": "https://web.archive.org/web/20240927021912/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-11-03T13:55:32Z",
+      "uri": "https://web.archive.org/web/20221103135532/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+    },
+    "last": {
+      "datetime": "2024-09-27T02:19:12Z",
+      "uri": "https://web.archive.org/web/20240927021912/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.smithsonianmag.com/history/father-daughter-duo-reformed-america-180981016/"
+}

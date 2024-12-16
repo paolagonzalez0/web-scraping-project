@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://shamanicartscenter.com",
+  "self": "http://localhost:1208/timemap/json/https://shamanicartscenter.com",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-12-22T23:02:47Z",
+        "uri": "https://web.archive.org/web/20211222230247/http://shamanicartscenter.com/"
+      },
+      {
+        "datetime": "2024-05-21T08:08:42Z",
+        "uri": "https://web.archive.org/web/20240521080842/http://www.shamanicartscenter.com/"
+      },
+      {
+        "datetime": "2024-05-21T09:35:39Z",
+        "uri": "https://web.archive.org/web/20240521093539/http://shamanicartscenter.com/"
+      },
+      {
+        "datetime": "2024-08-14T12:27:23Z",
+        "uri": "https://web.archive.org/web/20240814122723/http://www.shamanicartscenter.com/"
+      },
+      {
+        "datetime": "2024-08-14T12:27:24Z",
+        "uri": "https://web.archive.org/web/20240814122724/https://shamanicartscenter.com/"
+      },
+      {
+        "datetime": "2024-08-15T00:43:54Z",
+        "uri": "https://web.archive.org/web/20240815004354/https://shamanicartscenter.com/"
+      },
+      {
+        "datetime": "2024-08-15T00:43:54Z",
+        "uri": "https://web.archive.org/web/20240815004354/http://shamanicartscenter.com/"
+      },
+      {
+        "datetime": "2024-08-15T00:43:57Z",
+        "uri": "https://web.archive.org/web/20240815004357/https://shamanicartscenter.com/"
+      },
+      {
+        "datetime": "2024-09-14T17:00:27Z",
+        "uri": "https://web.archive.org/web/20240914170027/http://shamanicartscenter.com/"
+      },
+      {
+        "datetime": "2024-12-13T19:54:26Z",
+        "uri": "https://web.archive.org/web/20241213195426/https://shamanicartscenter.com./"
+      }
+    ],
+    "first": {
+      "datetime": "2021-12-22T23:02:47Z",
+      "uri": "https://web.archive.org/web/20211222230247/http://shamanicartscenter.com/"
+    },
+    "last": {
+      "datetime": "2024-12-13T19:54:26Z",
+      "uri": "https://web.archive.org/web/20241213195426/https://shamanicartscenter.com./"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://shamanicartscenter.com",
+    "json_format": "http://localhost:1208/timemap/json/https://shamanicartscenter.com",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://shamanicartscenter.com"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://shamanicartscenter.com"
+}

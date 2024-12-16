@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://antipovertyweek.org.au/event/end-child-poverty-at-australian-parliament-house/",
+  "self": "http://localhost:1208/timemap/json/https://antipovertyweek.org.au/event/end-child-poverty-at-australian-parliament-house/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-10-08T00:09:25Z",
+        "uri": "https://web.archive.org/web/20241008000925/https://antipovertyweek.org.au/event/end-child-poverty-at-australian-parliament-house/"
+      },
+      {
+        "datetime": "2024-10-08T00:09:25Z",
+        "uri": "https://web.archive.org.au/awa/20241008000925mp_/https://antipovertyweek.org.au/event/end-child-poverty-at-australian-parliament-house/"
+      },
+      {
+        "datetime": "2024-10-31T14:35:17Z",
+        "uri": "https://web.archive.org.au/awa/20241031143517mp_/https://antipovertyweek.org.au/event/end-child-poverty-at-australian-parliament-house/"
+      },
+      {
+        "datetime": "2024-12-06T04:32:46Z",
+        "uri": "https://web.archive.org/web/20241206043246/https://antipovertyweek.org.au/event/end-child-poverty-at-australian-parliament-house/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-10-08T00:09:25Z",
+      "uri": "https://web.archive.org/web/20241008000925/https://antipovertyweek.org.au/event/end-child-poverty-at-australian-parliament-house/"
+    },
+    "last": {
+      "datetime": "2024-12-06T04:32:46Z",
+      "uri": "https://web.archive.org/web/20241206043246/https://antipovertyweek.org.au/event/end-child-poverty-at-australian-parliament-house/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://antipovertyweek.org.au/event/end-child-poverty-at-australian-parliament-house/",
+    "json_format": "http://localhost:1208/timemap/json/https://antipovertyweek.org.au/event/end-child-poverty-at-australian-parliament-house/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://antipovertyweek.org.au/event/end-child-poverty-at-australian-parliament-house/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://antipovertyweek.org.au/event/end-child-poverty-at-australian-parliament-house/"
+}

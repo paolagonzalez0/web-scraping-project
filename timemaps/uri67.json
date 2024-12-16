@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://www.ncronline.org/news/bishops-anti-poverty-program-announces-much-reduced-grant-distribution",
+  "self": "http://localhost:1208/timemap/json/https://www.ncronline.org/news/bishops-anti-poverty-program-announces-much-reduced-grant-distribution",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-14T21:06:51Z",
+        "uri": "https://web.archive.org/web/20241114210651/https://www.ncronline.org/news/bishops-anti-poverty-program-announces-much-reduced-grant-distribution"
+      },
+      {
+        "datetime": "2024-11-15T01:49:01Z",
+        "uri": "https://web.archive.org/web/20241115014901/https://www.ncronline.org/news/bishops-anti-poverty-program-announces-much-reduced-grant-distribution"
+      },
+      {
+        "datetime": "2024-11-15T10:39:15Z",
+        "uri": "https://web.archive.org/web/20241115103915/https://www.ncronline.org/news/bishops-anti-poverty-program-announces-much-reduced-grant-distribution"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-14T21:06:51Z",
+      "uri": "https://web.archive.org/web/20241114210651/https://www.ncronline.org/news/bishops-anti-poverty-program-announces-much-reduced-grant-distribution"
+    },
+    "last": {
+      "datetime": "2024-11-15T10:39:15Z",
+      "uri": "https://web.archive.org/web/20241115103915/https://www.ncronline.org/news/bishops-anti-poverty-program-announces-much-reduced-grant-distribution"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.ncronline.org/news/bishops-anti-poverty-program-announces-much-reduced-grant-distribution",
+    "json_format": "http://localhost:1208/timemap/json/https://www.ncronline.org/news/bishops-anti-poverty-program-announces-much-reduced-grant-distribution",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ncronline.org/news/bishops-anti-poverty-program-announces-much-reduced-grant-distribution"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.ncronline.org/news/bishops-anti-poverty-program-announces-much-reduced-grant-distribution"
+}

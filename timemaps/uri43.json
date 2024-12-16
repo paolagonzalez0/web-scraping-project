@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://archatl.com/ministries-services/restorative-justice-ministry/catholic-campaign-for-human-development/",
+  "self": "http://localhost:1208/timemap/json/https://archatl.com/ministries-services/restorative-justice-ministry/catholic-campaign-for-human-development/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-03-28T18:43:30Z",
+        "uri": "https://web.archive.org/web/20230328184330/https://archatl.com/ministries-services/restorative-justice-ministry/catholic-campaign-for-human-development/"
+      },
+      {
+        "datetime": "2023-06-19T11:49:01Z",
+        "uri": "https://wayback.archive-it.org/all/20230619114901/https://archatl.com/ministries-services/restorative-justice-ministry/catholic-campaign-for-human-development/"
+      },
+      {
+        "datetime": "2023-06-19T11:49:01Z",
+        "uri": "https://web.archive.org/web/20230619114901/https://archatl.com/ministries-services/restorative-justice-ministry/catholic-campaign-for-human-development/"
+      },
+      {
+        "datetime": "2023-12-10T01:16:08Z",
+        "uri": "https://web.archive.org/web/20231210011608/https://archatl.com/ministries-services/restorative-justice-ministry/catholic-campaign-for-human-development/"
+      },
+      {
+        "datetime": "2024-04-23T05:04:56Z",
+        "uri": "https://web.archive.org/web/20240423050456/https://archatl.com/ministries-services/restorative-justice-ministry/catholic-campaign-for-human-development/"
+      },
+      {
+        "datetime": "2024-04-25T08:19:40Z",
+        "uri": "https://web.archive.org/web/20240425081940/https://archatl.com/ministries-services/restorative-justice-ministry/catholic-campaign-for-human-development/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-03-28T18:43:30Z",
+      "uri": "https://web.archive.org/web/20230328184330/https://archatl.com/ministries-services/restorative-justice-ministry/catholic-campaign-for-human-development/"
+    },
+    "last": {
+      "datetime": "2024-04-25T08:19:40Z",
+      "uri": "https://web.archive.org/web/20240425081940/https://archatl.com/ministries-services/restorative-justice-ministry/catholic-campaign-for-human-development/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://archatl.com/ministries-services/restorative-justice-ministry/catholic-campaign-for-human-development/",
+    "json_format": "http://localhost:1208/timemap/json/https://archatl.com/ministries-services/restorative-justice-ministry/catholic-campaign-for-human-development/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://archatl.com/ministries-services/restorative-justice-ministry/catholic-campaign-for-human-development/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://archatl.com/ministries-services/restorative-justice-ministry/catholic-campaign-for-human-development/"
+}

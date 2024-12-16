@@ -1,0 +1,154 @@
+{
+  "original_uri": "https://www.fundthebenefit.ca/",
+  "self": "http://localhost:1208/timemap/json/https://www.fundthebenefit.ca/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-12-22T07:01:33Z",
+        "uri": "https://web.archive.org/web/20231222070133/https://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-01-09T06:11:58Z",
+        "uri": "https://web.archive.org/web/20240109061158/http://fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-01-09T06:12:00Z",
+        "uri": "https://web.archive.org/web/20240109061200/https://fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-01-10T22:37:01Z",
+        "uri": "https://web.archive.org/web/20240110223701/https://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-01-16T08:39:56Z",
+        "uri": "https://web.archive.org/web/20240116083956/http://fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-01-16T08:39:58Z",
+        "uri": "https://web.archive.org/web/20240116083958/https://fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-01-18T02:19:49Z",
+        "uri": "https://web.archive.org/web/20240118021949/https://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-02-17T16:17:19Z",
+        "uri": "https://web.archive.org/web/20240217161719/http://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-02-25T15:57:39Z",
+        "uri": "https://web.archive.org/web/20240225155739/https://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-04-05T10:44:14Z",
+        "uri": "https://web.archive.org/web/20240405104414/http://fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-04-11T06:07:30Z",
+        "uri": "https://web.archive.org/web/20240411060730/https://fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-04-19T22:22:57Z",
+        "uri": "https://web.archive.org/web/20240419222257/https://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-04-19T22:23:55Z",
+        "uri": "https://web.archive.org/web/20240419222355/https://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-04-20T10:58:56Z",
+        "uri": "https://web.archive.org/web/20240420105856/http://fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-04-20T10:59:58Z",
+        "uri": "https://web.archive.org/web/20240420105958/https://fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-04-21T23:15:43Z",
+        "uri": "https://web.archive.org/web/20240421231543/https://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-04-21T23:16:10Z",
+        "uri": "https://web.archive.org/web/20240421231610/http://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-04-22T19:06:39Z",
+        "uri": "https://web.archive.org/web/20240422190639/http://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-05-23T07:29:24Z",
+        "uri": "https://web.archive.org/web/20240523072924/https://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-06-02T13:30:40Z",
+        "uri": "https://web.archive.org/web/20240602133040/http://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-06-20T19:35:57Z",
+        "uri": "https://web.archive.org/web/20240620193557/https://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-06-21T16:38:30Z",
+        "uri": "https://web.archive.org/web/20240621163830/https://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-06-22T02:42:40Z",
+        "uri": "https://web.archive.org/web/20240622024240/http://fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-06-22T02:49:55Z",
+        "uri": "https://web.archive.org/web/20240622024955/https://fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-07-13T16:37:41Z",
+        "uri": "https://web.archive.org/web/20240713163741/https://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-09-25T01:20:22Z",
+        "uri": "https://web.archive.org/web/20240925012022/http://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-09-25T01:20:22Z",
+        "uri": "https://web.archive.org/web/20240925012022/http://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-09-25T01:20:23Z",
+        "uri": "https://web.archive.org/web/20240925012023/https://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-09-25T01:20:23Z",
+        "uri": "https://web.archive.org/web/20240925012023/https://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-09-25T01:20:23Z",
+        "uri": "https://web.archive.org/web/20240925012023/https://www.fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-09-25T01:22:16Z",
+        "uri": "https://web.archive.org/web/20240925012216/https://fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-09-25T01:22:19Z",
+        "uri": "https://web.archive.org/web/20240925012219/http://fundthebenefit.ca/"
+      },
+      {
+        "datetime": "2024-09-25T01:22:20Z",
+        "uri": "https://web.archive.org/web/20240925012220/https://fundthebenefit.ca/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-12-22T07:01:33Z",
+      "uri": "https://web.archive.org/web/20231222070133/https://www.fundthebenefit.ca/"
+    },
+    "last": {
+      "datetime": "2024-09-25T01:22:20Z",
+      "uri": "https://web.archive.org/web/20240925012220/https://fundthebenefit.ca/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.fundthebenefit.ca/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.fundthebenefit.ca/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.fundthebenefit.ca/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.fundthebenefit.ca/"
+}

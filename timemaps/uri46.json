@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://consciousplanet.org/en/save-soil/soil",
+  "self": "http://localhost:1208/timemap/json/https://consciousplanet.org/en/save-soil/soil",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-11-19T00:16:13Z",
+        "uri": "https://web.archive.org/web/20231119001613/https://consciousplanet.org/en/save-soil/soil"
+      },
+      {
+        "datetime": "2023-12-09T17:22:45Z",
+        "uri": "https://web.archive.org/web/20231209172245/https://consciousplanet.org/en/save-soil/soil"
+      },
+      {
+        "datetime": "2024-02-24T05:34:41Z",
+        "uri": "https://web.archive.org/web/20240224053441/https://consciousplanet.org/en/save-soil/soil"
+      },
+      {
+        "datetime": "2024-03-01T02:41:34Z",
+        "uri": "https://web.archive.org/web/20240301024134/https://consciousplanet.org/en/save-soil/soil"
+      },
+      {
+        "datetime": "2024-06-01T23:21:20Z",
+        "uri": "https://web.archive.org/web/20240601232120/http://consciousplanet.org/en/save-soil/soil"
+      },
+      {
+        "datetime": "2024-06-16T17:36:38Z",
+        "uri": "https://web.archive.org/web/20240616173638/https://consciousplanet.org/en/save-soil/soil"
+      },
+      {
+        "datetime": "2024-06-23T09:31:04Z",
+        "uri": "https://web.archive.org/web/20240623093104/https://consciousplanet.org/en/save-soil/soil"
+      }
+    ],
+    "first": {
+      "datetime": "2023-11-19T00:16:13Z",
+      "uri": "https://web.archive.org/web/20231119001613/https://consciousplanet.org/en/save-soil/soil"
+    },
+    "last": {
+      "datetime": "2024-06-23T09:31:04Z",
+      "uri": "https://web.archive.org/web/20240623093104/https://consciousplanet.org/en/save-soil/soil"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://consciousplanet.org/en/save-soil/soil",
+    "json_format": "http://localhost:1208/timemap/json/https://consciousplanet.org/en/save-soil/soil",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://consciousplanet.org/en/save-soil/soil"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://consciousplanet.org/en/save-soil/soil"
+}

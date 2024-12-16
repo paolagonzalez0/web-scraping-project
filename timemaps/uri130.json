@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://lnkd.in/g3_DTt57",
+  "self": "http://localhost:1208/timemap/json/https://lnkd.in/g3_DTt57",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-12T15:07:32Z",
+        "uri": "https://web.archive.org/web/20241212150732/https://lnkd.in/g3_DTt57"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-12T15:07:32Z",
+      "uri": "https://web.archive.org/web/20241212150732/https://lnkd.in/g3_DTt57"
+    },
+    "last": {
+      "datetime": "2024-12-12T15:07:32Z",
+      "uri": "https://web.archive.org/web/20241212150732/https://lnkd.in/g3_DTt57"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://lnkd.in/g3_DTt57",
+    "json_format": "http://localhost:1208/timemap/json/https://lnkd.in/g3_DTt57",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://lnkd.in/g3_DTt57"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://lnkd.in/g3_DTt57"
+}

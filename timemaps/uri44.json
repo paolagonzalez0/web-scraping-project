@@ -1,0 +1,106 @@
+{
+  "original_uri": "https://asylummatters.org/campaigns/",
+  "self": "http://localhost:1208/timemap/json/https://asylummatters.org/campaigns/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-27T08:20:56Z",
+        "uri": "https://web.archive.org/web/20200427082056/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2020-05-29T02:11:55Z",
+        "uri": "https://web.archive.org/web/20200529021155/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2020-08-07T23:56:41Z",
+        "uri": "https://web.archive.org/web/20200807235641/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2020-10-04T23:54:21Z",
+        "uri": "https://web.archive.org/web/20201004235421/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2020-10-26T03:50:40Z",
+        "uri": "https://web.archive.org/web/20201026035040/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2020-11-25T19:17:58Z",
+        "uri": "https://web.archive.org/web/20201125191758/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2021-01-25T00:42:29Z",
+        "uri": "https://web.archive.org/web/20210125004229/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2021-05-06T15:44:51Z",
+        "uri": "https://web.archive.org/web/20210506154451/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2021-06-24T12:05:23Z",
+        "uri": "https://web.archive.org/web/20210624120523/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2021-06-24T12:05:23Z",
+        "uri": "https://web.archive.org/web/20210624120523/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2021-09-19T22:52:58Z",
+        "uri": "https://web.archive.org/web/20210919225258/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2021-10-26T08:18:59Z",
+        "uri": "https://web.archive.org/web/20211026081859/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2022-01-25T17:01:38Z",
+        "uri": "https://web.archive.org/web/20220125170138/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2022-06-25T04:38:49Z",
+        "uri": "https://web.archive.org/web/20220625043849/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2022-09-28T19:06:23Z",
+        "uri": "https://web.archive.org/web/20220928190623/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2023-02-08T00:28:34Z",
+        "uri": "https://web.archive.org/web/20230208002834/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2023-09-22T18:08:30Z",
+        "uri": "https://web.archive.org/web/20230922180830/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2023-11-06T02:15:21Z",
+        "uri": "https://web.archive.org/web/20231106021521/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2024-02-28T09:19:24Z",
+        "uri": "https://web.archive.org/web/20240228091924/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2024-06-19T23:11:19Z",
+        "uri": "https://web.archive.org/web/20240619231119/https://asylummatters.org/campaigns/"
+      },
+      {
+        "datetime": "2024-08-05T22:14:47Z",
+        "uri": "https://web.archive.org/web/20240805221447/http://asylummatters.org/campaigns/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-27T08:20:56Z",
+      "uri": "https://web.archive.org/web/20200427082056/https://asylummatters.org/campaigns/"
+    },
+    "last": {
+      "datetime": "2024-08-05T22:14:47Z",
+      "uri": "https://web.archive.org/web/20240805221447/http://asylummatters.org/campaigns/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://asylummatters.org/campaigns/",
+    "json_format": "http://localhost:1208/timemap/json/https://asylummatters.org/campaigns/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://asylummatters.org/campaigns/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://asylummatters.org/campaigns/"
+}

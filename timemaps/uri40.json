@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://action.ecpat.org/timeless-justice",
+  "self": "http://localhost:1208/timemap/json/https://action.ecpat.org/timeless-justice",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-09T09:43:07Z",
+        "uri": "https://web.archive.org/web/20241209094307/https://action.ecpat.org/timeless-justice"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-09T09:43:07Z",
+      "uri": "https://web.archive.org/web/20241209094307/https://action.ecpat.org/timeless-justice"
+    },
+    "last": {
+      "datetime": "2024-12-09T09:43:07Z",
+      "uri": "https://web.archive.org/web/20241209094307/https://action.ecpat.org/timeless-justice"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://action.ecpat.org/timeless-justice",
+    "json_format": "http://localhost:1208/timemap/json/https://action.ecpat.org/timeless-justice",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://action.ecpat.org/timeless-justice"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://action.ecpat.org/timeless-justice"
+}

@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://montreal.citynews.ca/2024/11/19/mayor-plante-polytechnique-ottawa-stricter-gun-control/",
+  "self": "http://localhost:1208/timemap/json/https://montreal.citynews.ca/2024/11/19/mayor-plante-polytechnique-ottawa-stricter-gun-control/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-19T21:29:44Z",
+        "uri": "https://web.archive.org/web/20241119212944/https://montreal.citynews.ca/2024/11/19/mayor-plante-polytechnique-ottawa-stricter-gun-control/"
+      },
+      {
+        "datetime": "2024-11-20T03:40:31Z",
+        "uri": "https://web.archive.org/web/20241120034031/https://montreal.citynews.ca/2024/11/19/mayor-plante-polytechnique-ottawa-stricter-gun-control/"
+      },
+      {
+        "datetime": "2024-11-20T23:07:49Z",
+        "uri": "http://archive.md/20241120230749/https://montreal.citynews.ca/2024/11/19/mayor-plante-polytechnique-ottawa-stricter-gun-control/"
+      },
+      {
+        "datetime": "2024-11-26T18:07:31Z",
+        "uri": "https://web.archive.org/web/20241126180731/https://montreal.citynews.ca/2024/11/19/mayor-plante-polytechnique-ottawa-stricter-gun-control/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-19T21:29:44Z",
+      "uri": "https://web.archive.org/web/20241119212944/https://montreal.citynews.ca/2024/11/19/mayor-plante-polytechnique-ottawa-stricter-gun-control/"
+    },
+    "last": {
+      "datetime": "2024-11-26T18:07:31Z",
+      "uri": "https://web.archive.org/web/20241126180731/https://montreal.citynews.ca/2024/11/19/mayor-plante-polytechnique-ottawa-stricter-gun-control/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://montreal.citynews.ca/2024/11/19/mayor-plante-polytechnique-ottawa-stricter-gun-control/",
+    "json_format": "http://localhost:1208/timemap/json/https://montreal.citynews.ca/2024/11/19/mayor-plante-polytechnique-ottawa-stricter-gun-control/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://montreal.citynews.ca/2024/11/19/mayor-plante-polytechnique-ottawa-stricter-gun-control/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://montreal.citynews.ca/2024/11/19/mayor-plante-polytechnique-ottawa-stricter-gun-control/"
+}

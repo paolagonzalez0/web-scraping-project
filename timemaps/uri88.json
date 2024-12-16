@@ -1,0 +1,122 @@
+{
+  "original_uri": "https://pakeconet.com.pk/",
+  "self": "http://localhost:1208/timemap/json/https://pakeconet.com.pk/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-03-27T04:09:12Z",
+        "uri": "https://web.archive.org/web/20240327040912/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-04-15T22:21:13Z",
+        "uri": "https://web.archive.org/web/20240415222113/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-05-11T08:05:26Z",
+        "uri": "https://web.archive.org/web/20240511080526/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-05-22T05:23:38Z",
+        "uri": "https://web.archive.org/web/20240522052338/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-06-01T07:43:31Z",
+        "uri": "https://web.archive.org/web/20240601074331/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-06-17T17:16:55Z",
+        "uri": "https://web.archive.org/web/20240617171655/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-06-25T14:11:04Z",
+        "uri": "https://web.archive.org/web/20240625141104/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-07-01T10:26:34Z",
+        "uri": "https://web.archive.org/web/20240701102634/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-07-03T12:01:59Z",
+        "uri": "https://web.archive.org/web/20240703120159/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-07-04T08:02:36Z",
+        "uri": "https://web.archive.org/web/20240704080236/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-07-18T05:12:59Z",
+        "uri": "https://web.archive.org/web/20240718051259/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-08-15T17:00:38Z",
+        "uri": "https://web.archive.org/web/20240815170038/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-09-01T03:42:25Z",
+        "uri": "https://web.archive.org/web/20240901034225/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-09-06T21:37:25Z",
+        "uri": "https://web.archive.org/web/20240906213725/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-10-01T02:25:18Z",
+        "uri": "https://web.archive.org/web/20241001022518/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-10-01T09:26:44Z",
+        "uri": "https://web.archive.org/web/20241001092644/http://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-10-01T09:26:45Z",
+        "uri": "https://web.archive.org/web/20241001092645/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-10-01T09:26:45Z",
+        "uri": "https://web.archive.org/web/20241001092645/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-10-01T09:26:45Z",
+        "uri": "https://web.archive.org/web/20241001092645/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-10-01T09:26:45Z",
+        "uri": "https://web.archive.org/web/20241001092645/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-10-01T09:26:45Z",
+        "uri": "https://web.archive.org/web/20241001092645/http://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-10-01T09:26:45Z",
+        "uri": "https://web.archive.org/web/20241001092645/http://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-10-02T12:33:19Z",
+        "uri": "https://web.archive.org/web/20241002123319/http://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-10-08T21:15:01Z",
+        "uri": "https://web.archive.org/web/20241008211501/https://pakeconet.com.pk/"
+      },
+      {
+        "datetime": "2024-10-08T21:16:43Z",
+        "uri": "https://web.archive.org/web/20241008211643/https://pakeconet.com.pk/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-03-27T04:09:12Z",
+      "uri": "https://web.archive.org/web/20240327040912/https://pakeconet.com.pk/"
+    },
+    "last": {
+      "datetime": "2024-10-08T21:16:43Z",
+      "uri": "https://web.archive.org/web/20241008211643/https://pakeconet.com.pk/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://pakeconet.com.pk/",
+    "json_format": "http://localhost:1208/timemap/json/https://pakeconet.com.pk/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://pakeconet.com.pk/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://pakeconet.com.pk/"
+}

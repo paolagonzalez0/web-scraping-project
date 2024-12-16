@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://www.downtoearth.org.in/environment/vocal-for-local-combating-climate-change-with-traditional-wisdom",
+  "self": "http://localhost:1208/timemap/json/https://www.downtoearth.org.in/environment/vocal-for-local-combating-climate-change-with-traditional-wisdom",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-10-07T13:38:27Z",
+        "uri": "https://web.archive.org/web/20241007133827/https://www.downtoearth.org.in/environment/vocal-for-local-combating-climate-change-with-traditional-wisdom"
+      },
+      {
+        "datetime": "2024-10-08T09:41:04Z",
+        "uri": "https://web.archive.org/web/20241008094104/https://www.downtoearth.org.in/environment/vocal-for-local-combating-climate-change-with-traditional-wisdom"
+      },
+      {
+        "datetime": "2024-10-09T06:30:31Z",
+        "uri": "https://web.archive.org/web/20241009063031/https://www.downtoearth.org.in/environment/vocal-for-local-combating-climate-change-with-traditional-wisdom"
+      }
+    ],
+    "first": {
+      "datetime": "2024-10-07T13:38:27Z",
+      "uri": "https://web.archive.org/web/20241007133827/https://www.downtoearth.org.in/environment/vocal-for-local-combating-climate-change-with-traditional-wisdom"
+    },
+    "last": {
+      "datetime": "2024-10-09T06:30:31Z",
+      "uri": "https://web.archive.org/web/20241009063031/https://www.downtoearth.org.in/environment/vocal-for-local-combating-climate-change-with-traditional-wisdom"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.downtoearth.org.in/environment/vocal-for-local-combating-climate-change-with-traditional-wisdom",
+    "json_format": "http://localhost:1208/timemap/json/https://www.downtoearth.org.in/environment/vocal-for-local-combating-climate-change-with-traditional-wisdom",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.downtoearth.org.in/environment/vocal-for-local-combating-climate-change-with-traditional-wisdom"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.downtoearth.org.in/environment/vocal-for-local-combating-climate-change-with-traditional-wisdom"
+}

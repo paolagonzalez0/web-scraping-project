@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://secure.actblue.com/donate/ms_ra_fr_q42024_ss-pe-mf",
+  "self": "http://localhost:1208/timemap/json/https://secure.actblue.com/donate/ms_ra_fr_q42024_ss-pe-mf",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-19T07:52:48Z",
+        "uri": "https://web.archive.org/web/20241119075248/https://secure.actblue.com/donate/ms_ra_fr_q42024_ss-pe-mf"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-19T07:52:48Z",
+      "uri": "https://web.archive.org/web/20241119075248/https://secure.actblue.com/donate/ms_ra_fr_q42024_ss-pe-mf"
+    },
+    "last": {
+      "datetime": "2024-11-19T07:52:48Z",
+      "uri": "https://web.archive.org/web/20241119075248/https://secure.actblue.com/donate/ms_ra_fr_q42024_ss-pe-mf"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://secure.actblue.com/donate/ms_ra_fr_q42024_ss-pe-mf",
+    "json_format": "http://localhost:1208/timemap/json/https://secure.actblue.com/donate/ms_ra_fr_q42024_ss-pe-mf",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://secure.actblue.com/donate/ms_ra_fr_q42024_ss-pe-mf"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://secure.actblue.com/donate/ms_ra_fr_q42024_ss-pe-mf"
+}

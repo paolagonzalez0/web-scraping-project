@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.conservationlands.org/donate_2024",
+  "self": "http://localhost:1208/timemap/json/https://www.conservationlands.org/donate_2024",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-11T14:19:04Z",
+        "uri": "https://web.archive.org/web/20241211141904/https://www.conservationlands.org/donate_2024"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-11T14:19:04Z",
+      "uri": "https://web.archive.org/web/20241211141904/https://www.conservationlands.org/donate_2024"
+    },
+    "last": {
+      "datetime": "2024-12-11T14:19:04Z",
+      "uri": "https://web.archive.org/web/20241211141904/https://www.conservationlands.org/donate_2024"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.conservationlands.org/donate_2024",
+    "json_format": "http://localhost:1208/timemap/json/https://www.conservationlands.org/donate_2024",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.conservationlands.org/donate_2024"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.conservationlands.org/donate_2024"
+}

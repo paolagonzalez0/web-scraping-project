@@ -37,45 +37,43 @@ def check_link_validity(link):
             return False
     return True
 
-def extract_links_subset(start_file_number=1):
+def extract_links_subset(file_number=1):
     """
-    Takes a file number as input and extracts the links of the corresponding file and any proceeding files.
+    Extracts the links of the corresponding file.
     
     Argument(s):
-    - start_file_number: Integer representing the file at which URI extraction will begin.
+    - file_number: Integer representing the file where URI extraction will occur.
 
     Output:
-    Returns a numpy array of all unique URIs extracted and an integer representing the last file to have been processed. 
+    Returns a numpy array of all unique URIs extracted. 
     """
     tweet_counter = 1
     links = []
     st_files = glob.glob(os.path.join('../scraped_tweets', 'scraped_tweets*.json.gz'))
     # Sort the files by extracting the file number
     st_files = sorted(st_files, key=lambda x: int(re.search(r'\d+', x).group()))
-    st_files = st_files[start_file_number-1:]
-    for st_file in st_files:
-        with gzip.open(st_file, 'rb') as infile:
-            for tweet in infile:
-                # print('Reading tweet',tweet_counter,'..')
-                tweet_counter += 1
-                try:
-                    tweet = json.loads(tweet.decode())
-                    tweet_urls = tweet['entities']['urls']
-                    if tweet_urls == []:
-                        continue
-                    else:
-                        # Fetch the final URI (returns HTTP 200 response)
-                        response = requests.get(tweet_urls[0]['expanded_url'], timeout=5)
-                        if response.status_code == 200:
-                            final_link = response.url
-                        # Exclude link if it points to a video/audio-only page
-                        if check_link_validity(final_link):
-                            links.append(final_link)
-                        # Exclude link if it does not return 200 response
-                        else:
-                            continue
-                except:
+    with gzip.open(st_files[file_number-1], 'rb') as infile:
+        for tweet in infile:
+            # print('Reading tweet',tweet_counter,'..')
+            tweet_counter += 1
+            try:
+                tweet = json.loads(tweet.decode())
+                tweet_urls = tweet['entities']['urls']
+                if tweet_urls == []:
                     continue
+                else:
+                    # Fetch the final URI (returns HTTP 200 response)
+                    response = requests.get(tweet_urls[0]['expanded_url'], timeout=5)
+                    if response.status_code == 200:
+                        final_link = response.url
+                    # Exclude link if it points to a video/audio-only page
+                    if check_link_validity(final_link):
+                        links.append(final_link)
+                    # Exclude link if it does not return 200 response
+                    else:
+                        continue
+            except:
+                continue
 
     print("Processed", tweet_counter-1, "tweets..")
     print("Collected", len(np.unique(links)), "links..")
@@ -114,7 +112,7 @@ def read_duplicates():
 
         return duplicate_links
     
-def extract_links(total_links_to_scrape=1000,file_number=1):
+def extract_links(total_links_to_scrape=50,file_number=1):
     """
     Takes in the total number of links to extract and a file number at which to start URI extraction. 
     Creates a final file tweet_links.txt containing the 1000 unique links.
@@ -133,7 +131,7 @@ def extract_links(total_links_to_scrape=1000,file_number=1):
         if current_file >= collecting_tweets.get_next_file_number('../scraped_tweets'):
             return current_file
         # Extract link from tweets
-        print(f"Extracting URIs..")
+        print(f"Extracting URIs from file {current_file}..")
         extracted_links = extract_links_subset(current_file) 
         link_file_path = "../tweet_links.txt"
         # Create link txt file
@@ -158,5 +156,4 @@ def extract_links(total_links_to_scrape=1000,file_number=1):
     return None
     
 if __name__ == "__main__":
-    # result = extract_links(total_links_to_scrape=50)
-    pass
+    result = extract_links(total_links_to_scrape=500)

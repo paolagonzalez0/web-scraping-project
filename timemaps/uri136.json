@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.mdpi.com/2073-4441/15/24/4310?utm_campaign=journnews_ccbj_water&utm_medium=social_journ&utm_source=facebook",
+  "self": "http://localhost:1208/timemap/json/https://www.mdpi.com/2073-4441/15/24/4310?utm_campaign=journnews_ccbj_water&utm_medium=social_journ&utm_source=facebook",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-12T18:21:22Z",
+        "uri": "https://web.archive.org/web/20241212182122/https://www.mdpi.com/2073-4441/15/24/4310?utm_campaign=journnews_ccbj_water&utm_medium=social_journ&utm_source=facebook"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-12T18:21:22Z",
+      "uri": "https://web.archive.org/web/20241212182122/https://www.mdpi.com/2073-4441/15/24/4310?utm_campaign=journnews_ccbj_water&utm_medium=social_journ&utm_source=facebook"
+    },
+    "last": {
+      "datetime": "2024-12-12T18:21:22Z",
+      "uri": "https://web.archive.org/web/20241212182122/https://www.mdpi.com/2073-4441/15/24/4310?utm_campaign=journnews_ccbj_water&utm_medium=social_journ&utm_source=facebook"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.mdpi.com/2073-4441/15/24/4310?utm_campaign=journnews_ccbj_water&utm_medium=social_journ&utm_source=facebook",
+    "json_format": "http://localhost:1208/timemap/json/https://www.mdpi.com/2073-4441/15/24/4310?utm_campaign=journnews_ccbj_water&utm_medium=social_journ&utm_source=facebook",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.mdpi.com/2073-4441/15/24/4310?utm_campaign=journnews_ccbj_water&utm_medium=social_journ&utm_source=facebook"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.mdpi.com/2073-4441/15/24/4310?utm_campaign=journnews_ccbj_water&utm_medium=social_journ&utm_source=facebook"
+}

@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://www.foxnews.com/politics/incoming-gop-senator-reveals-strap-rocket-boosters-trumps-agenda-new-congress",
+  "self": "http://localhost:1208/timemap/json/https://www.foxnews.com/politics/incoming-gop-senator-reveals-strap-rocket-boosters-trumps-agenda-new-congress",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-06T16:46:02Z",
+        "uri": "https://web.archive.org/web/20241206164602/https://www.foxnews.com/politics/incoming-gop-senator-reveals-strap-rocket-boosters-trumps-agenda-new-congress"
+      },
+      {
+        "datetime": "2024-12-06T17:04:45Z",
+        "uri": "http://archive.md/20241206170445/https://www.foxnews.com/politics/incoming-gop-senator-reveals-strap-rocket-boosters-trumps-agenda-new-congress"
+      },
+      {
+        "datetime": "2024-12-07T12:39:47Z",
+        "uri": "https://web.archive.org/web/20241207123947/https://www.foxnews.com/politics/incoming-gop-senator-reveals-strap-rocket-boosters-trumps-agenda-new-congress"
+      },
+      {
+        "datetime": "2024-12-07T20:50:49Z",
+        "uri": "https://web.archive.org/web/20241207205049/https://www.foxnews.com/politics/incoming-gop-senator-reveals-strap-rocket-boosters-trumps-agenda-new-congress"
+      },
+      {
+        "datetime": "2024-12-08T07:48:20Z",
+        "uri": "https://web.archive.org/web/20241208074820/https://www.foxnews.com/politics/incoming-gop-senator-reveals-strap-rocket-boosters-trumps-agenda-new-congress"
+      },
+      {
+        "datetime": "2024-12-10T00:42:35Z",
+        "uri": "https://web.archive.org/web/20241210004235/https://www.foxnews.com/politics/incoming-gop-senator-reveals-strap-rocket-boosters-trumps-agenda-new-congress"
+      },
+      {
+        "datetime": "2024-12-14T05:09:13Z",
+        "uri": "https://web.archive.org/web/20241214050913/https://www.foxnews.com/politics/incoming-gop-senator-reveals-strap-rocket-boosters-trumps-agenda-new-congress"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-06T16:46:02Z",
+      "uri": "https://web.archive.org/web/20241206164602/https://www.foxnews.com/politics/incoming-gop-senator-reveals-strap-rocket-boosters-trumps-agenda-new-congress"
+    },
+    "last": {
+      "datetime": "2024-12-14T05:09:13Z",
+      "uri": "https://web.archive.org/web/20241214050913/https://www.foxnews.com/politics/incoming-gop-senator-reveals-strap-rocket-boosters-trumps-agenda-new-congress"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.foxnews.com/politics/incoming-gop-senator-reveals-strap-rocket-boosters-trumps-agenda-new-congress",
+    "json_format": "http://localhost:1208/timemap/json/https://www.foxnews.com/politics/incoming-gop-senator-reveals-strap-rocket-boosters-trumps-agenda-new-congress",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.foxnews.com/politics/incoming-gop-senator-reveals-strap-rocket-boosters-trumps-agenda-new-congress"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.foxnews.com/politics/incoming-gop-senator-reveals-strap-rocket-boosters-trumps-agenda-new-congress"
+}

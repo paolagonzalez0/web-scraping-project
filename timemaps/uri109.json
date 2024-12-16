@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.theguardian.com/business/2024/dec/15/walmart-dei-diversity-equity-inclusion-rollback",
+  "self": "http://localhost:1208/timemap/json/https://www.theguardian.com/business/2024/dec/15/walmart-dei-diversity-equity-inclusion-rollback",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-15T12:29:28Z",
+        "uri": "http://archive.md/20241215122928/https://www.theguardian.com/business/2024/dec/15/walmart-dei-diversity-equity-inclusion-rollback"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-15T12:29:28Z",
+      "uri": "http://archive.md/20241215122928/https://www.theguardian.com/business/2024/dec/15/walmart-dei-diversity-equity-inclusion-rollback"
+    },
+    "last": {
+      "datetime": "2024-12-15T12:29:28Z",
+      "uri": "http://archive.md/20241215122928/https://www.theguardian.com/business/2024/dec/15/walmart-dei-diversity-equity-inclusion-rollback"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.theguardian.com/business/2024/dec/15/walmart-dei-diversity-equity-inclusion-rollback",
+    "json_format": "http://localhost:1208/timemap/json/https://www.theguardian.com/business/2024/dec/15/walmart-dei-diversity-equity-inclusion-rollback",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.theguardian.com/business/2024/dec/15/walmart-dei-diversity-equity-inclusion-rollback"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.theguardian.com/business/2024/dec/15/walmart-dei-diversity-equity-inclusion-rollback"
+}

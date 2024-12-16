@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.ilo.org/regions-and-countries/europe-and-central-asia/turkiye/procurement",
+  "self": "http://localhost:1208/timemap/json/https://www.ilo.org/regions-and-countries/europe-and-central-asia/turkiye/procurement",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-15T00:32:54Z",
+        "uri": "https://web.archive.org/web/20241215003254/https://ilo.org/regions-and-countries/europe-and-central-asia/turkiye/procurement"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-15T00:32:54Z",
+      "uri": "https://web.archive.org/web/20241215003254/https://ilo.org/regions-and-countries/europe-and-central-asia/turkiye/procurement"
+    },
+    "last": {
+      "datetime": "2024-12-15T00:32:54Z",
+      "uri": "https://web.archive.org/web/20241215003254/https://ilo.org/regions-and-countries/europe-and-central-asia/turkiye/procurement"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.ilo.org/regions-and-countries/europe-and-central-asia/turkiye/procurement",
+    "json_format": "http://localhost:1208/timemap/json/https://www.ilo.org/regions-and-countries/europe-and-central-asia/turkiye/procurement",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ilo.org/regions-and-countries/europe-and-central-asia/turkiye/procurement"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.ilo.org/regions-and-countries/europe-and-central-asia/turkiye/procurement"
+}

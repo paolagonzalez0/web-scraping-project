@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://thewest.com.au/news/education/minister-orders-review-after-hampton-shs-employs-teacher-previously-suspended-over-feelings-for-student-c-17063945",
+  "self": "http://localhost:1208/timemap/json/https://thewest.com.au/news/education/minister-orders-review-after-hampton-shs-employs-teacher-previously-suspended-over-feelings-for-student-c-17063945",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-15T20:15:59Z",
+        "uri": "http://archive.md/20241215201559/https://thewest.com.au/news/education/minister-orders-review-after-hampton-shs-employs-teacher-previously-suspended-over-feelings-for-student-c-17063945"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-15T20:15:59Z",
+      "uri": "http://archive.md/20241215201559/https://thewest.com.au/news/education/minister-orders-review-after-hampton-shs-employs-teacher-previously-suspended-over-feelings-for-student-c-17063945"
+    },
+    "last": {
+      "datetime": "2024-12-15T20:15:59Z",
+      "uri": "http://archive.md/20241215201559/https://thewest.com.au/news/education/minister-orders-review-after-hampton-shs-employs-teacher-previously-suspended-over-feelings-for-student-c-17063945"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://thewest.com.au/news/education/minister-orders-review-after-hampton-shs-employs-teacher-previously-suspended-over-feelings-for-student-c-17063945",
+    "json_format": "http://localhost:1208/timemap/json/https://thewest.com.au/news/education/minister-orders-review-after-hampton-shs-employs-teacher-previously-suspended-over-feelings-for-student-c-17063945",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://thewest.com.au/news/education/minister-orders-review-after-hampton-shs-employs-teacher-previously-suspended-over-feelings-for-student-c-17063945"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://thewest.com.au/news/education/minister-orders-review-after-hampton-shs-employs-teacher-previously-suspended-over-feelings-for-student-c-17063945"
+}

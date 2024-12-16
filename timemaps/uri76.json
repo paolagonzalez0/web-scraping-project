@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.globalwitness.org/en/campaigns/environmental-activists/how-militarisation-mining-threatens-indigenous-defenders-philippines/",
+  "self": "http://localhost:1208/timemap/json/https://www.globalwitness.org/en/campaigns/environmental-activists/how-militarisation-mining-threatens-indigenous-defenders-philippines/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-03T02:00:11Z",
+        "uri": "https://web.archive.org/web/20241203020011/https://www.globalwitness.org/en/campaigns/environmental-activists/how-militarisation-mining-threatens-indigenous-defenders-philippines/"
+      },
+      {
+        "datetime": "2024-12-04T04:39:02Z",
+        "uri": "https://web.archive.org/web/20241204043902/https://www.globalwitness.org/en/campaigns/environmental-activists/how-militarisation-mining-threatens-indigenous-defenders-philippines/"
+      },
+      {
+        "datetime": "2024-12-06T06:08:34Z",
+        "uri": "https://web.archive.org/web/20241206060834/https://www.globalwitness.org/en/campaigns/environmental-activists/how-militarisation-mining-threatens-indigenous-defenders-philippines/"
+      },
+      {
+        "datetime": "2024-12-06T06:19:05Z",
+        "uri": "https://web.archive.org/web/20241206061905/https://www.globalwitness.org/en/campaigns/environmental-activists/how-militarisation-mining-threatens-indigenous-defenders-philippines/"
+      },
+      {
+        "datetime": "2024-12-06T06:24:58Z",
+        "uri": "https://web.archive.org/web/20241206062458/https://www.globalwitness.org/en/campaigns/environmental-activists/how-militarisation-mining-threatens-indigenous-defenders-philippines/"
+      },
+      {
+        "datetime": "2024-12-06T06:35:51Z",
+        "uri": "https://web.archive.org/web/20241206063551/https://www.globalwitness.org/en/campaigns/environmental-activists/how-militarisation-mining-threatens-indigenous-defenders-philippines/"
+      },
+      {
+        "datetime": "2024-12-07T23:27:26Z",
+        "uri": "https://web.archive.org/web/20241207232726/https://www.globalwitness.org/en/campaigns/environmental-activists/how-militarisation-mining-threatens-indigenous-defenders-philippines/"
+      },
+      {
+        "datetime": "2024-12-08T01:02:41Z",
+        "uri": "https://web.archive.org/web/20241208010241/https://www.globalwitness.org/en/campaigns/environmental-activists/how-militarisation-mining-threatens-indigenous-defenders-philippines/"
+      },
+      {
+        "datetime": "2024-12-13T21:00:23Z",
+        "uri": "https://web.archive.org/web/20241213210023/https://www.globalwitness.org/en/campaigns/environmental-activists/how-militarisation-mining-threatens-indigenous-defenders-philippines/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-03T02:00:11Z",
+      "uri": "https://web.archive.org/web/20241203020011/https://www.globalwitness.org/en/campaigns/environmental-activists/how-militarisation-mining-threatens-indigenous-defenders-philippines/"
+    },
+    "last": {
+      "datetime": "2024-12-13T21:00:23Z",
+      "uri": "https://web.archive.org/web/20241213210023/https://www.globalwitness.org/en/campaigns/environmental-activists/how-militarisation-mining-threatens-indigenous-defenders-philippines/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.globalwitness.org/en/campaigns/environmental-activists/how-militarisation-mining-threatens-indigenous-defenders-philippines/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.globalwitness.org/en/campaigns/environmental-activists/how-militarisation-mining-threatens-indigenous-defenders-philippines/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.globalwitness.org/en/campaigns/environmental-activists/how-militarisation-mining-threatens-indigenous-defenders-philippines/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.globalwitness.org/en/campaigns/environmental-activists/how-militarisation-mining-threatens-indigenous-defenders-philippines/"
+}

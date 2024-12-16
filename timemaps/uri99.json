@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.beavertonvalleytimes.com/business/this-beaverton-starbucks-just-joined-the-ranks-of-unionized-stores/article_6a5fcbe6-b763-5bb1-a205-11fed3c3fd54.html",
+  "self": "http://localhost:1208/timemap/json/https://www.beavertonvalleytimes.com/business/this-beaverton-starbucks-just-joined-the-ranks-of-unionized-stores/article_6a5fcbe6-b763-5bb1-a205-11fed3c3fd54.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-15T11:43:53Z",
+        "uri": "https://web.archive.org/web/20241115114353/https://www.beavertonvalleytimes.com/business/this-beaverton-starbucks-just-joined-the-ranks-of-unionized-stores/article_6a5fcbe6-b763-5bb1-a205-11fed3c3fd54.html"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-15T11:43:53Z",
+      "uri": "https://web.archive.org/web/20241115114353/https://www.beavertonvalleytimes.com/business/this-beaverton-starbucks-just-joined-the-ranks-of-unionized-stores/article_6a5fcbe6-b763-5bb1-a205-11fed3c3fd54.html"
+    },
+    "last": {
+      "datetime": "2024-11-15T11:43:53Z",
+      "uri": "https://web.archive.org/web/20241115114353/https://www.beavertonvalleytimes.com/business/this-beaverton-starbucks-just-joined-the-ranks-of-unionized-stores/article_6a5fcbe6-b763-5bb1-a205-11fed3c3fd54.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.beavertonvalleytimes.com/business/this-beaverton-starbucks-just-joined-the-ranks-of-unionized-stores/article_6a5fcbe6-b763-5bb1-a205-11fed3c3fd54.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.beavertonvalleytimes.com/business/this-beaverton-starbucks-just-joined-the-ranks-of-unionized-stores/article_6a5fcbe6-b763-5bb1-a205-11fed3c3fd54.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.beavertonvalleytimes.com/business/this-beaverton-starbucks-just-joined-the-ranks-of-unionized-stores/article_6a5fcbe6-b763-5bb1-a205-11fed3c3fd54.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.beavertonvalleytimes.com/business/this-beaverton-starbucks-just-joined-the-ranks-of-unionized-stores/article_6a5fcbe6-b763-5bb1-a205-11fed3c3fd54.html"
+}

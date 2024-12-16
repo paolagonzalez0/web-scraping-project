@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.croakey.org/making-history-creating-waves-of-change-for-planetary-health-equity/",
+  "self": "http://localhost:1208/timemap/json/https://www.croakey.org/making-history-creating-waves-of-change-for-planetary-health-equity/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-13T20:31:36Z",
+        "uri": "https://web.archive.org/web/20241213203136/https://www.croakey.org/making-history-creating-waves-of-change-for-planetary-health-equity"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-13T20:31:36Z",
+      "uri": "https://web.archive.org/web/20241213203136/https://www.croakey.org/making-history-creating-waves-of-change-for-planetary-health-equity"
+    },
+    "last": {
+      "datetime": "2024-12-13T20:31:36Z",
+      "uri": "https://web.archive.org/web/20241213203136/https://www.croakey.org/making-history-creating-waves-of-change-for-planetary-health-equity"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.croakey.org/making-history-creating-waves-of-change-for-planetary-health-equity/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.croakey.org/making-history-creating-waves-of-change-for-planetary-health-equity/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.croakey.org/making-history-creating-waves-of-change-for-planetary-health-equity/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.croakey.org/making-history-creating-waves-of-change-for-planetary-health-equity/"
+}

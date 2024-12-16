@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://us02web.zoom.us/meeting/register/tZEtcO2srj0jHdDFFTdbm0zzrudd7t6MgqFl#/registration",
+  "self": "http://localhost:1208/timemap/json/https://us02web.zoom.us/meeting/register/tZEtcO2srj0jHdDFFTdbm0zzrudd7t6MgqFl#/registration",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-11T18:03:38Z",
+        "uri": "https://web.archive.org/web/20241211180338/https://us02web.zoom.us/meeting/register/tZEtcO2srj0jHdDFFTdbm0zzrudd7t6MgqFl"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-11T18:03:38Z",
+      "uri": "https://web.archive.org/web/20241211180338/https://us02web.zoom.us/meeting/register/tZEtcO2srj0jHdDFFTdbm0zzrudd7t6MgqFl"
+    },
+    "last": {
+      "datetime": "2024-12-11T18:03:38Z",
+      "uri": "https://web.archive.org/web/20241211180338/https://us02web.zoom.us/meeting/register/tZEtcO2srj0jHdDFFTdbm0zzrudd7t6MgqFl"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://us02web.zoom.us/meeting/register/tZEtcO2srj0jHdDFFTdbm0zzrudd7t6MgqFl#/registration",
+    "json_format": "http://localhost:1208/timemap/json/https://us02web.zoom.us/meeting/register/tZEtcO2srj0jHdDFFTdbm0zzrudd7t6MgqFl#/registration",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://us02web.zoom.us/meeting/register/tZEtcO2srj0jHdDFFTdbm0zzrudd7t6MgqFl#/registration"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://us02web.zoom.us/meeting/register/tZEtcO2srj0jHdDFFTdbm0zzrudd7t6MgqFl#/registration"
+}

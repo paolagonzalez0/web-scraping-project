@@ -32,18 +32,15 @@ def collect_timemap(link):
         # Strip out extraneous text
         json_content = extract_json(result,link)   
         return json_content
-
+    # Error handling
     except subprocess.TimeoutExpired as e:
         print("ERROR OCCURRED:", command)
         print(e)
         return None
-        # return str({"original_uri":f"{link}"}).replace("\'","\"")
     except subprocess.CalledProcessError as e:
         print("ERROR OCCURRED:", command)
         print(e)
         return None
-        # return str({"original_uri":f"{link}"}).replace("\'","\"")
-
     
 def save_timemaps(start_line=None):
     """
@@ -54,23 +51,28 @@ def save_timemaps(start_line=None):
     """
     with open('../tweet_links.txt', 'r') as file:
         links = file.read().splitlines()
+        # Start processing at given file, if specified.
         if start_line is not None:
             links = links[start_line-1:]
         for i, link in enumerate(links):
             if start_line is not None:
-                if not os.path.exists("timemaps"):
-                    os.makedirs("timemaps")
-                with open(f"timemaps/uri{i+start_line}.json", "w") as json_file:
+                # Create directory to store timemap data
+                if not os.path.exists("../timemaps"):
+                    os.makedirs("../timemaps")
+                with open(f"../timemaps/uri{i+start_line}.json", "w") as json_file:
                     print(f"Collecting URI {i+start_line}: {link}..")
+                    # Collect time map data and create a JSON file for a given URI
                     json_content = collect_timemap(link)
                     json_file.write(json_content)
             else:
-                if not os.path.exists("timemaps"):
-                    os.makedirs("timemaps")
-                with open(f"timemaps/uri{i+1}.json", "w") as json_file:
+                # Create directory to store timemap data
+                if not os.path.exists("../timemaps"):
+                    os.makedirs("../timemaps")
+                with open(f"../timemaps/uri{i+1}.json", "w") as json_file:
                     print(f"Collecting URI {i+1}..")
+                    # Collect time map data and create a JSON file for a given URI
                     json_content = collect_timemap(link)
                     json_file.write(json_content)
 
 if __name__ == "__main__":
-    save_timemaps()
+    save_timemaps(40)
