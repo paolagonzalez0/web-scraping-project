@@ -27,7 +27,7 @@ This project can be executed in two approaches. The first approach involves both
 - Next, the analysis of the project can be executed by opening and running the code in `analysis.ipynb`. This notebook showcases the results and summary statistics calculated on the collected data.
 
 **To execute the project without data collection:**
-- The analysis of the project can be executed by opening and running the code in \texttt{analysis.ipynb}. This notebook uses previously collected data to calculate the results and summary statistics showcased in final analysis.
+- The analysis of the project can be executed by opening and running the code in `analysis.ipynb`. This notebook uses previously collected data to calculate the results and summary statistics showcased in final analysis.
 
 ### Prerequisites
 
