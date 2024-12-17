@@ -3,7 +3,7 @@
 The project writeup can be found [here](documentation/documentation.pdf).
 
 ### Project Description
-This project focuses on the collection and analysis of web-linked resources (URIs) shared through tweets, specifically around social movements. By scraping tweets that discuss key topics related to movements such as climate change, racial justice, and gender equality, this project aims to examine how well the linked content (often news articles, studies, or other online resources) is preserved over time. The study specifically tracks how these web resources are archived using web mementos (time snapshots), assessing the availability and longevity of these crucial records in the digital archive.
+This project focuses on the collection and analysis of web-linked resources (URIs) shared through tweets, specifically around social movements. By scraping tweets that discuss key topics related to various social movements such as climate change, racial justice, and gender equality, this project aims to examine how well the linked content (often news articles, studies, or other online resources) is preserved over time. The study specifically tracks how these web resources are archived using web mementos (time snapshots), assessing the availability and longevity of these crucial records in the digital archive.
 
 ### Project Summary and Objectives
 
@@ -13,6 +13,21 @@ This project is structured into four key phases:
 2. URI Extraction: Identify and extract URIs embedded within the collected tweets.
 3. Timemap Retrieval: Use MemGator to obtain timemaps (lists of mementos) for each extracted URI.
 4. Memento Analysis: Analyze the mementos to uncover patterns in the preservation of digital resources associated with social movements.
+
+### Project Execution
+This project can be executed in two approaches. The first approach involves both data collection and analysis, covering all four phases of the project: tweet collection, URI extraction, timemap retrieval, and memento analysis. The second approach uses previously existing data to run phase four of the project exclusively, without collecting new data.
+
+**To execute all four phases of the project:**
+- Ensure the prerequisites in next section of the documentation are met.
+- Run the tweet collection, URI extraction, and timemap retrieval processes by navigating to the scripts directory and running the following command in terminal:
+    - `python main.py --total_links_to_scrape 150`
+    - Upon running this command, the Nightly browser should open automatically to the Twitter log in page. From here, input your login credentials from your new Twitter account and the program will begin executing the first three phases of the project.
+    - In this example, the program will collect data until 150 URIs have been saved. To collect more or less URIs, replace 150 with the desired number of URIs to be analyzed.
+    - Note: This program has been run previously to collect sample data. By running the program again, new data will be added to the previously existing data.
+- Next, the analysis of the project can be executed by opening and running the code in `analysis.ipynb`. This notebook showcases the results and summary statistics calculated on the collected data.
+
+**To execute the project without data collection:**
+- The analysis of the project can be executed by opening and running the code in \texttt{analysis.ipynb}. This notebook uses previously collected data to calculate the results and summary statistics showcased in final analysis.
 
 ### Prerequisites
 
@@ -52,13 +67,3 @@ Memgator by running the following command in your terminal:
     - `playwright install`
 - Network Access
     - Ensure you have stable internet access for scraping.
-
-
-### Project Execution
-After meeting the prerequisites, the program can be run by navigating to the scripts directory and running the following command in terminal:
-
-`python main.py`
-
-- Note: This program has been run previously to collect sample data. By running the program again, new data will be added to the previously existing data.
-
-Upon running this command, the Nightly browser will open automatically to the Twitter log in page. From here, input your login credentials from your new Twitter account and the program will begin scraping tweets and extracting URIs.

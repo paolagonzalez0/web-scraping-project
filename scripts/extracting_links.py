@@ -156,4 +156,5 @@ def extract_links(total_links_to_scrape=50,file_number=1):
     return None
     
 if __name__ == "__main__":
-    result = extract_links(total_links_to_scrape=500)
+    # result = extract_links(total_links_to_scrape=150)
+    pass

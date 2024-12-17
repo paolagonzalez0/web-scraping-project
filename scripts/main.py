@@ -1,16 +1,26 @@
-from scripts.collecting_tweets import get_topics, collect_tweets
-from scripts.extracting_links import extract_links, link_count
-from scripts.get_timemaps import save_timemaps
+from collecting_tweets import get_topics, collect_tweets
+from extracting_links import extract_links, link_count
+from get_timemaps import save_timemaps
 import math
 import shutil
+import argparse
 
 def main():
     '''
     Runs the main program excluding the memento analysis. Scrapes tweets via web scraping, extracts requested number of URIs, and collects 
     timemap for each URI.
     '''
-    # Will be taken in from the command line
-    total_links_to_scrape = 150
+    # Parse command-line arguments
+    parser = argparse.ArgumentParser(description="Run the tweet scraping and link processing pipeline.")
+    parser.add_argument(
+        "--total_links_to_scrape", 
+        type=int, 
+        default=50, 
+        help="Total number of links to scrape (default: 50)"
+    )
+    # Fetch the number of links to scrape
+    args = parser.parse_args()
+    total_links_to_scrape = args.total_links_to_scrape
 
     # Scrape 200 tweets to start on 5 random social movements
     keywords = get_topics(5)
@@ -28,15 +38,15 @@ def main():
         keywords = get_topics(5)
         collect_tweets(keywords, total_tweets_to_scrape=tweets_to_scrape)
         result = extract_links(total_links_to_scrape=total_links_to_scrape, file_number=result)
-    # Fetch the time map for each URI
-    save_timemaps()
 
     # After tweet collection, delete cache and browser storage
     shutil.rmtree("__pycache__")
     shutil.rmtree("playwright-browser-storage")
 
-    return
+    # Fetch the time map for each URI
+    save_timemaps()
 
+    return
 
 if __name__ == "__main__":
     main()

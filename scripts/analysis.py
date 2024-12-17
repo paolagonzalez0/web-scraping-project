@@ -2,8 +2,8 @@ import json
 import os
 import glob
 import pandas as pd
-from datetime import datetime as dt
 import matplotlib.pyplot as plt
+from datetime import datetime as dt
 
 """
 This script calculates statistics about the timemap JSON files collected from the extracted URIs.
@@ -192,6 +192,8 @@ def summary_statistics():
     young_uri_count = sum(1 for age in uri_ages_stripped if age < 7)
     young_decimal = young_uri_count/len(uri_ages)
     print(f"Approximately {young_decimal * 100:.0f}% of the URIs had their first memento collected in the same week as data collection.\n")
+    return
+
 def get_results():
     """
     Generates a dataframe containing the URI, the memento count for the URI, the age of the earliest memento using the URI's timemap data.
@@ -250,4 +252,6 @@ def get_scatterplot():
     plt.ylabel('Number of Mementos')
     plt.title('Age vs. Number of Mementos')
     plt.grid(True)
-    plt.show
+    plt.show()
+
+    return
